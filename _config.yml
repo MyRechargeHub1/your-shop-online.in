@@ -1,0 +1,12 @@
+# GitHub Pages Configuration
+url: "https://your-shop-online.in"
+baseurl: ""
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - .git
+  - .gitignore
+
+# Force HTTPS
+enforce_ssl: your-shop-online.in
