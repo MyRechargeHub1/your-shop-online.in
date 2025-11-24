@@ -11,6 +11,7 @@ A modern, responsive e-commerce website built with HTML, CSS, and JavaScript, ho
 - ✨ Animations and transitions
 - 🚀 Fast and lightweight
 - 🔍 Product showcase with categories
+- 📝 Blog with Amazon Best Sellers reviews (Amazon Affiliate integration)
 - 📧 Contact form and newsletter subscription
 
 ## Live Demo
@@ -22,19 +23,28 @@ Visit the live website at: `https://your-username.github.io/your-shop-online.in/
 ```
 your-shop-online.in/
 ├── index.html          # Main HTML file
-├── styles.css          # Stylesheet
+├── blog.html           # Blog page with Amazon Best Sellers
+├── styles.css          # Main stylesheet
+├── blog-styles.css     # Blog-specific styles
 ├── script.js           # JavaScript functionality
 └── README.md           # Documentation
 ```
 
 ## Sections
 
+### Home Page (index.html)
 1. **Hero Section** - Welcome banner with call-to-action
 2. **Features** - Key benefits (Free Shipping, Easy Returns, Secure Payment, 24/7 Support)
 3. **Products** - Showcase of featured products with add-to-cart functionality
 4. **About** - Information about the business
 5. **Contact** - Contact information and form
 6. **Footer** - Links, newsletter subscription, and social media
+
+### Blog Page (blog.html)
+- **10 Blog Posts** featuring Amazon Best Sellers 2024
+- Categories: VR Gaming, Audio, Gaming Accessories, Tablets, Fitness Trackers, and more
+- Amazon Affiliate links with Store ID: topgaming2303-20
+- Detailed product reviews and recommendations
 
 ## Functionality
 
