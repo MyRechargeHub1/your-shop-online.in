@@ -5,6 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Page not found - Your Shop Online">
     <title>404 - Page Not Found | Your Shop Online</title>
+    <script>
+        // Immediate subdomain redirect - executes before page renders
+        (function() {
+            const hostname = window.location.hostname;
+            const targetDomain = 'your-shop-online.in';
+            if (hostname !== targetDomain && (hostname.endsWith('.' + targetDomain) || hostname.endsWith('.github.io'))) {
+                window.location.replace(window.location.protocol + '//' + targetDomain + window.location.pathname + window.location.search + window.location.hash);
+            }
+        })();
+    </script>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
