@@ -1,11 +1,41 @@
 # robots.txt for your-shop-online.in
+# Amazon Affiliate Blog - US Market
+# Last updated: 2024-11-25
 
-# Allow all search engines to crawl everything
+# Default rules for all search engines
 User-agent: *
 Allow: /
+Disallow: /404.html
 
 # Sitemap location
 Sitemap: https://your-shop-online.in/sitemap.xml
 
-# Crawl delay (optional - helps prevent server overload)
-Crawl-delay: 1
+# Google-specific rules (optional - for better indexing)
+User-agent: Googlebot
+Allow: /
+Disallow: /404.html
+
+# Bing-specific rules
+User-agent: Bingbot
+Allow: /
+Disallow: /404.html
+
+# Block bad bots that scrape content
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+# Allow social media crawlers for better sharing
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
