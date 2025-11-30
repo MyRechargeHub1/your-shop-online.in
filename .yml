@@ -1,0 +1,2 @@
+- name: DockAI - AI Dockerfile Generation Framework
+  uses: itzzjb/dockai@v3.1.1
