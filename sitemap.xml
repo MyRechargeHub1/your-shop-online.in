@@ -4,7 +4,7 @@
   <!-- Home Page (Blog) -->
   <url>
     <loc>https://your-shop-online.in/</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -423,6 +423,84 @@
   <url>
     <loc>https://your-shop-online.in/Posts/delonghi-specialista-maestro.html</loc>
     <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- New Premium 2025 Best Sellers (Batch 11 - December 2025) -->
+  <url>
+    <loc>https://your-shop-online.in/Posts/amazon-echo-hub.html</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://your-shop-online.in/Posts/apple-homepod-2.html</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://your-shop-online.in/Posts/apple-vision-pro.html</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://your-shop-online.in/Posts/dell-xps-17-2025.html</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://your-shop-online.in/Posts/macbook-pro-16-m3-max.html</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://your-shop-online.in/Posts/macbook-pro-16-m4-max.html</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://your-shop-online.in/Posts/meta-quest-3.html</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://your-shop-online.in/Posts/microsoft-surface-pro-10.html</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://your-shop-online.in/Posts/samsung-galaxy-s25-ultra.html</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://your-shop-online.in/Posts/samsung-galaxy-z-fold-6.html</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://your-shop-online.in/Posts/sony-wf-1000xm6.html</loc>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
