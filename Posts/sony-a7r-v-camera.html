@@ -115,5 +115,48 @@
         <p>&copy; 2025 Your Shop Online. All rights reserved.</p>
     </footer>
     <script src="../script.js"></script>
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Review",
+    "itemReviewed": {
+        "@type": "Product",
+        "name": "Sony A7R V",
+        "image": "../logo.svg",
+        "description": "Comprehensive review of the Sony A7R V camera",
+        "brand": {
+            "@type": "Brand",
+            "name": "Sony"
+        },
+        "offers": {
+            "@type": "Offer",
+            "url": "https://www.amazon.com/s?k=Sony%20A7R%20V&tag=topgaming2303-20",
+            "priceCurrency": "USD",
+            "price": "1999",
+            "availability": "https://schema.org/InStock"
+        }
+    },
+    "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "9",
+        "bestRating": "10"
+    },
+    "author": {
+        "@type": "Organization",
+        "name": "YourShop Online"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "YourShop Online",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://your-shop-online.in/logo.svg"
+        }
+    },
+    "datePublished": "2025-12-03"
+}
+    </script>
 </body>
 </html>

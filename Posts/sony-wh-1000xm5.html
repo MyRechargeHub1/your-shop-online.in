@@ -446,5 +446,48 @@
         </div>
     </div>
     <script src="../script.js"></script>
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Review",
+    "itemReviewed": {
+        "@type": "Product",
+        "name": "Sony WH",
+        "image": "https://your-shop-online.in/images/products/sony-wh-1000xm5.jpg",
+        "description": "Sony WH-1000XM5 Review: Industry-leading noise cancellation, 30-hour battery, superior sound quality. Best premium headphones at $398. Complete guide - Perfect for US shoppers.",
+        "brand": {
+            "@type": "Brand",
+            "name": "Sony"
+        },
+        "offers": {
+            "@type": "Offer",
+            "url": "https://www.amazon.com/s?k=Sony%20WH&tag=topgaming2303-20",
+            "priceCurrency": "USD",
+            "price": "199",
+            "availability": "https://schema.org/InStock"
+        }
+    },
+    "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "9",
+        "bestRating": "10"
+    },
+    "author": {
+        "@type": "Organization",
+        "name": "YourShop Online"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "YourShop Online",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://your-shop-online.in/logo.svg"
+        }
+    },
+    "datePublished": "2025-12-03"
+}
+    </script>
 </body>
 </html>
