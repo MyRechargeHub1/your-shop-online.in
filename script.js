@@ -176,6 +176,7 @@ document.addEventListener('DOMContentLoaded', function() {
 // Load products into the grid
 function loadProducts() {
     const productsGrid = document.getElementById('products-grid');
+    if (!productsGrid) return; // Exit if element doesn't exist
 
     products.forEach(product => {
         const productCard = createProductCard(product);
@@ -239,6 +240,7 @@ function removeFromCart(productId) {
 // Update cart count badge
 function updateCartCount() {
     const cartCount = document.querySelector('.cart-count');
+    if (!cartCount) return; // Exit if element doesn't exist
     const totalItems = cart.reduce((sum, item) => sum + item.quantity, 0);
     cartCount.textContent = totalItems;
 }
