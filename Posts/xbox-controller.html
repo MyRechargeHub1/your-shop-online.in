@@ -376,5 +376,48 @@
         </div>
     </div>
     <script src="../script.js"></script>
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Review",
+    "itemReviewed": {
+        "@type": "Product",
+        "name": "Xbox Wireless Controller",
+        "image": "https://your-shop-online.in/logo.svg",
+        "description": "Xbox Wireless Controller review analyzing ergonomics, battery life, and compatibility. Is Microsoft",
+        "brand": {
+            "@type": "Brand",
+            "name": "Xbox"
+        },
+        "offers": {
+            "@type": "Offer",
+            "url": "https://www.amazon.com/s?k=Xbox%20Wireless%20Controller&tag=topgaming2303-20",
+            "priceCurrency": "USD",
+            "price": "199",
+            "availability": "https://schema.org/InStock"
+        }
+    },
+    "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "9",
+        "bestRating": "10"
+    },
+    "author": {
+        "@type": "Organization",
+        "name": "YourShop Online"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "YourShop Online",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://your-shop-online.in/logo.svg"
+        }
+    },
+    "datePublished": "2025-12-03"
+}
+    </script>
 </body>
 </html>

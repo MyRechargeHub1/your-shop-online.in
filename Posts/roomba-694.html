@@ -43,6 +43,32 @@
 </head>
 <body>
     <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-wrapper">
+                <div class="logo">
+                    <img src="../logo.svg" alt="YourShop Logo" class="logo-img">
+                    <span>YourShop</span>
+                </div>
+                <ul class="nav-menu">
+                    <li><a href="../index.html">Home</a></li>
+                    <li><a href="../about.html">About</a></li>
+                    <li><a href="../contact.html">Contact</a></li>
+                </ul>
+                <div class="nav-icons">
+                    <button class="icon-btn" id="search-btn">
+                        <i class="fas fa-search"></i>
+                    </button>
+                    <button class="mobile-menu-btn" id="mobile-menu-btn">
+                        <i class="fas fa-bars"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+
+    <!-- Navigation -->
     <nav>
         <div class="container nav-container">
             <a href="../index.html" class="logo">
@@ -450,5 +476,48 @@
         </div>
     </div>
     <script src="../script.js"></script>
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Review",
+    "itemReviewed": {
+        "@type": "Product",
+        "name": "iRobot Roomba 694 2025",
+        "image": "https://your-shop-online.in/images/products/roomba-694.jpg",
+        "description": "Roomba 694 Review: Smart mapping, app control, automatic charging, 3-stage cleaning system. Best affordable robot vacuum at $274.99. Complete buying guide - Perfect for US shoppers.",
+        "brand": {
+            "@type": "Brand",
+            "name": "iRobot"
+        },
+        "offers": {
+            "@type": "Offer",
+            "url": "https://www.amazon.com/s?k=iRobot%20Roomba%20694%202025&tag=topgaming2303-20",
+            "priceCurrency": "USD",
+            "price": "199",
+            "availability": "https://schema.org/InStock"
+        }
+    },
+    "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "9",
+        "bestRating": "10"
+    },
+    "author": {
+        "@type": "Organization",
+        "name": "YourShop Online"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "YourShop Online",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://your-shop-online.in/logo.svg"
+        }
+    },
+    "datePublished": "2025-12-03"
+}
+    </script>
 </body>
 </html>

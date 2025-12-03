@@ -43,6 +43,32 @@
 </head>
 <body>
     <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-wrapper">
+                <div class="logo">
+                    <img src="../logo.svg" alt="YourShop Logo" class="logo-img">
+                    <span>YourShop</span>
+                </div>
+                <ul class="nav-menu">
+                    <li><a href="../index.html">Home</a></li>
+                    <li><a href="../about.html">About</a></li>
+                    <li><a href="../contact.html">Contact</a></li>
+                </ul>
+                <div class="nav-icons">
+                    <button class="icon-btn" id="search-btn">
+                        <i class="fas fa-search"></i>
+                    </button>
+                    <button class="mobile-menu-btn" id="mobile-menu-btn">
+                        <i class="fas fa-bars"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+
+    <!-- Navigation -->
     <nav>
         <div class="container nav-container">
             <a href="../index.html" class="logo">
@@ -414,5 +440,48 @@
         </div>
     </div>
     <script src="../script.js"></script>
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Review",
+    "itemReviewed": {
+        "@type": "Product",
+        "name": "Amazon Kindle Paperwhite 16GB (2024)",
+        "image": "https://your-shop-online.in/images/products/kindle-paperwhite.jpg",
+        "description": "Kindle Paperwhite 2024 Review: 16GB storage, 6.8-inch glare-free display, 10-week battery, waterproof design. Best e-reader for book lovers at $149. Complete buying guide - Perfect for US shoppers.",
+        "brand": {
+            "@type": "Brand",
+            "name": "Amazon"
+        },
+        "offers": {
+            "@type": "Offer",
+            "url": "https://www.amazon.com/s?k=Amazon%20Kindle%20Paperwhite%2016GB%20(2024)&tag=topgaming2303-20",
+            "priceCurrency": "USD",
+            "price": "199",
+            "availability": "https://schema.org/InStock"
+        }
+    },
+    "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "9",
+        "bestRating": "10"
+    },
+    "author": {
+        "@type": "Organization",
+        "name": "YourShop Online"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "YourShop Online",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://your-shop-online.in/logo.svg"
+        }
+    },
+    "datePublished": "2025-12-03"
+}
+    </script>
 </body>
 </html>
