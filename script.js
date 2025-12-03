@@ -160,7 +160,17 @@ const searchProducts = [
     { title: "Tile Pro Bluetooth Tracker Review - Best Item Finder 2025", description: "Tile Pro Bluetooth tracker review with 400-foot range, replaceable battery, and loud ring.", category: "Trackers", url: "Posts/tile-pro-tracker.html" },
     { title: "Vitamix A3500 Ascent Blender Review - Best Premium Blender 2025", description: "Vitamix A3500 Ascent blender review with self-detect technology, touchscreen controls, variable speed.", category: "Kitchen", url: "Posts/vitamix-a3500-ascent.html" },
     { title: "WYZE Cam v4 Review - Best Smart Home Security Camera 2025", description: "WYZE Cam v4 security camera review covering video quality, night vision, AI detection.", category: "Cameras", url: "Posts/wyze-cam-v4.html" },
-    { title: "Xbox Wireless Controller Review - Ultimate Gaming Control", description: "Xbox Wireless Controller review analyzing ergonomics, battery life, and compatibility.", category: "Gaming", url: "Posts/xbox-controller.html" }
+    { title: "Xbox Wireless Controller Review - Ultimate Gaming Control", description: "Xbox Wireless Controller review analyzing ergonomics, battery life, and compatibility.", category: "Gaming", url: "Posts/xbox-controller.html" },
+    { title: "Sony A95L 77-inch QD-OLED TV Review 2025 - Ultimate Premium Display", description: "Sony A95L 77-inch QD-OLED TV with Quantum Dot OLED technology, XR Cognitive Processor, and perfect blacks.", category: "Premium TVs", url: "Posts/sony-a95l-qd-oled-77.html" },
+    { title: "Alienware Aurora R16 Gaming Desktop Review 2025 - Ultimate Gaming PC", description: "Alienware Aurora R16 with Intel Core i9-14900KF, NVIDIA RTX 4090, 64GB RAM, and liquid cooling.", category: "Gaming Desktops", url: "Posts/alienware-aurora-r16.html" },
+    { title: "GoPro HERO 12 Black Review 2025 - Ultimate Action Camera", description: "GoPro HERO 12 Black with 5.3K60 video, HyperSmooth 6.0 stabilization, and HDR capture.", category: "Action Cameras", url: "Posts/gopro-hero-12-black.html" },
+    { title: "Theragun PRO Plus Review 2025 - Premium Wellness & Fitness", description: "Theragun PRO Plus premium massage gun for muscle recovery and pain relief.", category: "Wellness & Fitness", url: "Posts/theragun-pro-plus.html" },
+    { title: "Elgato Stream Deck XL Review 2025 - Premium Streaming Gear", description: "Elgato Stream Deck XL with 32 customizable keys for streamers and content creators.", category: "Streaming Gear", url: "Posts/elgato-stream-deck-xl.html" },
+    { title: "Netgear Nighthawk RAXE500 Review 2025 - Premium Networking", description: "Netgear Nighthawk RAXE500 tri-band Wi-Fi 6E router with blazing fast speeds.", category: "Networking", url: "Posts/netgear-nighthawk-raxe500.html" },
+    { title: "Philips Hue Play HDMI Sync Box Review 2025 - Premium Smart Home", description: "Philips Hue Play HDMI Sync Box syncs your lights with on-screen content for immersive entertainment.", category: "Smart Home", url: "Posts/philips-hue-play-sync-box.html" },
+    { title: "Anker SOLIX F3800 Power Station Review 2025 - Premium Power & Energy", description: "Anker SOLIX F3800 portable power station with massive capacity for home backup and outdoor adventures.", category: "Power & Energy", url: "Posts/anker-solix-f3800.html" },
+    { title: "Beats Studio Pro Wireless Headphones Review 2025 - Premium Audio", description: "Beats Studio Pro wireless headphones with active noise cancellation and premium sound quality.", category: "Audio", url: "Posts/beats-studio-pro.html" },
+    { title: "Bose Ultra Open Earbuds Review 2025 - Premium Audio", description: "Bose Ultra Open Earbuds with unique open-ear design and exceptional sound quality.", category: "Audio", url: "Posts/bose-ultra-open-earbuds.html" }
 ];
 
 // Shopping Cart
@@ -465,7 +475,7 @@ function showSearchPlaceholder() {
         searchResults.innerHTML = `
             <div class="search-placeholder">
                 <i class="fas fa-search"></i>
-                <p>Start typing to search through 74 product reviews...</p>
+                <p>Start typing to search through 84 product reviews...</p>
             </div>
         `;
     }
