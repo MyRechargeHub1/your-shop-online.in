@@ -176,11 +176,29 @@ const searchProducts = [
 // Shopping Cart
 let cart = [];
 
+// Update post counter on homepage
+function updatePostCount() {
+    const totalPosts = searchProducts.length;
+
+    // Update homepage counter
+    const postCountElement = document.getElementById('post-count');
+    if (postCountElement) {
+        postCountElement.textContent = totalPosts;
+    }
+
+    // Update search modal counter
+    const searchCountElement = document.getElementById('search-count');
+    if (searchCountElement) {
+        searchCountElement.textContent = totalPosts;
+    }
+}
+
 // Initialize the page
 document.addEventListener('DOMContentLoaded', function() {
     loadProducts();
     setupEventListeners();
     updateCartCount();
+    updatePostCount();
 });
 
 // Load products into the grid
