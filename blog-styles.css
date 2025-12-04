@@ -757,3 +757,63 @@
         font-size: 1.05rem;
     }
 }
+
+/* Social Share Buttons */
+.social-share {
+    display: flex;
+    gap: 0.5rem;
+    padding: 1rem 0 0.5rem;
+    border-top: 1px solid #e5e7eb;
+    margin-top: 1rem;
+}
+
+.social-share-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background-color: #f3f4f6;
+    color: #6b7280;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    border: none;
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+.social-share-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.social-share-btn.facebook:hover {
+    background-color: #1877f2;
+    color: white;
+}
+
+.social-share-btn.twitter:hover {
+    background-color: #1da1f2;
+    color: white;
+}
+
+.social-share-btn.linkedin:hover {
+    background-color: #0077b5;
+    color: white;
+}
+
+.social-share-btn.pinterest:hover {
+    background-color: #e60023;
+    color: white;
+}
+
+.social-share-btn.whatsapp:hover {
+    background-color: #25d366;
+    color: white;
+}
+
+.social-share-btn.copy-link:hover {
+    background-color: #8b5cf6;
+    color: white;
+}
