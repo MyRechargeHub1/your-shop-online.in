@@ -10,25 +10,25 @@
     </url>
     <url>
         <loc>https://your-shop-online.in/about.html</loc>
-        <lastmod>2025-12-03</lastmod>
+        <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
         <loc>https://your-shop-online.in/contact.html</loc>
-        <lastmod>2025-12-03</lastmod>
+        <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
         <loc>https://your-shop-online.in/privacy-policy.html</loc>
-        <lastmod>2025-12-03</lastmod>
+        <lastmod>2025-12-04</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.4</priority>
     </url>
     <url>
         <loc>https://your-shop-online.in/404.html</loc>
-        <lastmod>2025-12-03</lastmod>
+        <lastmod>2025-12-04</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.3</priority>
     </url>
@@ -102,7 +102,7 @@
     </url>
     <url>
         <loc>https://your-shop-online.in/Posts/apple-watch-se.html</loc>
-        <lastmod>2025-12-03</lastmod>
+        <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -114,6 +114,12 @@
     </url>
     <url>
         <loc>https://your-shop-online.in/Posts/asus-rog-zephyrus-g16.html</loc>
+        <lastmod>2025-12-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://your-shop-online.in/Posts/bang-olufsen-beovision-harmony.html</loc>
         <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -132,7 +138,13 @@
     </url>
     <url>
         <loc>https://your-shop-online.in/Posts/blink-video-doorbell.html</loc>
-        <lastmod>2025-12-03</lastmod>
+        <lastmod>2025-12-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://your-shop-online.in/Posts/bose-lifestyle-650.html</loc>
+        <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -161,6 +173,12 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://your-shop-online.in/Posts/breville-oracle-jet.html</loc>
+        <lastmod>2025-12-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://your-shop-online.in/Posts/canon-eos-r6-mark-ii.html</loc>
         <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
@@ -174,6 +192,12 @@
     </url>
     <url>
         <loc>https://your-shop-online.in/Posts/delonghi-specialista-maestro.html</loc>
+        <lastmod>2025-12-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://your-shop-online.in/Posts/dji-inspire-3.html</loc>
         <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -209,13 +233,31 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://your-shop-online.in/Posts/fanatec-podium-dd2.html</loc>
+        <lastmod>2025-12-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://your-shop-online.in/Posts/fire-tv-stick-4k.html</loc>
-        <lastmod>2025-12-03</lastmod>
+        <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://your-shop-online.in/Posts/fitbit-inspire-3.html</loc>
+        <lastmod>2025-12-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://your-shop-online.in/Posts/focal-utopia-headphones.html</loc>
+        <lastmod>2025-12-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://your-shop-online.in/Posts/gaggenau-400-series-oven.html</loc>
         <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -233,6 +275,18 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://your-shop-online.in/Posts/hasselblad-x2d-100c.html</loc>
+        <lastmod>2025-12-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://your-shop-online.in/Posts/herman-miller-eames-lounge.html</loc>
+        <lastmod>2025-12-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://your-shop-online.in/Posts/herman-miller-embody-gaming.html</loc>
         <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
@@ -240,7 +294,7 @@
     </url>
     <url>
         <loc>https://your-shop-online.in/Posts/instant-pot-duo.html</loc>
-        <lastmod>2025-12-03</lastmod>
+        <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -270,7 +324,7 @@
     </url>
     <url>
         <loc>https://your-shop-online.in/Posts/jbl-flip-6.html</loc>
-        <lastmod>2025-12-03</lastmod>
+        <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -282,12 +336,24 @@
     </url>
     <url>
         <loc>https://your-shop-online.in/Posts/kindle-paperwhite.html</loc>
-        <lastmod>2025-12-03</lastmod>
+        <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://your-shop-online.in/Posts/kitchenaid-pro-line-mixer.html</loc>
+        <lastmod>2025-12-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://your-shop-online.in/Posts/la-marzocco-linea-mini.html</loc>
+        <lastmod>2025-12-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://your-shop-online.in/Posts/leica-q3-camera.html</loc>
         <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -300,6 +366,12 @@
     </url>
     <url>
         <loc>https://your-shop-online.in/Posts/lg-c3-oled-65.html</loc>
+        <lastmod>2025-12-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://your-shop-online.in/Posts/lg-z3-oled-77.html</loc>
         <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -335,6 +407,12 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://your-shop-online.in/Posts/mcintosh-mc275-amplifier.html</loc>
+        <lastmod>2025-12-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://your-shop-online.in/Posts/meta-quest-3.html</loc>
         <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
@@ -359,6 +437,12 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://your-shop-online.in/Posts/montblanc-meisterstuck-149.html</loc>
+        <lastmod>2025-12-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://your-shop-online.in/Posts/nespresso-creatista-plus.html</loc>
         <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
@@ -372,7 +456,7 @@
     </url>
     <url>
         <loc>https://your-shop-online.in/Posts/ninja-air-fryer.html</loc>
-        <lastmod>2025-12-03</lastmod>
+        <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -408,13 +492,13 @@
     </url>
     <url>
         <loc>https://your-shop-online.in/Posts/roku-streaming-stick.html</loc>
-        <lastmod>2025-12-03</lastmod>
+        <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://your-shop-online.in/Posts/roomba-694.html</loc>
-        <lastmod>2025-12-03</lastmod>
+        <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -443,6 +527,12 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://your-shop-online.in/Posts/samsung-odyssey-ark-55-curved.html</loc>
+        <lastmod>2025-12-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://your-shop-online.in/Posts/samsung-odyssey-oled-g9.html</loc>
         <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
@@ -462,6 +552,12 @@
     </url>
     <url>
         <loc>https://your-shop-online.in/Posts/sonos-arc-soundbar.html</loc>
+        <lastmod>2025-12-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://your-shop-online.in/Posts/sony-a1-ii-camera.html</loc>
         <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -492,7 +588,7 @@
     </url>
     <url>
         <loc>https://your-shop-online.in/Posts/sony-wh-1000xm5.html</loc>
-        <lastmod>2025-12-03</lastmod>
+        <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -503,7 +599,19 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://your-shop-online.in/Posts/tag-heuer-connected-calibre-e4.html</loc>
+        <lastmod>2025-12-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://your-shop-online.in/Posts/tagry-x08-headphones.html</loc>
+        <lastmod>2025-12-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://your-shop-online.in/Posts/technics-sl1200gr-turntable.html</loc>
         <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -522,6 +630,18 @@
     </url>
     <url>
         <loc>https://your-shop-online.in/Posts/vitamix-a3500-ascent.html</loc>
+        <lastmod>2025-12-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://your-shop-online.in/Posts/weber-genesis-ex-335.html</loc>
+        <lastmod>2025-12-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://your-shop-online.in/Posts/wolf-dual-fuel-range.html</loc>
         <lastmod>2025-12-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
