@@ -65,6 +65,9 @@
     function createBlogCard(post) {
         const iconClass = categoryIcons[post.category] || 'fa-star';
         const postUrl = `${CONFIG.postsDirectory}${post.filename}.html`;
+        const fullUrl = `https://your-shop-online.in${postUrl}`;
+        const encodedUrl = encodeURIComponent(fullUrl);
+        const encodedTitle = encodeURIComponent(post.title);
         
         return `
             <article class="blog-card">
@@ -86,6 +89,54 @@
                     <a href="${postUrl}" class="btn-blog">
                         Read Full Review <i class="fas fa-arrow-right"></i>
                     </a>
+                    <div class="social-share">
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}" 
+                           target="_blank" 
+                           rel="noopener noreferrer" 
+                           class="social-share-btn facebook" 
+                           aria-label="Share on Facebook"
+                           title="Share on Facebook">
+                            <i class="fab fa-facebook-f"></i>
+                        </a>
+                        <a href="https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}" 
+                           target="_blank" 
+                           rel="noopener noreferrer" 
+                           class="social-share-btn twitter" 
+                           aria-label="Share on Twitter"
+                           title="Share on Twitter">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                        <a href="https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}" 
+                           target="_blank" 
+                           rel="noopener noreferrer" 
+                           class="social-share-btn linkedin" 
+                           aria-label="Share on LinkedIn"
+                           title="Share on LinkedIn">
+                            <i class="fab fa-linkedin-in"></i>
+                        </a>
+                        <a href="https://pinterest.com/pin/create/button/?url=${encodedUrl}&description=${encodedTitle}" 
+                           target="_blank" 
+                           rel="noopener noreferrer" 
+                           class="social-share-btn pinterest" 
+                           aria-label="Share on Pinterest"
+                           title="Share on Pinterest">
+                            <i class="fab fa-pinterest-p"></i>
+                        </a>
+                        <a href="https://api.whatsapp.com/send?text=${encodedTitle}%20${encodedUrl}" 
+                           target="_blank" 
+                           rel="noopener noreferrer" 
+                           class="social-share-btn whatsapp" 
+                           aria-label="Share on WhatsApp"
+                           title="Share on WhatsApp">
+                            <i class="fab fa-whatsapp"></i>
+                        </a>
+                        <button class="social-share-btn copy-link copy-link-btn" 
+                                data-url="${fullUrl}" 
+                                aria-label="Copy link"
+                                title="Copy link">
+                            <i class="fas fa-link"></i>
+                        </button>
+                    </div>
                 </div>
             </article>
         `;

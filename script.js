@@ -638,3 +638,78 @@ window.addEventListener('scroll', function() {
         }
     });
 });
+
+// Handle copy link functionality for social share buttons
+document.addEventListener('click', function(e) {
+    if (e.target.closest('.copy-link-btn')) {
+        const btn = e.target.closest('.copy-link-btn');
+        const url = btn.dataset.url;
+        const originalIcon = btn.innerHTML;
+        
+        // Function to show success feedback
+        function showSuccess() {
+            btn.innerHTML = '<i class="fas fa-check"></i>';
+            btn.style.backgroundColor = '#10b981';
+            btn.style.color = 'white';
+            setTimeout(() => {
+                btn.innerHTML = originalIcon;
+                btn.style.backgroundColor = '';
+                btn.style.color = '';
+            }, 2000);
+        }
+        
+        // Function to show error feedback
+        function showError() {
+            btn.innerHTML = '<i class="fas fa-times"></i>';
+            btn.style.backgroundColor = '#ef4444';
+            btn.style.color = 'white';
+            setTimeout(() => {
+                btn.innerHTML = originalIcon;
+                btn.style.backgroundColor = '';
+                btn.style.color = '';
+            }, 2000);
+        }
+        
+        // Try modern Clipboard API first
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+            navigator.clipboard.writeText(url).then(() => {
+                showSuccess();
+            }).catch(() => {
+                // Try fallback method
+                if (fallbackCopyText(url)) {
+                    showSuccess();
+                } else {
+                    showError();
+                }
+            });
+        } else {
+            // Use fallback for older browsers
+            if (fallbackCopyText(url)) {
+                showSuccess();
+            } else {
+                showError();
+            }
+        }
+    }
+});
+
+// Fallback copy method for older browsers
+function fallbackCopyText(text) {
+    const textArea = document.createElement('textarea');
+    textArea.value = text;
+    textArea.style.position = 'fixed';
+    textArea.style.left = '-999999px';
+    textArea.style.top = '-999999px';
+    document.body.appendChild(textArea);
+    textArea.focus();
+    textArea.select();
+    
+    try {
+        const successful = document.execCommand('copy');
+        document.body.removeChild(textArea);
+        return successful;
+    } catch (err) {
+        document.body.removeChild(textArea);
+        return false;
+    }
+}
