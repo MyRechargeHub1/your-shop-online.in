@@ -48,6 +48,18 @@
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <link rel="apple-touch-icon" href="logo.svg">
 
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="/manifest.json">
+
+    <!-- PWA Meta Tags -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="YourShop">
+    <meta name="application-name" content="YourShop">
+    <meta name="msapplication-TileColor" content="#667eea">
+    <meta name="theme-color" content="#667eea">
+
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://your-shop-online.in/contact.html">
@@ -497,5 +509,8 @@
             window.history.replaceState({}, document.title, window.location.pathname);
         }
     </script>
+
+    <!-- PWA Installation Handler -->
+    <script src="pwa-install.js"></script>
 </body>
 </html>
