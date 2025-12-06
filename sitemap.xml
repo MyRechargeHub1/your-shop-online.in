@@ -4,36 +4,96 @@
     <!-- Static Pages -->
     <url>
         <loc>https://your-shop-online.in/</loc>
-        <lastmod>2025-12-05</lastmod>
+        <lastmod>2025-12-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>https://your-shop-online.in/about.html</loc>
-        <lastmod>2025-12-05</lastmod>
+        <lastmod>2025-12-06</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
         <loc>https://your-shop-online.in/contact.html</loc>
-        <lastmod>2025-12-05</lastmod>
+        <lastmod>2025-12-06</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
         <loc>https://your-shop-online.in/privacy-policy.html</loc>
-        <lastmod>2025-12-05</lastmod>
+        <lastmod>2025-12-06</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.4</priority>
     </url>
     <url>
         <loc>https://your-shop-online.in/404.html</loc>
-        <lastmod>2025-12-05</lastmod>
+        <lastmod>2025-12-06</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.3</priority>
     </url>
 
     <!-- Product Review Posts -->
+    <url>
+        <loc>https://your-shop-online.in/Posts/corsair-icue-5000x-rgb-build.html</loc>
+        <lastmod>2025-12-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://your-shop-online.in/Posts/samsung-bespoke-4-door-flex.html</loc>
+        <lastmod>2025-12-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://your-shop-online.in/Posts/steelcase-leap-v2-chair.html</loc>
+        <lastmod>2025-12-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://your-shop-online.in/Posts/all-clad-d5-brushed-14-piece.html</loc>
+        <lastmod>2025-12-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://your-shop-online.in/Posts/traeger-timberline-1300.html</loc>
+        <lastmod>2025-12-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://your-shop-online.in/Posts/elgato-wave-dx-podcast-bundle.html</loc>
+        <lastmod>2025-12-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://your-shop-online.in/Posts/benq-sw321c-photoview-monitor.html</loc>
+        <lastmod>2025-12-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://your-shop-online.in/Posts/arlo-ultra-2-spotlight-camera.html</loc>
+        <lastmod>2025-12-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://your-shop-online.in/Posts/purple-hybrid-premier-4-mattress.html</loc>
+        <lastmod>2025-12-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://your-shop-online.in/Posts/samsung-hw-q990d-soundbar.html</loc>
+        <lastmod>2025-12-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
     <url>
         <loc>https://your-shop-online.in/Posts/furnimat-2025-premium-massage-chair.html</loc>
         <lastmod>2025-12-05</lastmod>
