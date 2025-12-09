@@ -99,7 +99,6 @@ const AMAZON_IMAGES = {
 
     // Sony Products
     'sony-wf-1000xm6.html': 'https://m.media-amazon.com/images/I/51WNZ2bCEhL._AC_SL1500_.jpg',
-    'sony-wh1000xm5.html': 'https://m.media-amazon.com/images/I/61vKmd0-LqL._AC_SL1500_.jpg',
     'sony-a7-iv-camera.html': 'https://m.media-amazon.com/images/I/81pR9-YeBaL._AC_SL1500_.jpg',
 
     // Home Appliances

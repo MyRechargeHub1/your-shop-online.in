@@ -80,7 +80,6 @@ const products = {
     "sony-a95l-qd-oled-77.html": { title: "Sony A95L 77-inch QD-OLED TV", category: "Premium TVs" },
     "sony-wf-1000xm6.html": { title: "Sony WF-1000XM6", category: "Audio" },
     "sony-wh-1000xm5.html": { title: "Sony WH-1000XM5 Headphones", category: "Audio" },
-    "sony-wh1000xm5.html": { title: "Sony WH-1000XM5", category: "Audio" },
     "tagry-x08-headphones.html": { title: "TAGRY X08 Bluetooth Headphones", category: "Audio" },
     "theragun-pro-plus.html": { title: "Theragun PRO Plus", category: "Wellness & Fitness" },
     "tile-pro-tracker.html": { title: "Tile Pro Bluetooth Tracker", category: "Trackers" },
