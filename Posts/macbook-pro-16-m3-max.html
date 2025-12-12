@@ -440,44 +440,98 @@
     <!-- Structured Data -->
     <script type="application/ld+json">
     {
-        "@context": "https://schema.org",
-        "@type": "Review",
-        "itemReviewed": {
-            "@type": "Product",
-            "name": "MacBook Pro 16-inch M3 Max",
-            "image": "https://m.media-amazon.com/images/I/61goypd2GPL._AC_SL1500_.jpg",
-            "description": "Apple MacBook Pro 16-inch with M3 Max chip, 16-core CPU, 40-core GPU, up to 128GB unified memory, Liquid Retina XDR display",
-            "brand": {
-                "@type": "Brand",
-                "name": "Apple"
+    "@context": "https://schema.org",
+    "@type": "Review",
+    "itemReviewed": {
+        "@type": "Product",
+        "name": "MacBook Pro 16-inch M3 Max",
+        "image": "https://m.media-amazon.com/images/I/61goypd2GPL._AC_SL1500_.jpg",
+        "description": "Apple MacBook Pro 16-inch with M3 Max chip, 16-core CPU, 40-core GPU, up to 128GB unified memory, Liquid Retina XDR display",
+        "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+        },
+        "offers": {
+            "@type": "Offer",
+            "url": "https://www.amazon.com/s?k=MacBook+Pro+16+M3+Max&tag=topgaming2303-20",
+            "priceCurrency": "USD",
+            "price": "3499",
+            "availability": "https://schema.org/InStock",
+            "priceValidUntil": "2025-12-31",
+            "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 30,
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnFees": "https://schema.org/FreeReturn"
             },
-            "offers": {
-                "@type": "Offer",
-                "url": "https://www.amazon.com/s?k=MacBook+Pro+16+M3+Max&tag=topgaming2303-20",
-                "priceCurrency": "USD",
-                "price": "3499",
-                "availability": "https://schema.org/InStock"
+            "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": "0",
+                    "currency": "USD"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "addressCountry": "US"
+                },
+                "deliveryTime": {
+                    "@type": "ShippingDeliveryTime",
+                    "handlingTime": {
+                        "@type": "QuantitativeValue",
+                        "minValue": 0,
+                        "maxValue": 1,
+                        "unitCode": "DAY"
+                    },
+                    "transitTime": {
+                        "@type": "QuantitativeValue",
+                        "minValue": 1,
+                        "maxValue": 5,
+                        "unitCode": "DAY"
+                    }
+                }
             }
         },
-        "reviewRating": {
-            "@type": "Rating",
+        "aggregateRating": {
+            "@type": "AggregateRating",
             "ratingValue": "9.5",
-            "bestRating": "10"
+            "bestRating": "10",
+            "ratingCount": "1"
         },
-        "author": {
-            "@type": "Organization",
-            "name": "YourShop Online"
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "YourShop Online",
-            "logo": {
-                "@type": "ImageObject",
-                "url": "https://your-shop-online.in/logo.svg"
-            }
-        },
-        "datePublished": "2025-12-03"
-    }
+        "review": {
+            "@type": "Review",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "9.5",
+                "bestRating": "10"
+            },
+            "author": {
+                "@type": "Organization",
+                "name": "YourShop Online"
+            },
+            "datePublished": "2025-12-03"
+        }
+    },
+    "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "9.5",
+        "bestRating": "10"
+    },
+    "author": {
+        "@type": "Organization",
+        "name": "YourShop Online"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "YourShop Online",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://your-shop-online.in/logo.svg"
+        }
+    },
+    "datePublished": "2025-12-03"
+}
     </script>
 </body>
 </html>

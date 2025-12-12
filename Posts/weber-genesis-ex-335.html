@@ -321,21 +321,88 @@
         "name": "Weber Genesis EX-335 Smart Gas Grill",
         "image": "https://your-shop-online.in/logo.svg",
         "description": "Weber Genesis EX-335 Smart Gas Grill review - Premium 3-burner grill with smart technology, side burner, and restaurant-quality cooking.",
-        "brand": {"@type": "Brand", "name": "Weber"},
+        "brand": {
+            "@type": "Brand",
+            "name": "Weber"
+        },
         "offers": {
             "@type": "Offer",
             "url": "https://www.amazon.com/s?k=Weber+Genesis+EX-335&tag=topgaming2303-20",
             "priceCurrency": "USD",
             "price": "1500",
-            "availability": "https://schema.org/InStock"
+            "availability": "https://schema.org/InStock",
+            "priceValidUntil": "2025-12-31",
+            "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 30,
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnFees": "https://schema.org/FreeReturn"
+            },
+            "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": "0",
+                    "currency": "USD"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "addressCountry": "US"
+                },
+                "deliveryTime": {
+                    "@type": "ShippingDeliveryTime",
+                    "handlingTime": {
+                        "@type": "QuantitativeValue",
+                        "minValue": 0,
+                        "maxValue": 1,
+                        "unitCode": "DAY"
+                    },
+                    "transitTime": {
+                        "@type": "QuantitativeValue",
+                        "minValue": 1,
+                        "maxValue": 5,
+                        "unitCode": "DAY"
+                    }
+                }
+            }
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "9.4",
+            "bestRating": "10",
+            "ratingCount": "1"
+        },
+        "review": {
+            "@type": "Review",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "9.4",
+                "bestRating": "10"
+            },
+            "author": {
+                "@type": "Organization",
+                "name": "YourShop Online"
+            },
+            "datePublished": "2024-12-03"
         }
     },
-    "reviewRating": {"@type": "Rating", "ratingValue": "9.4", "bestRating": "10"},
-    "author": {"@type": "Organization", "name": "YourShop Online"},
+    "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "9.4",
+        "bestRating": "10"
+    },
+    "author": {
+        "@type": "Organization",
+        "name": "YourShop Online"
+    },
     "publisher": {
         "@type": "Organization",
         "name": "YourShop Online",
-        "logo": {"@type": "ImageObject", "url": "https://your-shop-online.in/logo.svg"}
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://your-shop-online.in/logo.svg"
+        }
     },
     "datePublished": "2024-12-03"
 }
