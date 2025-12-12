@@ -427,44 +427,98 @@
     <!-- Structured Data -->
     <script type="application/ld+json">
     {
-        "@context": "https://schema.org",
-        "@type": "Review",
-        "itemReviewed": {
-            "@type": "Product",
-            "name": "Bose QuietComfort Ultra Headphones",
-            "image": "https://m.media-amazon.com/images/I/51JQ7q4KQLL._AC_SL1000_.jpg",
-            "description": "Bose QuietComfort Ultra Headphones with world-class noise cancellation, Immersive Audio spatial sound with head tracking, and premium comfort",
-            "brand": {
-                "@type": "Brand",
-                "name": "Bose"
+    "@context": "https://schema.org",
+    "@type": "Review",
+    "itemReviewed": {
+        "@type": "Product",
+        "name": "Bose QuietComfort Ultra Headphones",
+        "image": "https://m.media-amazon.com/images/I/51JQ7q4KQLL._AC_SL1000_.jpg",
+        "description": "Bose QuietComfort Ultra Headphones with world-class noise cancellation, Immersive Audio spatial sound with head tracking, and premium comfort",
+        "brand": {
+            "@type": "Brand",
+            "name": "Bose"
+        },
+        "offers": {
+            "@type": "Offer",
+            "url": "https://www.amazon.com/s?k=Bose+QuietComfort+Ultra+Headphones&tag=topgaming2303-20",
+            "priceCurrency": "USD",
+            "price": "429",
+            "availability": "https://schema.org/InStock",
+            "priceValidUntil": "2025-12-31",
+            "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 30,
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnFees": "https://schema.org/FreeReturn"
             },
-            "offers": {
-                "@type": "Offer",
-                "url": "https://www.amazon.com/s?k=Bose+QuietComfort+Ultra+Headphones&tag=topgaming2303-20",
-                "priceCurrency": "USD",
-                "price": "429",
-                "availability": "https://schema.org/InStock"
+            "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": "0",
+                    "currency": "USD"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "addressCountry": "US"
+                },
+                "deliveryTime": {
+                    "@type": "ShippingDeliveryTime",
+                    "handlingTime": {
+                        "@type": "QuantitativeValue",
+                        "minValue": 0,
+                        "maxValue": 1,
+                        "unitCode": "DAY"
+                    },
+                    "transitTime": {
+                        "@type": "QuantitativeValue",
+                        "minValue": 1,
+                        "maxValue": 5,
+                        "unitCode": "DAY"
+                    }
+                }
             }
         },
-        "reviewRating": {
-            "@type": "Rating",
+        "aggregateRating": {
+            "@type": "AggregateRating",
             "ratingValue": "9.4",
-            "bestRating": "10"
+            "bestRating": "10",
+            "ratingCount": "1"
         },
-        "author": {
-            "@type": "Organization",
-            "name": "YourShop Online"
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "YourShop Online",
-            "logo": {
-                "@type": "ImageObject",
-                "url": "https://your-shop-online.in/logo.svg"
-            }
-        },
-        "datePublished": "2025-12-03"
-    }
+        "review": {
+            "@type": "Review",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "9.4",
+                "bestRating": "10"
+            },
+            "author": {
+                "@type": "Organization",
+                "name": "YourShop Online"
+            },
+            "datePublished": "2025-12-03"
+        }
+    },
+    "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "9.4",
+        "bestRating": "10"
+    },
+    "author": {
+        "@type": "Organization",
+        "name": "YourShop Online"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "YourShop Online",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://your-shop-online.in/logo.svg"
+        }
+    },
+    "datePublished": "2025-12-03"
+}
     </script>
 </body>
 </html>

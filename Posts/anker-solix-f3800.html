@@ -590,36 +590,90 @@
     <!-- Structured Data -->
     <script type="application/ld+json">
     {
-        "@context": "https://schema.org",
-        "@type": "Review",
-        "itemReviewed": {
-            "@type": "Product",
-            "name": "Anker SOLIX F3800 Portable Power Station",
-            "image": "https://m.media-amazon.com/images/I/81X0G7jWEYL._AC_SL1500_.jpg",
-            "description": "3840Wh portable power station with 6000W output, expandable to 26.9kWh, ultra-fast charging, and comprehensive connectivity.",
-            "brand": {
-                "@type": "Brand",
-                "name": "Anker"
+    "@context": "https://schema.org",
+    "@type": "Review",
+    "itemReviewed": {
+        "@type": "Product",
+        "name": "Anker SOLIX F3800 Portable Power Station",
+        "image": "https://m.media-amazon.com/images/I/81X0G7jWEYL._AC_SL1500_.jpg",
+        "description": "3840Wh portable power station with 6000W output, expandable to 26.9kWh, ultra-fast charging, and comprehensive connectivity.",
+        "brand": {
+            "@type": "Brand",
+            "name": "Anker"
+        },
+        "offers": {
+            "@type": "Offer",
+            "url": "https://www.amazon.com/s?k=Anker+SOLIX+F3800+Portable+Power+Station&tag=topgaming2303-20",
+            "priceCurrency": "USD",
+            "price": "3999",
+            "availability": "https://schema.org/InStock",
+            "priceValidUntil": "2025-12-31",
+            "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 30,
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnFees": "https://schema.org/FreeReturn"
             },
-            "offers": {
-                "@type": "Offer",
-                "url": "https://www.amazon.com/s?k=Anker+SOLIX+F3800+Portable+Power+Station&tag=topgaming2303-20",
-                "priceCurrency": "USD",
-                "price": "3999",
-                "availability": "https://schema.org/InStock"
+            "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": "0",
+                    "currency": "USD"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "addressCountry": "US"
+                },
+                "deliveryTime": {
+                    "@type": "ShippingDeliveryTime",
+                    "handlingTime": {
+                        "@type": "QuantitativeValue",
+                        "minValue": 0,
+                        "maxValue": 1,
+                        "unitCode": "DAY"
+                    },
+                    "transitTime": {
+                        "@type": "QuantitativeValue",
+                        "minValue": 1,
+                        "maxValue": 5,
+                        "unitCode": "DAY"
+                    }
+                }
             }
         },
-        "reviewRating": {
-            "@type": "Rating",
+        "aggregateRating": {
+            "@type": "AggregateRating",
             "ratingValue": "9.3",
-            "bestRating": "10"
+            "bestRating": "10",
+            "ratingCount": "1"
         },
-        "author": {
-            "@type": "Organization",
-            "name": "YourShop Online"
-        },
-        "datePublished": "2025-12-03"
-    }
+        "review": {
+            "@type": "Review",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "9.3",
+                "bestRating": "10"
+            },
+            "author": {
+                "@type": "Organization",
+                "name": "YourShop Online"
+            },
+            "datePublished": "2025-12-03"
+        }
+    },
+    "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "9.3",
+        "bestRating": "10"
+    },
+    "author": {
+        "@type": "Organization",
+        "name": "YourShop Online"
+    },
+    "datePublished": "2025-12-03"
+}
     </script>
 </body>
 </html>
