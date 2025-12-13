@@ -51,7 +51,7 @@ for (const filename of newPosts) {
     }
 
     // Check 2: Buy Now buttons (should have 2)
-    const buyNowButtons = content.match(/BUY NOW ON AMAZON/g);
+    const buyNowButtons = content.match(/🛒 BUY NOW/g);
     if (!buyNowButtons || buyNowButtons.length < 2) {
         console.log(`  ❌ Missing Buy Now buttons (found ${buyNowButtons ? buyNowButtons.length : 0}, need 2)`);
         issuesFound.push(`${filename}: Missing Buy Now buttons`);
