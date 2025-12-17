@@ -1,5 +1,95 @@
 [
     {
+        "filename": "sony-a9-iii-mirrorless-camera-2025",
+        "title": "Sony A9 III Mirrorless Camera Review 2025",
+        "category": "Professional Cameras",
+        "date": "Jan 18, 2025",
+        "read_time": "18 min",
+        "icon": "camera",
+        "description": "Revolutionary full-frame camera with world's first global shutter sensor, 120fps shooting, and zero blackout viewfinder."
+    },
+    {
+        "filename": "canon-eos-r1-flagship-camera-2025",
+        "title": "Canon EOS R1 Flagship Camera Review 2025",
+        "category": "Professional Cameras",
+        "date": "Jan 18, 2025",
+        "read_time": "20 min",
+        "icon": "camera",
+        "description": "Canon's ultimate flagship mirrorless camera with 40fps shooting, advanced AI autofocus, and professional-grade performance."
+    },
+    {
+        "filename": "samsung-98-inch-neo-qled-8k-tv-2025",
+        "title": "Samsung 98-Inch Neo QLED 8K TV Review 2025",
+        "category": "Premium Televisions",
+        "date": "Jan 18, 2025",
+        "read_time": "17 min",
+        "icon": "tv",
+        "description": "Massive 98-inch 8K television with Quantum Matrix Pro technology, 4,000 nits brightness, and AI upscaling."
+    },
+    {
+        "filename": "sub-zero-48-french-door-refrigerator-2025",
+        "title": "Sub-Zero 48 French Door Refrigerator Review 2025",
+        "category": "Luxury Appliances",
+        "date": "Jan 18, 2025",
+        "read_time": "16 min",
+        "icon": "snowflake",
+        "description": "Premium refrigerator with revolutionary dual refrigeration system, NASA-inspired air purification, and exceptional build quality."
+    },
+    {
+        "filename": "breville-oracle-jet-espresso-machine-2025",
+        "title": "Breville Oracle Jet Espresso Machine Review 2025",
+        "category": "Kitchen Appliances",
+        "date": "Jan 18, 2025",
+        "read_time": "17 min",
+        "icon": "coffee",
+        "description": "Premium automatic espresso machine with Cold Brew technology, Auto MilQ system, and dual boiler performance."
+    },
+    {
+        "filename": "garmin-marq-golfer-gen2-watch-2025",
+        "title": "Garmin MARQ Golfer Gen 2 Luxury Watch Review 2025",
+        "category": "Luxury Smartwatches",
+        "date": "Jan 18, 2025",
+        "read_time": "16 min",
+        "icon": "golf-ball",
+        "description": "Premium titanium golf smartwatch with 43,000+ courses, Virtual Caddie, and comprehensive health tracking."
+    },
+    {
+        "filename": "bowers-wilkins-800-d4-diamond-speakers-2025",
+        "title": "Bowers & Wilkins 800 D4 Diamond Speakers Review 2025",
+        "category": "Audiophile Equipment",
+        "date": "Jan 18, 2025",
+        "read_time": "19 min",
+        "icon": "volume-up",
+        "description": "Flagship audiophile speakers with diamond tweeters, Biomimetic suspension, and studio-grade performance."
+    },
+    {
+        "filename": "wolf-48-dual-fuel-range-2025",
+        "title": "Wolf 48 Dual Fuel Professional Range Review 2025",
+        "category": "Luxury Kitchen",
+        "date": "Jan 18, 2025",
+        "read_time": "18 min",
+        "icon": "fire",
+        "description": "Professional-grade kitchen range with 20,000 BTU burners, dual convection ovens, and commercial construction."
+    },
+    {
+        "filename": "leica-m11-p-rangefinder-camera-2025",
+        "title": "Leica M11-P Rangefinder Camera Review 2025",
+        "category": "Luxury Cameras",
+        "date": "Jan 18, 2025",
+        "read_time": "20 min",
+        "icon": "camera",
+        "description": "Premium rangefinder camera with 60MP sensor, Content Credentials, and legendary German craftsmanship."
+    },
+    {
+        "filename": "miele-dialog-oven-2025",
+        "title": "Miele Dialog Oven Review 2025",
+        "category": "Luxury Kitchen",
+        "date": "Jan 18, 2025",
+        "read_time": "19 min",
+        "icon": "fire",
+        "description": "Revolutionary smart oven with electromagnetic M Chef technology, impossible cooking results, and M Touch interface."
+    },
+    {
         "filename": "tonal-home-gym",
         "title": "Tonal Home Gym",
         "category": "Fitness Equipment",
