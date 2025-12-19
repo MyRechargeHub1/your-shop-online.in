@@ -1,17 +1,11 @@
-// Subdomain redirect handler - redirects all subdomains to apex domain
+// GitHub Pages domain redirect handler
 (function() {
     // Get the current hostname
     const hostname = window.location.hostname;
     const targetDomain = 'your-shop-online.in';
 
-    // Check if we're on a subdomain (e.g., www.your-shop-online.in, blog.your-shop-online.in, etc.)
-    if (hostname !== targetDomain && hostname.endsWith('.' + targetDomain)) {
-        // Redirect to apex domain with same path and query string
-        const newUrl = window.location.protocol + '//' + targetDomain + window.location.pathname + window.location.search + window.location.hash;
-        window.location.replace(newUrl);
-    }
-
-    // Also handle GitHub Pages default domain redirect
+    // Only handle GitHub Pages default domain redirect
+    // Subdomains are intentionally configured in DNS and should work independently
     if (hostname.endsWith('.github.io')) {
         const newUrl = window.location.protocol + '//' + targetDomain + window.location.pathname + window.location.search + window.location.hash;
         window.location.replace(newUrl);

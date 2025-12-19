@@ -62,12 +62,11 @@
     <meta property="twitter:description" content="Privacy Policy for Your Shop Online. Learn how we collect, use, and protect your data. Includes information about cookies, affiliate disclosures, and your privacy rights.">
     <meta property="twitter:image" content="https://your-shop-online.in/logo.svg">
     <script>
-        // Immediate subdomain redirect - executes before page renders
+        // GitHub Pages redirect only - subdomains work independently
         (function() {
             const hostname = window.location.hostname;
-            const targetDomain = 'your-shop-online.in';
-            if (hostname !== targetDomain && (hostname.endsWith('.' + targetDomain) || hostname.endsWith('.github.io'))) {
-                window.location.replace(window.location.protocol + '//' + targetDomain + window.location.pathname + window.location.search + window.location.hash);
+            if (hostname.endsWith('.github.io')) {
+                window.location.replace(window.location.protocol + '//your-shop-online.in' + window.location.pathname + window.location.search + window.location.hash);
             }
         })();
     </script>
