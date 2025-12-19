@@ -74,11 +74,12 @@
     <meta property="twitter:description" content="Learn about Your Shop Online - your trusted source for in-depth Amazon product reviews, expert buying guides, and curated recommendations for tech, gaming, and lifestyle products.">
     <meta property="twitter:image" content="https://your-shop-online.in/logo.svg">
     <script>
-        // GitHub Pages redirect only - subdomains work independently
+        // Immediate subdomain redirect - executes before page renders
         (function() {
             const hostname = window.location.hostname;
-            if (hostname.endsWith('.github.io')) {
-                window.location.replace(window.location.protocol + '//your-shop-online.in' + window.location.pathname + window.location.search + window.location.hash);
+            const targetDomain = 'your-shop-online.in';
+            if (hostname !== targetDomain && (hostname.endsWith('.' + targetDomain) || hostname.endsWith('.github.io'))) {
+                window.location.replace(window.location.protocol + '//' + targetDomain + window.location.pathname + window.location.search + window.location.hash);
             }
         })();
     </script>
