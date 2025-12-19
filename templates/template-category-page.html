@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- INSTRUCTIONS: Replace [CATEGORY_NAME], [CATEGORY_SLUG], [ICON] with actual values -->
+
+    <title>[CATEGORY_NAME] Reviews - Your Shop Online</title>
+    <meta name="description" content="Browse expert reviews of [CATEGORY_NAME]. Find the best products, compare options, and make informed decisions.">
+    <link rel="canonical" href="https://your-shop-online.in/categories/[CATEGORY_SLUG].html">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://your-shop-online.in/categories/[CATEGORY_SLUG].html">
+    <meta property="og:title" content="[CATEGORY_NAME] Reviews - Your Shop Online">
+    <meta property="og:description" content="Expert reviews of [CATEGORY_NAME]">
+    <meta property="og:image" content="https://your-shop-online.in/logo-512.png">
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="../blog-styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="icon" type="image/svg+xml" href="../favicon.svg">
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-EV8RGKBESY"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-EV8RGKBESY');
+    </script>
+
+    <style>
+        .category-hero {
+            background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-dark) 100%);
+            color: white;
+            padding: 3rem 2rem;
+        }
+
+        .category-hero-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            gap: 2rem;
+        }
+
+        .category-icon-large {
+            width: 100px;
+            height: 100px;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 3rem;
+            flex-shrink: 0;
+        }
+
+        .category-info h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .category-info p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .category-stats {
+            display: flex;
+            gap: 2rem;
+            margin-top: 1rem;
+            font-size: 0.95rem;
+        }
+
+        .category-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .filter-controls {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 12px;
+            box-shadow: var(--shadow);
+            margin-bottom: 2rem;
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .filter-group {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .filter-group label {
+            font-weight: 600;
+            color: var(--text-dark);
+        }
+
+        .filter-group select {
+            padding: 0.5rem 1rem;
+            border: 2px solid #e5e7eb;
+            border-radius: 8px;
+            font-size: 0.95rem;
+            cursor: pointer;
+        }
+
+        .filter-group select:focus {
+            outline: none;
+            border-color: var(--primary-color);
+        }
+
+        .posts-grid {
+            display: grid;
+            gap: 2rem;
+        }
+
+        @media (max-width: 768px) {
+            .category-hero-content {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .category-info h1 {
+                font-size: 1.8rem;
+            }
+
+            .filter-controls {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .filter-group {
+                flex-direction: column;
+                align-items: stretch;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="../index.html" class="nav-logo">
+                <img src="../logo.svg" alt="Your Shop Online" height="40">
+                <span>Your Shop Online</span>
+            </a>
+            <ul class="nav-menu">
+                <li class="nav-item"><a href="../index.html" class="nav-link">Home</a></li>
+                <li class="nav-item"><a href="../about.html" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="../contact.html" class="nav-link">Contact</a></li>
+            </ul>
+            <button class="search-btn" onclick="openSearch()">
+                <i class="fas fa-search"></i>
+            </button>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Breadcrumb -->
+    <div class="breadcrumb-container">
+        <nav class="breadcrumb">
+            <a href="../index.html">Home</a>
+            <span class="separator">/</span>
+            <a href="../categories.html">Categories</a>
+            <span class="separator">/</span>
+            <span class="current">[CATEGORY_NAME]</span>
+        </nav>
+    </div>
+
+    <!-- Category Hero -->
+    <div class="category-hero">
+        <div class="category-hero-content">
+            <div class="category-icon-large">
+                <i class="fas fa-[ICON]"></i>
+            </div>
+            <div class="category-info">
+                <h1>[CATEGORY_NAME] Reviews</h1>
+                <p>[Category description - what this category includes and why it matters]</p>
+                <div class="category-stats">
+                    <span><i class="fas fa-newspaper"></i> <span id="postCount">0</span> Reviews</span>
+                    <span><i class="fas fa-clock"></i> Updated Regularly</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Category Container -->
+    <div class="category-container">
+        <!-- Filter Controls -->
+        <div class="filter-controls">
+            <div class="filter-group">
+                <label for="sortBy">Sort by:</label>
+                <select id="sortBy" onchange="applyFilters()">
+                    <option value="newest">Newest First</option>
+                    <option value="oldest">Oldest First</option>
+                    <option value="title-asc">Title (A-Z)</option>
+                    <option value="title-desc">Title (Z-A)</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label for="priceFilter">Price Range:</label>
+                <select id="priceFilter" onchange="applyFilters()">
+                    <option value="all">All Prices</option>
+                    <option value="$">Budget ($)</option>
+                    <option value="$$">Mid-Range ($$)</option>
+                    <option value="$$$">Premium ($$$)</option>
+                    <option value="$$$$">Luxury ($$$$)</option>
+                </select>
+            </div>
+
+            <div class="filter-group" style="margin-left: auto;">
+                <span id="resultCount">0</span> results
+            </div>
+        </div>
+
+        <!-- Posts Grid -->
+        <div class="posts-grid" id="postsGrid">
+            <!-- Posts will be loaded dynamically -->
+        </div>
+
+        <!-- No Results Message -->
+        <div id="noResults" style="display: none; text-align: center; padding: 3rem;">
+            <i class="fas fa-search" style="font-size: 3rem; color: var(--text-light); margin-bottom: 1rem;"></i>
+            <h3>No posts found</h3>
+            <p>Try adjusting your filters or check back later for new content.</p>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-container">
+            <div class="footer-section">
+                <h3>Your Shop Online</h3>
+                <p>Your trusted source for Amazon best sellers and product reviews in 2025.</p>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <ul class="footer-links">
+                    <li><a href="../index.html">Home</a></li>
+                    <li><a href="../about.html">About</a></li>
+                    <li><a href="../categories.html">Categories</a></li>
+                    <li><a href="../contact.html">Contact</a></li>
+                    <li><a href="../privacy-policy.html">Privacy Policy</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3>Newsletter</h3>
+                <p>Get the latest reviews and deals delivered to your inbox.</p>
+                <form class="newsletter-form" onsubmit="subscribeNewsletter(event)">
+                    <input type="email" placeholder="Your email" required>
+                    <button type="submit">Subscribe</button>
+                </form>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 Your Shop Online. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="../script.js"></script>
+    <script src="../posts-loader.js"></script>
+    <script>
+        const CATEGORY_NAME = '[CATEGORY_NAME]';  // Replace with actual category name
+        let allPosts = [];
+        let filteredPosts = [];
+
+        // Icon mapping (same as posts-loader.js)
+        const iconMap = {
+            'camera': 'fa-camera',
+            'fire': 'fa-fire',
+            'blender': 'fa-blender',
+            'home': 'fa-home',
+            'headphones': 'fa-headphones',
+            'watch': 'fa-watch',
+            'gamepad': 'fa-gamepad',
+            'battery-full': 'fa-battery-full',
+            // Add more as needed
+        };
+
+        // Load posts for this category
+        async function loadCategoryPosts() {
+            try {
+                const response = await fetch('../posts-config.json');
+                const posts = await response.json();
+
+                // Filter by category
+                allPosts = posts.filter(post => post.category === CATEGORY_NAME);
+                filteredPosts = [...allPosts];
+
+                // Update count
+                document.getElementById('postCount').textContent = allPosts.length;
+
+                // Render posts
+                renderPosts();
+
+            } catch (error) {
+                console.error('Error loading posts:', error);
+                document.getElementById('postsGrid').innerHTML =
+                    '<p style="text-align: center;">Error loading posts. Please try again later.</p>';
+            }
+        }
+
+        // Render posts
+        function renderPosts() {
+            const grid = document.getElementById('postsGrid');
+            const noResults = document.getElementById('noResults');
+
+            if (filteredPosts.length === 0) {
+                grid.innerHTML = '';
+                noResults.style.display = 'block';
+                document.getElementById('resultCount').textContent = '0';
+                return;
+            }
+
+            noResults.style.display = 'none';
+            document.getElementById('resultCount').textContent = filteredPosts.length;
+
+            grid.innerHTML = filteredPosts.map(post => {
+                const iconClass = iconMap[post.icon] || 'fa-tag';
+
+                return `
+                    <article class="blog-card">
+                        <a href="../Posts/${post.filename}.html">
+                            <div class="blog-image">
+                                <div class="blog-category">${post.category}</div>
+                                <div class="blog-placeholder">
+                                    <i class="fas ${iconClass}"></i>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="blog-content">
+                            <div class="blog-meta">
+                                ${post.date} • ${post.read_time}
+                            </div>
+                            <h2><a href="../Posts/${post.filename}.html">${post.title}</a></h2>
+                            <p>${post.description}</p>
+                            <a href="../Posts/${post.filename}.html" class="btn-blog">Read Full Review</a>
+
+                            <div class="social-share">
+                                <a href="https://www.facebook.com/sharer/sharer.php?u=https://your-shop-online.in/Posts/${post.filename}.html"
+                                   target="_blank" class="share-btn" aria-label="Share on Facebook">
+                                    <i class="fab fa-facebook-f"></i>
+                                </a>
+                                <a href="https://twitter.com/intent/tweet?url=https://your-shop-online.in/Posts/${post.filename}.html&text=${encodeURIComponent(post.title)}"
+                                   target="_blank" class="share-btn" aria-label="Share on Twitter">
+                                    <i class="fab fa-twitter"></i>
+                                </a>
+                                <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://your-shop-online.in/Posts/${post.filename}.html"
+                                   target="_blank" class="share-btn" aria-label="Share on LinkedIn">
+                                    <i class="fab fa-linkedin-in"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </article>
+                `;
+            }).join('');
+        }
+
+        // Apply filters and sorting
+        function applyFilters() {
+            const sortBy = document.getElementById('sortBy').value;
+            const priceFilter = document.getElementById('priceFilter').value;
+
+            // Filter by price (if enhanced data available)
+            if (priceFilter === 'all') {
+                filteredPosts = [...allPosts];
+            } else {
+                filteredPosts = allPosts.filter(post =>
+                    post.price_range && post.price_range.includes(priceFilter)
+                );
+            }
+
+            // Sort
+            switch (sortBy) {
+                case 'newest':
+                    // Already in newest first order typically
+                    break;
+                case 'oldest':
+                    filteredPosts.reverse();
+                    break;
+                case 'title-asc':
+                    filteredPosts.sort((a, b) => a.title.localeCompare(b.title));
+                    break;
+                case 'title-desc':
+                    filteredPosts.sort((a, b) => b.title.localeCompare(a.title));
+                    break;
+            }
+
+            renderPosts();
+        }
+
+        // Load posts on page load
+        document.addEventListener('DOMContentLoaded', loadCategoryPosts);
+    </script>
+</body>
+</html>

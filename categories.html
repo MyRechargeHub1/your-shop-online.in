@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Browse by Category - Your Shop Online</title>
+    <meta name="description" content="Browse our comprehensive product reviews organized by category. Find expert reviews for cameras, smart home devices, kitchen appliances, and more.">
+    <link rel="canonical" href="https://your-shop-online.in/categories.html">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://your-shop-online.in/categories.html">
+    <meta property="og:title" content="Browse by Category - Your Shop Online">
+    <meta property="og:description" content="Browse product reviews organized by category">
+    <meta property="og:image" content="https://your-shop-online.in/logo-512.png">
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="blog-styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-EV8RGKBESY"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-EV8RGKBESY');
+    </script>
+
+    <style>
+        .categories-hero {
+            background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-dark) 100%);
+            color: white;
+            padding: 4rem 2rem;
+            text-align: center;
+        }
+
+        .categories-hero h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .categories-hero p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+
+        .categories-container {
+            max-width: 1200px;
+            margin: 3rem auto;
+            padding: 0 2rem;
+        }
+
+        .categories-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .category-card {
+            background: white;
+            border-radius: 12px;
+            padding: 2rem;
+            box-shadow: var(--shadow);
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+            color: var(--text-dark);
+            display: block;
+        }
+
+        .category-card:hover {
+            transform: translateY(-5px);
+            box-shadow: var(--shadow-lg);
+        }
+
+        .category-icon {
+            width: 80px;
+            height: 80px;
+            background: linear-gradient(135deg, var(--primary-color), var(--primary-dark));
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 1.5rem;
+            font-size: 2rem;
+            color: white;
+        }
+
+        .category-card h3 {
+            font-size: 1.3rem;
+            margin-bottom: 0.5rem;
+            color: var(--text-dark);
+        }
+
+        .category-count {
+            color: var(--text-light);
+            font-size: 0.95rem;
+            margin-bottom: 1rem;
+        }
+
+        .category-description {
+            color: var(--text-light);
+            font-size: 0.9rem;
+            line-height: 1.5;
+        }
+
+        .search-categories {
+            max-width: 600px;
+            margin: 2rem auto;
+            position: relative;
+        }
+
+        .search-categories input {
+            width: 100%;
+            padding: 1rem 1rem 1rem 3rem;
+            border: 2px solid #e5e7eb;
+            border-radius: 50px;
+            font-size: 1rem;
+            transition: border-color 0.3s;
+        }
+
+        .search-categories input:focus {
+            outline: none;
+            border-color: var(--primary-color);
+        }
+
+        .search-categories i {
+            position: absolute;
+            left: 1.2rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-light);
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo">
+                <img src="logo.svg" alt="Your Shop Online" height="40">
+                <span>Your Shop Online</span>
+            </a>
+            <ul class="nav-menu">
+                <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
+                <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+            </ul>
+            <button class="search-btn" onclick="openSearch()">
+                <i class="fas fa-search"></i>
+            </button>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <div class="categories-hero">
+        <h1>Browse by Category</h1>
+        <p>Explore expert reviews organized by product category</p>
+    </div>
+
+    <!-- Categories Container -->
+    <div class="categories-container">
+        <!-- Search Categories -->
+        <div class="search-categories">
+            <i class="fas fa-search"></i>
+            <input type="text" id="categorySearch" placeholder="Search categories..." onkeyup="filterCategories()">
+        </div>
+
+        <!-- Categories Grid -->
+        <div class="categories-grid" id="categoriesGrid">
+            <!-- Categories will be loaded dynamically from posts-config.json -->
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-container">
+            <div class="footer-section">
+                <h3>Your Shop Online</h3>
+                <p>Your trusted source for Amazon best sellers and product reviews in 2025.</p>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <ul class="footer-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="categories.html">Categories</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3>Newsletter</h3>
+                <p>Get the latest reviews and deals delivered to your inbox.</p>
+                <form class="newsletter-form" onsubmit="subscribeNewsletter(event)">
+                    <input type="email" placeholder="Your email" required>
+                    <button type="submit">Subscribe</button>
+                </form>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 Your Shop Online. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="script.js"></script>
+    <script>
+        // Icon mapping for categories
+        const categoryIcons = {
+            'Professional Cameras': 'camera',
+            'Outdoor Grilling': 'fire',
+            'Kitchen Appliances': 'blender',
+            'Smart Home': 'home',
+            'Audio': 'headphones',
+            'Wearables': 'watch',
+            'Gaming': 'gamepad',
+            'Fitness': 'dumbbell',
+            'Portable Charging': 'battery-full',
+            'Computing': 'laptop',
+            'Mobile Devices': 'mobile-alt',
+            'TV & Video': 'tv',
+            'Networking': 'wifi',
+            'Storage': 'hdd',
+            'Printers': 'print',
+            'Monitors': 'desktop',
+            'Peripherals': 'keyboard',
+            'Software': 'code',
+            'Security': 'shield-alt',
+            'Smart Watches': 'watch',
+            'Headphones': 'headphones-alt',
+            'Speakers': 'volume-up',
+            'Home Theater': 'film',
+            'Streaming Devices': 'cast',
+            'eReaders': 'book-reader',
+            'Tablets': 'tablet-alt',
+            'Laptops': 'laptop-code',
+            'Desktops': 'desktop',
+            'Components': 'microchip',
+            'Accessories': 'plug',
+            'Office': 'briefcase',
+            'Gaming Furniture': 'chair',
+            'Lighting': 'lightbulb',
+            'Climate Control': 'temperature-high',
+            'Cleaning': 'broom',
+            'Pet Care': 'paw',
+            'Baby Products': 'baby',
+            'Health': 'heartbeat',
+            'Personal Care': 'user-md',
+            'Tools': 'tools',
+            'Automotive': 'car',
+            'Outdoor Recreation': 'campground',
+            'Sports Equipment': 'football-ball',
+            'Travel': 'suitcase-rolling'
+        };
+
+        // Category descriptions
+        const categoryDescriptions = {
+            'Professional Cameras': 'Expert reviews of professional cameras, mirrorless systems, and imaging gear',
+            'Outdoor Grilling': 'Gas grills, charcoal grills, smokers, and outdoor cooking equipment',
+            'Kitchen Appliances': 'Blenders, food processors, coffee makers, and kitchen essentials',
+            'Smart Home': 'Smart speakers, security cameras, thermostats, and home automation',
+            'Audio': 'Headphones, earbuds, speakers, and audio equipment reviews',
+            'Portable Charging': 'Power banks, portable chargers, and mobile power solutions',
+            'Gaming': 'Gaming consoles, accessories, and gaming peripherals',
+            'Fitness': 'Fitness trackers, gym equipment, and workout gear'
+        };
+
+        // Load categories from posts-config.json
+        async function loadCategories() {
+            try {
+                const response = await fetch('posts-config.json');
+                const posts = await response.json();
+
+                // Count posts per category
+                const categoryCounts = {};
+                posts.forEach(post => {
+                    const category = post.category;
+                    categoryCounts[category] = (categoryCounts[category] || 0) + 1;
+                });
+
+                // Convert to array and sort by count
+                const categories = Object.entries(categoryCounts)
+                    .map(([name, count]) => ({
+                        name,
+                        count,
+                        slug: name.toLowerCase().replace(/[^a-z0-9]+/g, '-'),
+                        icon: categoryIcons[name] || 'tag',
+                        description: categoryDescriptions[name] || `Browse ${count} expert reviews in ${name}`
+                    }))
+                    .sort((a, b) => b.count - a.count);
+
+                // Render categories
+                const grid = document.getElementById('categoriesGrid');
+                grid.innerHTML = categories.map(cat => `
+                    <a href="categories/${cat.slug}.html" class="category-card" data-category="${cat.name.toLowerCase()}">
+                        <div class="category-icon">
+                            <i class="fas fa-${cat.icon}"></i>
+                        </div>
+                        <h3>${cat.name}</h3>
+                        <div class="category-count">${cat.count} ${cat.count === 1 ? 'review' : 'reviews'}</div>
+                        <p class="category-description">${cat.description}</p>
+                    </a>
+                `).join('');
+
+            } catch (error) {
+                console.error('Error loading categories:', error);
+                document.getElementById('categoriesGrid').innerHTML =
+                    '<p style="text-align: center; grid-column: 1/-1;">Error loading categories. Please try again later.</p>';
+            }
+        }
+
+        // Filter categories
+        function filterCategories() {
+            const searchTerm = document.getElementById('categorySearch').value.toLowerCase();
+            const cards = document.querySelectorAll('.category-card');
+
+            cards.forEach(card => {
+                const categoryName = card.getAttribute('data-category');
+                if (categoryName.includes(searchTerm)) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        }
+
+        // Load categories on page load
+        document.addEventListener('DOMContentLoaded', loadCategories);
+    </script>
+</body>
+</html>
