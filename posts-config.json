@@ -1,5 +1,95 @@
 [
     {
+        "filename": "apple-mac-studio-m2-ultra",
+        "title": "Apple Mac Studio M2 Ultra Review 2025 - Professional Powerhouse Desktop",
+        "category": "Professional Computing",
+        "date": "Dec 21, 2025",
+        "read_time": "12 min",
+        "icon": "desktop",
+        "description": "Professional desktop workstation with M2 Ultra chip, up to 192GB unified memory, exceptional performance for creative professionals."
+    },
+    {
+        "filename": "vitamix-professional-series-750",
+        "title": "Vitamix Professional Series 750 Review 2025 - Premium Blender Worth Every Penny",
+        "category": "Kitchen Appliances",
+        "date": "Dec 21, 2025",
+        "read_time": "11 min",
+        "icon": "blender",
+        "description": "Premium blender with 2.2 HP motor, five pre-programmed settings, 64-ounce low-profile container, and legendary durability."
+    },
+    {
+        "filename": "blackstone-36-inch-griddle",
+        "title": "Blackstone 36-Inch Griddle Cooking Station Review 2025",
+        "category": "Outdoor Cooking",
+        "date": "Dec 21, 2025",
+        "read_time": "12 min",
+        "icon": "fire",
+        "description": "Professional outdoor griddle with 4 burners, 60,000 BTU power, 720 sq inches cooking surface for restaurant-quality meals."
+    },
+    {
+        "filename": "garmin-fenix-7x-sapphire-solar",
+        "title": "Garmin Fenix 7X Sapphire Solar GPS Watch Review 2025",
+        "category": "Fitness & Wearables",
+        "date": "Dec 21, 2025",
+        "read_time": "14 min",
+        "icon": "heartbeat",
+        "description": "Premium multisport GPS watch with solar charging, sapphire lens, advanced training metrics, and exceptional battery life."
+    },
+    {
+        "filename": "asus-rog-swift-oled-pg42uq",
+        "title": "ASUS ROG Swift OLED PG42UQ Gaming Monitor Review 2025",
+        "category": "Gaming Monitors",
+        "date": "Dec 21, 2025",
+        "read_time": "13 min",
+        "icon": "desktop",
+        "description": "42-inch 4K OLED gaming display with 138Hz refresh rate, 0.1ms response time, perfect blacks, and console gaming optimization."
+    },
+    {
+        "filename": "shark-ai-ultra-2in1-robot",
+        "title": "Shark AI Ultra 2-in-1 Robot Vacuum & Mop Review 2025",
+        "category": "Smart Home",
+        "date": "Dec 21, 2025",
+        "read_time": "11 min",
+        "icon": "cog",
+        "description": "Smart robot vacuum and mop with self-emptying base, sonic mopping, AI navigation, and powerful suction for complete cleaning."
+    },
+    {
+        "filename": "cricut-maker-3",
+        "title": "Cricut Maker 3 Professional Cutting Machine Review 2025",
+        "category": "Crafting & DIY",
+        "date": "Dec 21, 2025",
+        "read_time": "12 min",
+        "icon": "cut",
+        "description": "Professional cutting machine with smart materials compatibility, cuts 300+ materials, fast mode, and wireless connectivity."
+    },
+    {
+        "filename": "corsair-one-i300",
+        "title": "CORSAIR ONE i300 Compact Gaming PC Review 2025",
+        "category": "Gaming PCs",
+        "date": "Dec 21, 2025",
+        "read_time": "13 min",
+        "icon": "gamepad",
+        "description": "Ultra-compact gaming PC with RTX 4080, Intel Core i9, liquid cooling, whisper-quiet operation in premium small form factor."
+    },
+    {
+        "filename": "gaggia-classic-pro",
+        "title": "Gaggia Classic Pro Espresso Machine Review 2025",
+        "category": "Coffee & Espresso",
+        "date": "Dec 21, 2025",
+        "read_time": "13 min",
+        "icon": "coffee",
+        "description": "Professional home espresso machine with commercial-grade portafilter, powerful steam wand, and legendary Italian engineering."
+    },
+    {
+        "filename": "dji-osmo-pocket-3",
+        "title": "DJI Osmo Pocket 3 4K Handheld Camera Review 2025",
+        "category": "Cameras & Video",
+        "date": "Dec 21, 2025",
+        "read_time": "14 min",
+        "icon": "video",
+        "description": "Pocket-sized vlogging camera with 1-inch sensor, 3-axis gimbal, 4K 120fps video, and intelligent tracking for creators."
+    },
+    {
         "filename": "nikon-z9-flagship-camera-2025",
         "title": "Nikon Z9 Professional Mirrorless Camera Review 2025",
         "category": "Professional Cameras",
