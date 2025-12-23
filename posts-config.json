@@ -1735,5 +1735,95 @@
         "read_time": "18 min",
         "icon": "snowflake",
         "description": "Premium smart refrigerator with InstaView technology, craft ice maker, and ThinQ smart features."
+    },
+    {
+        "filename": "panorama-xl-rtx-5090-gaming-pc",
+        "title": "Panorama XL RTX 5090 Gaming PC Review 2025",
+        "category": "Gaming PCs",
+        "date": "Dec 23, 2025",
+        "read_time": "22 min",
+        "icon": "desktop",
+        "description": "Ultimate gaming desktop with RTX 5090, AMD Ryzen 9 9950X3D, 96GB DDR5, 4TB NVMe SSD, and liquid cooling."
+    },
+    {
+        "filename": "formovie-theater-premium-projector",
+        "title": "Formovie Theater Premium 4K Projector Review 2025",
+        "category": "Home Theater",
+        "date": "Dec 23, 2025",
+        "read_time": "20 min",
+        "icon": "film",
+        "description": "4K UHD ultra short throw triple laser projector with 2200 lumens, Google TV, Netflix, and Bowers & Wilkins speakers."
+    },
+    {
+        "filename": "ridstar-q20-pro-electric-bike",
+        "title": "Ridstar Q20 Pro Electric Bike Review 2025",
+        "category": "Electric Bikes",
+        "date": "Dec 23, 2025",
+        "read_time": "19 min",
+        "icon": "bicycle",
+        "description": "Dual 1000W motor e-bike with 52V 40Ah battery, 180-mile range, and 34 MPH top speed for ultimate power."
+    },
+    {
+        "filename": "roborock-s8-maxv-ultra",
+        "title": "Roborock S8 MaxV Ultra Robot Vacuum Review 2025",
+        "category": "Smart Home",
+        "date": "Dec 23, 2025",
+        "read_time": "20 min",
+        "icon": "robot",
+        "description": "Premium robot vacuum with 10,000Pa suction, FlexiArm Design, RockDock Ultra 8-in-1 station, and advanced AI."
+    },
+    {
+        "filename": "rocket-appartamento-tca-espresso",
+        "title": "Rocket Appartamento TCA Espresso Machine Review 2025",
+        "category": "Coffee & Espresso",
+        "date": "Dec 23, 2025",
+        "read_time": "19 min",
+        "icon": "coffee",
+        "description": "Premium Italian espresso machine with E61 group head, PID temperature control, and luxury craftsmanship."
+    },
+    {
+        "filename": "flexispot-e7-pro-standing-desk",
+        "title": "FlexiSpot E7 Pro Standing Desk Review 2025",
+        "category": "Office Furniture",
+        "date": "Dec 23, 2025",
+        "read_time": "18 min",
+        "icon": "desk",
+        "description": "Premium electric standing desk with 355lb capacity, dual motors, 4 memory presets, and whisper-quiet operation."
+    },
+    {
+        "filename": "garmin-fenix-8-pro-smartwatch",
+        "title": "Garmin Fenix 8 Pro Smartwatch Review 2025",
+        "category": "Smartwatches",
+        "date": "Dec 23, 2025",
+        "read_time": "19 min",
+        "icon": "watch",
+        "description": "Premium multisport GPS watch with AMOLED display, 16-day battery, advanced training metrics, and dive computer."
+    },
+    {
+        "filename": "lg-32gs95ue-ultragear-oled-monitor",
+        "title": "LG 32GS95UE UltraGear OLED Gaming Monitor Review 2025",
+        "category": "Gaming Monitors",
+        "date": "Dec 23, 2025",
+        "read_time": "18 min",
+        "icon": "desktop",
+        "description": "32-inch 4K OLED gaming monitor with 240Hz refresh, 0.03ms response, dual mode 480Hz FHD, and HDR True Black 400."
+    },
+    {
+        "filename": "sony-a7r-v-mirrorless-camera",
+        "title": "Sony A7R V Mirrorless Camera Review 2025",
+        "category": "Professional Cameras",
+        "date": "Dec 23, 2025",
+        "read_time": "20 min",
+        "icon": "camera",
+        "description": "61MP full-frame camera with AI-powered autofocus, 8K video, advanced image stabilization, and professional features."
+    },
+    {
+        "filename": "dyson-big-quiet-air-purifier",
+        "title": "Dyson Big+Quiet Formaldehyde Air Purifier Review 2025",
+        "category": "Home Air Quality",
+        "date": "Dec 23, 2025",
+        "read_time": "17 min",
+        "icon": "wind",
+        "description": "Premium air purifier with HEPA H13 filtration, 99.95% particle capture, formaldehyde destruction, and quiet operation."
     }
 ]
