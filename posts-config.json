@@ -1,345 +1,1407 @@
 [
     {
-        "filename": "apple-mac-studio-m2-ultra",
-        "title": "Apple Mac Studio M2 Ultra Review 2025 - Professional Powerhouse Desktop",
-        "category": "Professional Computing",
-        "date": "Dec 21, 2025",
-        "read_time": "12 min",
+        "filename": "alienware-aurora-r16",
+        "title": "Alienware Aurora R16 Gaming Desktop  Ultimate Gaming PC",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
         "icon": "desktop",
-        "description": "Professional desktop workstation with M2 Ultra chip, up to 192GB unified memory, exceptional performance for creative professionals."
+        "description": "Alienware Aurora R16 gaming desktop review 2025 - Ultimate gaming PC with Intel Core i9-14900KF, NVIDIA RTX 4090, 64GB RAM, and liquid cooling. Best premium gaming computer for US gamers."
     },
     {
-        "filename": "vitamix-professional-series-750",
-        "title": "Vitamix Professional Series 750 Review 2025 - Premium Blender Worth Every Penny",
-        "category": "Kitchen Appliances",
-        "date": "Dec 21, 2025",
-        "read_time": "11 min",
-        "icon": "blender",
-        "description": "Premium blender with 2.2 HP motor, five pre-programmed settings, 64-ounce low-profile container, and legendary durability."
+        "filename": "amazon-echo-hub",
+        "title": "Amazon Echo Hub  Smart Home Control Center",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "shopping-cart",
+        "description": "Amazon Echo Hub review 2025 - The ultimate smart home control panel with 8-inch touchscreen, Matter support, and Alexa integration. Complete buyer's guide for US shoppers."
     },
     {
-        "filename": "blackstone-36-inch-griddle",
-        "title": "Blackstone 36-Inch Griddle Cooking Station Review 2025",
-        "category": "Outdoor Cooking",
-        "date": "Dec 21, 2025",
-        "read_time": "12 min",
-        "icon": "fire",
-        "description": "Professional outdoor griddle with 4 burners, 60,000 BTU power, 720 sq inches cooking surface for restaurant-quality meals."
+        "filename": "anker-solix-f3800",
+        "title": "Anker SOLIX F3800 Review: 3840Wh Portable Power Station | YourShop",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "shopping-cart",
+        "description": "Comprehensive Anker SOLIX F3800 review: 3840Wh portable power station with 6000W output, expandable capacity, and ultra-fast charging for home backup and outdoor adventures."
     },
     {
-        "filename": "garmin-fenix-7x-sapphire-solar",
-        "title": "Garmin Fenix 7X Sapphire Solar GPS Watch Review 2025",
-        "category": "Fitness & Wearables",
-        "date": "Dec 21, 2025",
-        "read_time": "14 min",
-        "icon": "heartbeat",
-        "description": "Premium multisport GPS watch with solar charging, sapphire lens, advanced training metrics, and exceptional battery life."
+        "filename": "anova-precision-cooker-pro",
+        "title": "Anova Precision Cooker Pro  Ultimate Commercial Sous Vide",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "shopping-cart",
+        "description": "Anova Precision Cooker Pro review for 2025 - Commercial-grade sous vide with 1200W power and precision control. Complete buyer's guide for serious home cooks in the United States."
     },
     {
-        "filename": "asus-rog-swift-oled-pg42uq",
-        "title": "ASUS ROG Swift OLED PG42UQ Gaming Monitor Review 2025",
-        "category": "Gaming Monitors",
-        "date": "Dec 21, 2025",
-        "read_time": "13 min",
-        "icon": "desktop",
-        "description": "42-inch 4K OLED gaming display with 138Hz refresh rate, 0.1ms response time, perfect blacks, and console gaming optimization."
+        "filename": "apple-homepod-2",
+        "title": "Apple HomePod 2  Premium Audio Excellence",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "volume-up",
+        "description": "Apple HomePod 2 review 2025 - Premium smart speaker with exceptional audio, Siri integration, and smart home hub capabilities. Complete buyer's guide for US shoppers."
     },
     {
-        "filename": "shark-ai-ultra-2in1-robot",
-        "title": "Shark AI Ultra 2-in-1 Robot Vacuum & Mop Review 2025",
-        "category": "Smart Home",
-        "date": "Dec 21, 2025",
-        "read_time": "11 min",
-        "icon": "cog",
-        "description": "Smart robot vacuum and mop with self-emptying base, sonic mopping, AI navigation, and powerful suction for complete cleaning."
+        "filename": "apple-vision-pro",
+        "title": "Apple Vision Pro  Revolutionary Spatial Computing",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "shopping-cart",
+        "description": "Apple Vision Pro review for 2025 - Revolutionary spatial computing headset with stunning display, immersive experiences, and seamless Apple ecosystem integration. Complete buyer's guide for US shoppers."
     },
     {
-        "filename": "cricut-maker-3",
-        "title": "Cricut Maker 3 Professional Cutting Machine Review 2025",
-        "category": "Crafting & DIY",
-        "date": "Dec 21, 2025",
-        "read_time": "12 min",
-        "icon": "cut",
-        "description": "Professional cutting machine with smart materials compatibility, cuts 300+ materials, fast mode, and wireless connectivity."
-    },
-    {
-        "filename": "corsair-one-i300",
-        "title": "CORSAIR ONE i300 Compact Gaming PC Review 2025",
-        "category": "Gaming PCs",
-        "date": "Dec 21, 2025",
-        "read_time": "13 min",
-        "icon": "gamepad",
-        "description": "Ultra-compact gaming PC with RTX 4080, Intel Core i9, liquid cooling, whisper-quiet operation in premium small form factor."
-    },
-    {
-        "filename": "gaggia-classic-pro",
-        "title": "Gaggia Classic Pro Espresso Machine Review 2025",
-        "category": "Coffee & Espresso",
-        "date": "Dec 21, 2025",
-        "read_time": "13 min",
-        "icon": "coffee",
-        "description": "Professional home espresso machine with commercial-grade portafilter, powerful steam wand, and legendary Italian engineering."
-    },
-    {
-        "filename": "dji-osmo-pocket-3",
-        "title": "DJI Osmo Pocket 3 4K Handheld Camera Review 2025",
-        "category": "Cameras & Video",
-        "date": "Dec 21, 2025",
-        "read_time": "14 min",
-        "icon": "video",
-        "description": "Pocket-sized vlogging camera with 1-inch sensor, 3-axis gimbal, 4K 120fps video, and intelligent tracking for creators."
-    },
-    {
-        "filename": "nikon-z9-flagship-camera-2025",
-        "title": "Nikon Z9 Professional Mirrorless Camera Review 2025",
-        "category": "Professional Cameras",
-        "date": "Jan 18, 2025",
-        "read_time": "21 min",
-        "icon": "camera",
-        "description": "Nikon's flagship mirrorless camera with 45.7MP stacked sensor, 20fps shooting, revolutionary autofocus, and professional 8K video."
-    },
-    {
-        "filename": "fujifilm-gfx-100s-ii-medium-format-2025",
-        "title": "Fujifilm GFX 100S II Medium Format Camera Review 2025",
-        "category": "Professional Cameras",
-        "date": "Jan 18, 2025",
+        "filename": "assault-airbike-elite-2025",
+        "title": "Assault AirBike Elite  The Ultimate HIIT Cardio Machine",
+        "category": "Exercise Equipment",
+        "date": "December 25, 2025",
         "read_time": "20 min",
-        "icon": "camera",
-        "description": "Stunning 102MP medium format camera with compact design, advanced autofocus, and exceptional image quality for professionals."
+        "icon": "bicycle",
+        "description": "Assault AirBike Elite review 2025: Premium air bike for intense HIIT training, CrossFit workouts, and conditioning. Commercial-grade quality for home and gym use in the US."
     },
     {
-        "filename": "weber-genesis-epx-435-smart-grill-2025",
-        "title": "Weber Genesis EPX-435 Smart Grill Review 2025",
-        "category": "Outdoor Grilling",
-        "date": "Jan 18, 2025",
-        "read_time": "18 min",
-        "icon": "fire",
-        "description": "Premium smart gas grill with Weber Connect technology, four burners, expanded sear zone, and all-stainless construction."
+        "filename": "baratza-sette-270wi-grinder",
+        "title": "Baratza Sette 270Wi  Revolutionary GrindbyWeight Espresso Grinder",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "coffee",
+        "description": "Baratza Sette 270Wi espresso grinder review for 2025 - Revolutionary grind-by-weight technology meets exceptional precision. Complete buyer's guide for serious coffee enthusiasts in the United States."
     },
     {
-        "filename": "kamado-joe-classic-iii-ceramic-grill-2025",
-        "title": "Kamado Joe Classic III Ceramic Grill Review 2025",
-        "category": "Outdoor Grilling",
-        "date": "Jan 18, 2025",
-        "read_time": "19 min",
-        "icon": "fire",
-        "description": "Premium ceramic kamado grill with innovative Air Lift hinge, Divide & Conquer system, and exceptional heat retention."
+        "filename": "beats-studio-pro",
+        "title": "Beats Studio Pro Wireless Headphones  Premium Audio",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "mobile",
+        "description": "Beats Studio Pro review 2025: Premium wireless headphones with lossless USB-C audio, personalized spatial audio, active noise cancelling, 40-hour battery life, and custom 40mm drivers."
     },
     {
-        "filename": "napoleon-prestige-500-grill-2025",
-        "title": "Napoleon Prestige 500 Grill Review 2025",
-        "category": "Outdoor Grilling",
-        "date": "Jan 18, 2025",
-        "read_time": "18 min",
-        "icon": "fire",
-        "description": "Luxury gas grill with infrared searing station, rotisserie kit, ceramic infrared burners, and lifetime warranty."
+        "filename": "bernina-770-qe-sewing-machine",
+        "title": "Bernina 770 QE  The Ultimate Professional Sewing Machine",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "shopping-cart",
+        "description": "Bernina 770 QE sewing machine review for 2025 - Swiss precision engineering meets quilting excellence. Complete buyer's guide for serious sewers and quilters in the United States."
     },
     {
         "filename": "blendtec-designer-725-blender-2025",
-        "title": "Blendtec Designer 725 Blender Review 2025",
-        "category": "Kitchen Appliances",
-        "date": "Jan 18, 2025",
-        "read_time": "17 min",
+        "title": "Blendtec Designer 725 Blender  Commercial Power Meets Smart Technology",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
         "icon": "blender",
-        "description": "Professional-grade blender with 1725W motor, SmartBlend technology, 100-speed control, and 8-year warranty."
-    },
-    {
-        "filename": "sonos-arc-ultra-soundbar-2025",
-        "title": "Sonos Arc Ultra Soundbar Review 2025",
-        "category": "Home Theater",
-        "date": "Jan 18, 2025",
-        "read_time": "18 min",
-        "icon": "volume-up",
-        "description": "Revolutionary soundbar with Sound Motion technology, 9.1.4 spatial audio, Dolby Atmos, and immersive surround sound."
+        "description": "Comprehensive review of the Blendtec Designer 725 blender. 3.8 peak horsepower motor, touchscreen controls, 100+ blend cycles, and commercial-grade performance for smoothies, soups, and more in 2025."
     },
     {
         "filename": "bose-smart-ultra-soundbar-2025",
-        "title": "Bose Smart Ultra Soundbar Review 2025",
-        "category": "Home Theater",
-        "date": "Jan 18, 2025",
-        "read_time": "17 min",
+        "title": "Bose Smart Ultra Soundbar  Premium Dolby Atmos Immersion",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
         "icon": "volume-up",
-        "description": "Premium soundbar with PhaseGuide technology, QuietPort bass, Dolby Atmos, and AI Dialogue Mode for crystal-clear sound."
+        "description": "Comprehensive review of the Bose Smart Ultra Soundbar. Dolby Atmos immersion, AI Dialogue Mode, PhaseGuide technology, and legendary Bose audio quality for exceptional home theater in 2025."
     },
     {
-        "filename": "eufy-security-s330-eufycam-3-2025",
-        "title": "Eufy Security S330 eufyCam 3 Review 2025",
-        "category": "Security Systems",
-        "date": "Jan 18, 2025",
-        "read_time": "18 min",
-        "icon": "video",
-        "description": "4K security camera system with solar panels, AI detection, no monthly fees, and exceptional battery life."
-    },
-    {
-        "filename": "samsung-odyssey-neo-g9-57-gaming-monitor-2025",
-        "title": "Samsung Odyssey Neo G9 57\" Gaming Monitor Review 2025",
-        "category": "Gaming Monitors",
-        "date": "Jan 18, 2025",
-        "read_time": "19 min",
-        "icon": "desktop",
-        "description": "Massive 57-inch dual 4K gaming monitor with 240Hz, Quantum Mini-LED, 1000R curve, and DisplayPort 2.1."
-    },
-    {
-        "filename": "sony-a9-iii-mirrorless-camera-2025",
-        "title": "Sony A9 III Mirrorless Camera Review 2025",
-        "category": "Professional Cameras",
-        "date": "Jan 18, 2025",
-        "read_time": "18 min",
-        "icon": "camera",
-        "description": "Revolutionary full-frame camera with world's first global shutter sensor, 120fps shooting, and zero blackout viewfinder."
-    },
-    {
-        "filename": "canon-eos-r1-flagship-camera-2025",
-        "title": "Canon EOS R1 Flagship Camera Review 2025",
-        "category": "Professional Cameras",
-        "date": "Jan 18, 2025",
-        "read_time": "20 min",
-        "icon": "camera",
-        "description": "Canon's ultimate flagship mirrorless camera with 40fps shooting, advanced AI autofocus, and professional-grade performance."
-    },
-    {
-        "filename": "samsung-98-inch-neo-qled-8k-tv-2025",
-        "title": "Samsung 98-Inch Neo QLED 8K TV Review 2025",
-        "category": "Premium Televisions",
-        "date": "Jan 18, 2025",
-        "read_time": "17 min",
-        "icon": "tv",
-        "description": "Massive 98-inch 8K television with Quantum Matrix Pro technology, 4,000 nits brightness, and AI upscaling."
-    },
-    {
-        "filename": "sub-zero-48-french-door-refrigerator-2025",
-        "title": "Sub-Zero 48 French Door Refrigerator Review 2025",
-        "category": "Luxury Appliances",
-        "date": "Jan 18, 2025",
-        "read_time": "16 min",
-        "icon": "snowflake",
-        "description": "Premium refrigerator with revolutionary dual refrigeration system, NASA-inspired air purification, and exceptional build quality."
-    },
-    {
-        "filename": "breville-oracle-jet-espresso-machine-2025",
-        "title": "Breville Oracle Jet Espresso Machine Review 2025",
-        "category": "Kitchen Appliances",
-        "date": "Jan 18, 2025",
-        "read_time": "17 min",
-        "icon": "coffee",
-        "description": "Premium automatic espresso machine with Cold Brew technology, Auto MilQ system, and dual boiler performance."
-    },
-    {
-        "filename": "garmin-marq-golfer-gen2-watch-2025",
-        "title": "Garmin MARQ Golfer Gen 2 Luxury Watch Review 2025",
-        "category": "Luxury Smartwatches",
-        "date": "Jan 18, 2025",
-        "read_time": "16 min",
-        "icon": "golf-ball",
-        "description": "Premium titanium golf smartwatch with 43,000+ courses, Virtual Caddie, and comprehensive health tracking."
+        "filename": "bose-ultra-open-earbuds",
+        "title": "Bose Ultra Open Earbuds  Premium Audio",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "headphones",
+        "description": "Bose Ultra Open Earbuds review 2025: Revolutionary open-ear design with Immersive Audio, 7.5-hour battery, IPX4 water resistance, and premium comfort. Experience sound without blocking your ears."
     },
     {
         "filename": "bowers-wilkins-800-d4-diamond-speakers-2025",
-        "title": "Bowers & Wilkins 800 D4 Diamond Speakers Review 2025",
-        "category": "Audiophile Equipment",
-        "date": "Jan 18, 2025",
-        "read_time": "19 min",
+        "title": "Bowers & Wilkins 800 D4 Diamond Speakers  Audiophile Excellence",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
         "icon": "volume-up",
-        "description": "Flagship audiophile speakers with diamond tweeters, Biomimetic suspension, and studio-grade performance."
+        "description": "Comprehensive review of Bowers & Wilkins 800 D4 Diamond Series flagship speakers. Reference-grade sound quality, diamond tweeters, and exquisite craftsmanship for audiophiles in 2025."
     },
     {
-        "filename": "wolf-48-dual-fuel-range-2025",
-        "title": "Wolf 48 Dual Fuel Professional Range Review 2025",
-        "category": "Luxury Kitchen",
-        "date": "Jan 18, 2025",
-        "read_time": "18 min",
+        "filename": "bowflex-selecttech-1090-dumbbells-2025",
+        "title": "Bowflex SelectTech 1090  The Ultimate Adjustable Dumbbells",
+        "category": "Strength Training",
+        "date": "December 25, 2025",
+        "read_time": "21 min",
+        "icon": "dumbbell",
+        "description": "Bowflex SelectTech 1090 review 2025: Premium adjustable dumbbells replacing 17 sets of weights, 10-90 lbs per dumbbell, space-saving design for home gyms in the US."
+    },
+    {
+        "filename": "bowflex-velocore-bike",
+        "title": "Bowflex VeloCore  Revolutionary Exercise Bike",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "bicycle",
+        "description": "Bowflex VeloCore exercise bike review for 2025 - Revolutionary lean mode, exceptional build quality, and immersive workouts. Complete buyer's guide for fitness enthusiasts in the United States."
+    },
+    {
+        "filename": "breville-oracle-jet-espresso-machine-2025",
+        "title": "Breville Oracle Jet Espresso Machine  Professional Barista Quality at Home",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "coffee",
+        "description": "Comprehensive review of the Breville Oracle Jet espresso machine. Automatic grinding, dosing, tamping, and milk frothing with third wave specialty coffee capability. Professional espresso at home in 2025."
+    },
+    {
+        "filename": "bugaboo-fox-5-stroller",
+        "title": "Bugaboo Fox 5  The Ultimate Luxury Stroller",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "shopping-cart",
+        "description": "Bugaboo Fox 5 luxury stroller review for 2025 - Premium design meets superior comfort with innovative features. Complete buyer's guide for discerning parents in the United States."
+    },
+    {
+        "filename": "canon-eos-r1-flagship-camera-2025",
+        "title": "Canon EOS R1 Flagship Camera  Professional Sports Photography",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "camera",
+        "description": "Comprehensive review of the Canon EOS R1, Canon's flagship mirrorless camera for 2025. 40fps shooting, advanced AI autofocus, 6K video, and professional performance for sports and wildlife photography."
+    },
+    {
+        "filename": "celestron-nexstar-evolution-9",
+        "title": "Celestron NexStar Evolution 9.25  Ultimate Premium Telescope",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "shopping-cart",
+        "description": "Celestron NexStar Evolution 9.25 telescope review for 2025 - Premium Schmidt-Cassegrain optics with WiFi control. Complete buyer's guide for serious astronomers in the United States."
+    },
+    {
+        "filename": "concept2-rowerg-rowing-machine-2025",
+        "title": "Concept2 RowErg  The Gold Standard Rowing Machine",
+        "category": "Exercise Equipment",
+        "date": "December 25, 2025",
+        "read_time": "22 min",
+        "icon": "desktop",
+        "description": "Concept2 RowErg review 2025: The gold standard in rowing machines. Commercial-grade quality, performance monitor PM5, durable construction. Perfect for serious fitness training in the US."
+    },
+    {
+        "filename": "dell-xps-17-2025",
+        "title": "Dell XPS 17 (2025) Review  Premium Windows Powerhouse",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "laptop",
+        "description": "Dell XPS 17 2025 review - Premium Windows laptop with stunning 17-inch 4K OLED display, Intel Core Ultra processors, and professional-grade performance. Complete buyer's guide for US shoppers."
+    },
+    {
+        "filename": "delonghi-la-specialista-arte",
+        "title": "De'Longhi La Specialista Arte  Luxury Espresso Machine",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "coffee",
+        "description": "De'Longhi La Specialista Arte review 2025 - Luxury espresso machine with manual brewing system, built-in grinder, advanced milk frothing, and barista-level control. The ultimate home espresso experience for US coffee enthusiasts."
+    },
+    {
+        "filename": "dji-mavic-4-pro",
+        "title": "DJI Mavic 4 Pro  Professional Drone",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "camera",
+        "description": "DJI Mavic 4 Pro review 2025 - Professional drone with Hasselblad camera, 8K video, 50MP photos, omnidirectional obstacle sensing, and 48-minute flight time. The ultimate aerial photography platform for US creators."
+    },
+    {
+        "filename": "ecovacs-deebot-x9-pro-omni",
+        "title": "Ecovacs Deebot X9 Pro Omni  Ultimate Robot Vacuum & Mop",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "robot",
+        "description": "Ecovacs Deebot X9 Pro Omni review 2025 - Premium robot vacuum and mop with dual rotating mopping pads, 5,500Pa suction, AI obstacle avoidance, and all-in-one station. The ultimate automated cleaning solution for US homes."
+    },
+    {
+        "filename": "elgato-stream-deck-xl",
+        "title": "Elgato Stream Deck XL  Premium Streaming Gear",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "shopping-cart",
+        "description": "Elgato Stream Deck XL review 2025: 32 customizable LCD keys, plugin marketplace, multi-action support, and seamless streaming integration. Ultimate control for creators and streamers."
+    },
+    {
+        "filename": "eufy-security-s330-eufycam-3-2025",
+        "title": "Eufy Security S330 eufyCam 3  Premium 4K Security Without Subscriptions",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "camera",
+        "description": "Comprehensive review of the Eufy Security S330 eufyCam 3 4-camera kit. True 4K resolution, integrated solar panels, no subscription fees, AI detection, and local storage for complete home security in 2025."
+    },
+    {
+        "filename": "fanatec-podium-dd2",
+        "title": "Fanatec Podium DD2  Ultimate Luxury Excellence",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "shopping-cart",
+        "description": "Fanatec Podium DD2 2025 review - Premium luxury product with exceptional build quality and professional-grade performance. The ultimate choice for discerning customers in the United States."
+    },
+    {
+        "filename": "focal-utopia-headphones",
+        "title": "Focal Utopia  Ultimate Audiophile Headphones",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "mobile",
+        "description": "Focal Utopia 2025 review - Flagship open-back headphones with beryllium drivers, exceptional clarity, and luxurious build quality. The ultimate audiophile headphones for discerning listeners in the United States."
+    },
+    {
+        "filename": "fujifilm-gfx-100s-ii-medium-format-2025",
+        "title": "Fujifilm GFX 100S II Medium Format Camera  102MP Excellence",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "camera",
+        "description": "Complete review of the Fujifilm GFX 100S II medium format camera. Stunning 102MP resolution, incredible image quality, and professional features for photographers who demand the absolute best in 2025."
+    },
+    {
+        "filename": "fully-jarvis-bamboo-standing-desk",
+        "title": "Fully Jarvis Bamboo Standing Desk  Premium Standing Desk",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "desk",
+        "description": "Fully Jarvis Bamboo Standing Desk review 2025 - Premium standing desk with sustainable bamboo top, dual-motor lift system, programmable height presets, and commercial-grade construction. The ultimate ergonomic workspace for US professionals."
+    },
+    {
+        "filename": "furnimat-2025-premium-massage-chair",
+        "title": "FURNIMAT 2025 Premium Massage Chair Review  4D Full Body Massage",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "chair",
+        "description": "FURNIMAT 2025 Premium Massage Chair review - Luxury 4D full-body massage chair with SL-track, zero gravity, heat therapy, foot rollers, and smart AI technology. The ultimate relaxation experience for US homes."
+    },
+    {
+        "filename": "gaggenau-400-series-oven",
+        "title": "Gaggenau 400 Series Oven  Ultimate Luxury Kitchen Appliance",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
         "icon": "fire",
-        "description": "Professional-grade kitchen range with 20,000 BTU burners, dual convection ovens, and commercial construction."
+        "description": "Gaggenau 400 Series Oven 2025 review - German-engineered luxury wall oven with precise temperature control, advanced convection, and professional-grade features. The ultimate kitchen appliance for culinary enthusiasts in the United States."
+    },
+    {
+        "filename": "garmin-marq-golfer-gen2-watch-2025",
+        "title": "Garmin MARQ Golfer Gen 2 Watch  Luxury Golf Smartwatch Excellence",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "watch",
+        "description": "Comprehensive review of the Garmin MARQ Golfer Gen 2 luxury smartwatch. Premium golf GPS, course mapping, performance tracking, and luxury design for serious golfers in 2025."
+    },
+    {
+        "filename": "gopro-hero-12-black",
+        "title": "GoPro HERO 12 Black  Ultimate Action Camera",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "camera",
+        "description": "GoPro HERO 12 Black review 2025 - The ultimate action camera with 5.3K60 video, HyperSmooth 6.0 stabilization, HDR photo and video. Best action cam for US adventurers and content creators."
+    },
+    {
+        "filename": "hasselblad-x2d-100c",
+        "title": "Hasselblad X2D 100C  Professional Medium Format",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "camera",
+        "description": "Hasselblad X2D 100C 2025 review - Professional medium format camera with 100MP sensor, 16-bit color depth, HNCS technology, and exceptional build quality. The ultimate tool for commercial photographers in the United States."
+    },
+    {
+        "filename": "hisense-px3-pro",
+        "title": "Hisense PX3Pro  Ultimate 4K Laser Projector",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "film",
+        "description": "Hisense PX3-Pro review 2025 - Premium 4K laser projector with 3,000 ANSI lumens, 120Hz refresh rate, Dolby Vision, and ultra-short throw design. The ultimate home theater experience for US consumers."
+    },
+    {
+        "filename": "iphone-16-pro-max",
+        "title": "iPhone 16 Pro Max  Ultimate Flagship Smartphone",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "camera",
+        "description": "iPhone 16 Pro Max review 2025 - Apple's ultimate flagship with A18 Pro chip, titanium design, advanced camera system with 5x telephoto, ProMotion 120Hz display, and iOS 18. The best iPhone ever made for power users in the United States."
+    },
+    {
+        "filename": "iqair-healthpro-plus",
+        "title": "IQAir HealthPro Plus  Medical Grade Air Purifier",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "wind",
+        "description": "IQAir HealthPro Plus review 2025 - Medical-grade air purifier with HyperHEPA filtration, 99.97% particle removal down to 0.003 microns, gas and odor filtration, and Swiss engineering. The ultimate air quality solution for US homes."
+    },
+    {
+        "filename": "jura-z10-espresso-machine",
+        "title": "JURA Z10 Espresso Machine  Ultimate Automatic Coffee",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "coffee",
+        "description": "JURA Z10 review 2025 - Revolutionary automatic espresso machine with cold brew function, Product Recognizing Grinder, and 32 specialty drinks. Swiss engineering at $4,000. Complete US buyer's guide."
+    },
+    {
+        "filename": "kamado-joe-classic-iii-ceramic-grill-2025",
+        "title": "Kamado Joe Classic III Ceramic Grill  The Ultimate Ceramic Cooker",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "fire",
+        "description": "In-depth review of the Kamado Joe Classic III ceramic grill. Revolutionary Air Lift Hinge, Kontrol Tower, 3-tier cooking system, and unmatched versatility for grilling, smoking, and baking in 2025."
+    },
+    {
+        "filename": "kitchenaid-commercial-8qt-mixer",
+        "title": "KitchenAid Commercial 8Quart Mixer  Ultimate Professional Stand Mixer",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "blender",
+        "description": "KitchenAid Commercial 8-Quart Stand Mixer review for 2025 - Professional-grade power meets massive capacity. Complete buyer's guide for serious bakers in the United States."
     },
     {
         "filename": "leica-m11-p-rangefinder-camera-2025",
-        "title": "Leica M11-P Rangefinder Camera Review 2025",
-        "category": "Luxury Cameras",
-        "date": "Jan 18, 2025",
-        "read_time": "20 min",
+        "title": "Leica M11P Rangefinder Camera  The Ultimate Photographer's Tool",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
         "icon": "camera",
-        "description": "Premium rangefinder camera with 60MP sensor, Content Credentials, and legendary German craftsmanship."
+        "description": "Comprehensive review of the Leica M11-P rangefinder camera. Professional-grade photography, content credentials, stealth design, and legendary Leica quality for serious photographers in 2025."
+    },
+    {
+        "filename": "leica-q3-camera",
+        "title": "Leica Q3  Ultimate Luxury Compact Camera",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "camera",
+        "description": "Leica Q3 2025 review - Premium full-frame compact camera with 60MP sensor, 8K video, hybrid autofocus, and legendary Summilux lens. The ultimate luxury camera for professionals and enthusiasts in the United States."
+    },
+    {
+        "filename": "lg-signature-oled-m3-97",
+        "title": "LG Signature OLED M3 97inch  World's First Wireless OLED TV",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "tv",
+        "description": "LG Signature OLED M3 97-inch review 2025 - World's first wireless 97-inch 4K OLED TV with Zero Connect Box. Ultimate luxury home theater experience at $30,000. Complete buyer's guide for US shoppers."
+    },
+    {
+        "filename": "lifepro-waver-vibration-plate-2025",
+        "title": "LifePro Waver Vibration Plate  Premium Whole Body Vibration",
+        "category": "Recovery & Fitness",
+        "date": "December 25, 2025",
+        "read_time": "20 min",
+        "icon": "heartbeat",
+        "description": "LifePro Waver Vibration Plate review 2025: Premium whole body vibration platform with dual motors, remote control, and resistance bands for fitness and recovery in the US."
+    },
+    {
+        "filename": "macbook-pro-16-m4-max",
+        "title": "MacBook Pro 16inch M4 Max  Ultimate Creative Powerhouse",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "laptop",
+        "description": "MacBook Pro 16-inch M4 Max review for 2025 - Apple's most powerful laptop with next-gen performance, stunning Liquid Retina XDR display, and all-day battery. Complete buyer's guide for US shoppers."
+    },
+    {
+        "filename": "masterbuilt-gravity-1050-grill",
+        "title": "Masterbuilt Gravity Series 1050  Revolutionary Digital Charcoal Grill",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "fire",
+        "description": "Masterbuilt Gravity Series 1050 review for 2025 - Revolutionary digital charcoal grill and smoker with set-it-and-forget-it convenience. Complete buyer's guide for BBQ enthusiasts in the United States."
+    },
+    {
+        "filename": "mcintosh-mc275-amplifier",
+        "title": "McIntosh MC275  Legendary Tube Amplifier",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "shopping-cart",
+        "description": "McIntosh MC275 2025 review - Legendary tube amplifier with 75 watts per channel, iconic blue meters, and audiophile-grade sound quality. The ultimate luxury amplifier for music enthusiasts in the United States."
+    },
+    {
+        "filename": "meta-quest-3",
+        "title": "Meta Quest 3  Ultimate Mixed Reality Gaming",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "shopping-cart",
+        "description": "Meta Quest 3 review 2025 - Premium mixed reality headset with breakthrough passthrough, powerful performance, and vast game library. Complete buyer's guide for US shoppers."
+    },
+    {
+        "filename": "microsoft-surface-pro-10",
+        "title": "Microsoft Surface Pro 10  Ultimate 2in1 Tablet",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "tablet",
+        "description": "Microsoft Surface Pro 10 review 2025 - Premium 2-in-1 tablet with Intel Core Ultra, OLED display option, Copilot+ AI features, and versatile design. Complete buyer's guide for US shoppers."
     },
     {
         "filename": "miele-dialog-oven-2025",
-        "title": "Miele Dialog Oven Review 2025",
-        "category": "Luxury Kitchen",
-        "date": "Jan 18, 2025",
-        "read_time": "19 min",
+        "title": "Miele Dialog Oven  Revolutionary Electromagnetic Cooking Technology",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
         "icon": "fire",
-        "description": "Revolutionary smart oven with electromagnetic M Chef technology, impossible cooking results, and M Touch interface."
+        "description": "Comprehensive review of the Miele Dialog Oven with M Touch technology. Revolutionary electromagnetic cooking, precision control, and groundbreaking culinary results for luxury kitchens in 2025."
     },
     {
-        "filename": "tonal-home-gym",
-        "title": "Tonal Home Gym",
-        "category": "Fitness Equipment",
-        "date": "Jan 18, 2025",
-        "read_time": "18 min",
-        "icon": "dumbbell",
-        "description": "AI-powered smart home gym with digital weights and personalized strength training coaching."
+        "filename": "montblanc-meisterstuck-149",
+        "title": "Montblanc Meisterstück 149  Ultimate Luxury Excellence",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "shopping-cart",
+        "description": "Montblanc Meisterstück 149 2025 review - Premium luxury product with exceptional build quality and professional-grade performance. The ultimate choice for discerning customers in the United States."
     },
     {
-        "filename": "hydrow-rower",
-        "title": "Hydrow Rower",
-        "category": "Fitness Equipment",
-        "date": "Jan 18, 2025",
-        "read_time": "17 min",
-        "icon": "water",
-        "description": "Premium connected rowing machine with live and on-demand outdoor rowing classes."
+        "filename": "napoleon-prestige-500-grill-2025",
+        "title": "Napoleon Prestige 500 Gas Grill  Premium Stainless Steel Excellence",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "fire",
+        "description": "Comprehensive review of the Napoleon Prestige 500 premium gas grill. Professional-grade stainless steel construction, infrared sear burner, rotisserie system, and exceptional performance for 2025."
     },
     {
-        "filename": "normatec-3-legs",
-        "title": "Normatec 3 Leg Recovery System",
-        "category": "Recovery & Wellness",
-        "date": "Jan 18, 2025",
-        "read_time": "16 min",
+        "filename": "nautilus-t618-treadmill-2025",
+        "title": "Nautilus T618 Treadmill  Premium Performance Meets Value",
+        "category": "Running Equipment",
+        "date": "December 25, 2025",
+        "read_time": "22 min",
+        "icon": "running",
+        "description": "Nautilus T618 Treadmill review 2025: Premium folding treadmill with 3.5 CHP motor, 15% incline, Bluetooth connectivity, and superior cushioning for home running in the US."
+    },
+    {
+        "filename": "netgear-nighthawk-raxe500",
+        "title": "Netgear Nighthawk RAXE500  Premium Networking",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "shopping-cart",
+        "description": "Netgear Nighthawk RAXE500 review 2025: Wi-Fi 6E tri-band router with 6GHz band, 10.8 Gbps speeds, 8-stream connectivity, 2.5G ethernet, and coverage for 3,500 sq ft. Ultimate gaming and streaming router."
+    },
+    {
+        "filename": "nikon-z9-flagship-camera-2025",
+        "title": "Nikon Z9 Professional Mirrorless Camera  The Flagship DSLR Killer",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "camera",
+        "description": "In-depth review of the Nikon Z9 flagship mirrorless camera. Professional 45.7MP sensor, 8K video, incredible AF system, and stunning performance for serious photographers in 2025."
+    },
+    {
+        "filename": "nordictrack-commercial-1750",
+        "title": "NordicTrack Commercial 1750  Premium Treadmill",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "running",
+        "description": "NordicTrack Commercial 1750 review 2025 - Premium treadmill with 14-inch HD touchscreen, iFit integration, powerful 4.0 CHP motor, and commercial-grade construction. The ultimate home treadmill for US fitness enthusiasts."
+    },
+    {
+        "filename": "nordictrack-commercial-s22i-studio-cycle-2025",
+        "title": "NordicTrack Commercial S22i Studio Cycle  Ultimate Smart Bike",
+        "category": "Smart Fitness",
+        "date": "December 25, 2025",
+        "read_time": "24 min",
+        "icon": "bicycle",
+        "description": "NordicTrack Commercial S22i Studio Cycle review 2025: Premium smart bike with 22-inch HD touchscreen, automatic incline/decline, iFIT live and on-demand classes for elite home cycling in the US."
+    },
+    {
+        "filename": "philips-hue-play-sync-box",
+        "title": "Philips Hue Play HDMI Sync Box  Premium Smart Home",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "shopping-cart",
+        "description": "Philips Hue Play HDMI Sync Box review 2025: 4K 120Hz HDMI sync box with 4 inputs, Dolby Vision, HDR10+, gradient lightstrip support, and intelligent entertainment sync modes. Transform your viewing experience with immersive lighting."
+    },
+    {
+        "filename": "proform-pro-2000-treadmill-2025",
+        "title": "ProForm Pro 2000 Treadmill  Premium Folding Performance",
+        "category": "Cardio Equipment",
+        "date": "December 25, 2025",
+        "read_time": "23 min",
+        "icon": "running",
+        "description": "ProForm Pro 2000 Treadmill review 2025: Premium folding treadmill with powerful motor, 15% decline to 12% incline, iFIT compatibility for home running in the US."
+    },
+    {
+        "filename": "razer-blade-16-2025",
+        "title": "Razer Blade 16 2025 Review  Ultimate Gaming Laptop",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "laptop",
+        "description": "Razer Blade 16 2025 review - Ultimate gaming laptop with Intel Core Ultra 9, NVIDIA RTX 5090, 240Hz Mini LED display, and premium build quality. The most powerful portable gaming machine for US gamers."
+    },
+    {
+        "filename": "roborock-saros-10r",
+        "title": "Roborock Saros 10R  Ultimate Robot Vacuum & Mop",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "robot",
+        "description": "Roborock Saros 10R review 2025 - Premium robot vacuum and mop with 10,000Pa suction, AI obstacle avoidance, and auto-empty dock. The ultimate hands-free cleaning solution for US homes."
+    },
+    {
+        "filename": "saatva-classic-luxury-mattress",
+        "title": "Saatva Classic Luxury Mattress  Premium Sleep Perfected",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "tv",
+        "description": "Saatva Classic Luxury Mattress King review 2025 - Premium innerspring hybrid with euro pillow top and dual-coil system. Complete buyer's guide for luxury sleep in the United States."
+    },
+    {
+        "filename": "samsung-98-inch-neo-qled-8k-tv-2025",
+        "title": "Samsung 98Inch Neo QLED 8K TV  Ultimate Home Theater Experience",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "tv",
+        "description": "Comprehensive review of the Samsung 98-inch Neo QLED 8K TV QN900D. Massive screen, stunning 8K resolution, Quantum Matrix Pro technology, and premium features for the ultimate home cinema experience in 2025."
+    },
+    {
+        "filename": "samsung-galaxy-s25-ultra",
+        "title": "Samsung Galaxy S25 Ultra  Ultimate Android Flagship",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "camera",
+        "description": "Samsung Galaxy S25 Ultra review 2025 - The ultimate Android flagship with 200MP camera, S Pen, AI features, and Snapdragon 8 Gen 4 power. Complete buyer's guide for US shoppers."
+    },
+    {
+        "filename": "samsung-galaxy-z-fold-6",
+        "title": "Samsung Galaxy Z Fold 6  Ultimate Foldable Smartphone",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "mobile",
+        "description": "Samsung Galaxy Z Fold 6 review 2025 - The ultimate foldable smartphone with 7.6-inch Dynamic AMOLED display, S Pen support, and powerful performance. Complete buyer's guide for US shoppers."
+    },
+    {
+        "filename": "samsung-odyssey-ark-55-curved",
+        "title": "Samsung Odyssey Ark 55  Ultimate Luxury Excellence",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "shopping-cart",
+        "description": "Samsung Odyssey Ark 55 2025 review - Premium luxury product with exceptional build quality and professional-grade performance. The ultimate choice for discerning customers in the United States."
+    },
+    {
+        "filename": "samsung-odyssey-neo-g9-57-gaming-monitor-2025",
+        "title": "Samsung Odyssey Neo G9 57\" Gaming Monitor  Dual 4K Ultrawide Beast",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "desktop",
+        "description": "Complete review of the Samsung Odyssey Neo G9 57-inch gaming monitor. Stunning dual 4K resolution, 240Hz refresh rate, Quantum Mini-LED, and immersive 1000R curve for the ultimate gaming experience in 2025."
+    },
+    {
+        "filename": "schwinn-ic4-indoor-cycling-bike-2025",
+        "title": "Schwinn IC4 Indoor Cycling Bike  Best Value Premium Spin Bike",
+        "category": "Exercise Equipment",
+        "date": "December 25, 2025",
+        "read_time": "23 min",
+        "icon": "bicycle",
+        "description": "Schwinn IC4 Indoor Cycling Bike review 2025: Premium spin bike with magnetic resistance, Bluetooth connectivity, and Peloton app compatibility for home cycling workouts in the US."
+    },
+    {
+        "filename": "sennheiser-ambeo-soundbar-max",
+        "title": "Sennheiser Ambeo Soundbar Max  Ultimate Home Theater Sound",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "volume-up",
+        "description": "Sennheiser Ambeo Soundbar Max review 2025 - 13 drivers, 5.1.4 Dolby Atmos, 500W, room calibration. Best premium soundbar for home theater at $2,500. Complete US buyer's guide."
+    },
+    {
+        "filename": "sonos-arc-ultra-soundbar-2025",
+        "title": "Sonos Arc Ultra Soundbar  Revolutionary Spatial Audio Excellence",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "volume-up",
+        "description": "In-depth review of the Sonos Arc Ultra soundbar. Revolutionary Sound Motion technology, 9.1.4 Dolby Atmos, incredible bass, and seamless streaming for the ultimate home theater experience in 2025."
+    },
+    {
+        "filename": "sony-a7r-v-camera",
+        "title": "Sony A7R V Review: 61MP FullFrame Mirrorless Camera | YourShop",
+        "category": "Professional Cameras",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "camera",
+        "description": "In-depth Sony A7R V review: 61MP full-frame mirrorless camera with AI autofocus, 8K video, 8-stop IBIS, and revolutionary sensor technology for professional photographers."
+    },
+    {
+        "filename": "sony-a9-iii-mirrorless-camera-2025",
+        "title": "Sony A9 III Mirrorless Camera  Revolutionary Global Shutter Technology",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "camera",
+        "description": "Discover the Sony A9 III mirrorless camera with world's first full-frame global shutter sensor. Professional-grade performance, 120fps continuous shooting, and zero blackout. Complete review and buying guide for 2025."
+    },
+    {
+        "filename": "sony-a95l-qd-oled-77",
+        "title": "Sony A95L 77inch QDOLED TV  Ultimate Premium Display",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "tv",
+        "description": "Sony A95L 77-inch QD-OLED TV review 2025 - The ultimate premium TV with Quantum Dot OLED technology, XR Cognitive Processor, 4K 120Hz gaming, and perfect blacks. Best high-end television for US home theaters."
+    },
+    {
+        "filename": "sony-fe-24-70mm-gm-ii",
+        "title": "Sony FE 2470mm F2.8 GM II  Professional Standard Zoom Perfected",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "shopping-cart",
+        "description": "Sony FE 24-70mm F2.8 GM II review 2025 - Professional standard zoom lens with breakthrough optical quality and lightning-fast autofocus. Complete guide for serious photographers in the United States."
+    },
+    {
+        "filename": "sony-vpl-xw5000es-projector",
+        "title": "Sony VPLXW5000ES  Premium 4K Laser Projector",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "film",
+        "description": "Sony VPL-XW5000ES 4K HDR laser projector review for 2025 - Premium home theater performance with native 4K SXRD, 2000 lumens brightness, and cinema-quality picture. Complete buyer's guide for US home theater enthusiasts."
+    },
+    {
+        "filename": "sony-wf-1000xm6",
+        "title": "Sony WF1000XM6  Best Noise Cancelling Earbuds",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "headphones",
+        "description": "Sony WF-1000XM6 review 2025 - Industry-leading wireless earbuds with best-in-class noise cancellation, exceptional sound quality, and premium features. Complete buyer's guide for US shoppers."
+    },
+    {
+        "filename": "sub-zero-48-french-door-refrigerator-2025",
+        "title": "SubZero 48\" French Door Refrigerator  Luxury Kitchen Perfection",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "shopping-cart",
+        "description": "Comprehensive review of the Sub-Zero 48-inch French Door refrigerator. Premium food preservation, dual refrigeration, stunning design, and professional-grade performance for luxury kitchens in 2025."
+    },
+    {
+        "filename": "tag-heuer-connected-calibre-e4",
+        "title": "Tag Heuer Connected Calibre E4  Ultimate Luxury Excellence",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "shopping-cart",
+        "description": "Tag Heuer Connected Calibre E4 2025 review - Premium luxury product with exceptional build quality and professional-grade performance. The ultimate choice for discerning customers in the United States."
+    },
+    {
+        "filename": "theragun-pro-plus",
+        "title": "Theragun PRO Plus  Premium Wellness & Fitness",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
         "icon": "heartbeat",
-        "description": "Professional-grade dynamic air compression system for elite athlete recovery."
+        "description": "Theragun PRO Plus review 2025: Professional-grade percussion massage device with 60 lbs force, 16mm amplitude, biometric sensor, rotating arm, 6 attachments, and 150-minute battery. Ultimate recovery tool for athletes."
     },
     {
-        "filename": "festool-kapex-ks120",
-        "title": "Festool KAPEX KS 120 Miter Saw",
-        "category": "Tools & Workshop",
-        "date": "Jan 18, 2025",
+        "filename": "trx-pro4-system-2025",
+        "title": "TRX Pro4 System  The Ultimate Premium Suspension Trainer",
+        "category": "Functional Training",
+        "date": "December 25, 2025",
+        "read_time": "22 min",
+        "icon": "dumbbell",
+        "description": "TRX Pro4 System review 2025: Premium suspension trainer with military-grade construction, complete home gym in portable package for functional training in the US."
+    },
+    {
+        "filename": "waterrower-natural-rowing-machine-2025",
+        "title": "WaterRower Natural  The Most Beautiful Rowing Machine",
+        "category": "Exercise Equipment",
+        "date": "December 25, 2025",
+        "read_time": "24 min",
+        "icon": "water",
+        "description": "WaterRower Natural review 2025: Premium wooden rowing machine with water resistance, handcrafted ash wood construction, and authentic rowing experience for home fitness in the US."
+    },
+    {
+        "filename": "weber-genesis-epx-435-smart-grill-2025",
+        "title": "Weber Genesis EPX435 Smart Grill  The Ultimate Connected BBQ Experience",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "fire",
+        "description": "Comprehensive review of the Weber Genesis EPX-435 Smart Grill. Premium gas grilling with smart technology, sear station, side burner, and WEBER CONNECT for perfect results every time in 2025."
+    },
+    {
+        "filename": "wolf-48-dual-fuel-range-2025",
+        "title": "Wolf 48\" Dual Fuel Professional Range  RestaurantQuality Cooking at Home",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "shopping-cart",
+        "description": "Comprehensive review of the Wolf 48-inch Dual Fuel Professional Range. Commercial-grade power, precision control, and professional performance for luxury kitchens in 2025."
+    },
+    {
+        "filename": "wolf-dual-fuel-range",
+        "title": "Wolf Dual Fuel Range  Ultimate Luxury Excellence",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "shopping-cart",
+        "description": "Wolf Dual Fuel Range 2025 review - Premium luxury product with exceptional build quality and professional-grade performance. The ultimate choice for discerning customers in the United States."
+    },
+    {
+        "filename": "wolf-gourmet-countertop-oven",
+        "title": "WOLF Gourmet Elite Countertop Oven  Professional Countertop Cooking",
+        "category": "Products",
+        "date": "Dec 25, 2025",
+        "read_time": "10 min",
+        "icon": "fire",
+        "description": "WOLF Gourmet Elite Countertop Oven review for 2025 - Professional-grade convection cooking meets precision engineering. Complete buyer's guide for serious home cooks in the United States."
+    },
+    {
+        "filename": "dyson-big-quiet-air-purifier",
+        "title": "Dyson Big+Quiet Formaldehyde Air Purifier",
+        "category": "Home Air Quality",
+        "date": "December 23, 2025",
         "read_time": "17 min",
-        "icon": "tools",
-        "description": "Premium dual-bevel sliding compound miter saw with laser precision and dust extraction."
+        "icon": "wind",
+        "description": "Dyson Big+Quiet Formaldehyde air purifier review 2025 - premium HEPA H13 filtration, 99.95% particle capture, formaldehyde destruction. Best air purifier for US homes."
     },
     {
-        "filename": "rimowa-original-trunk-plus",
-        "title": "Rimowa Original Trunk Plus",
-        "category": "Luxury Travel",
-        "date": "Jan 18, 2025",
-        "read_time": "17 min",
-        "icon": "suitcase",
-        "description": "Iconic aluminum luggage with lifetime durability and timeless design."
+        "filename": "flexispot-e7-pro-standing-desk",
+        "title": "FlexiSpot E7 Pro Standing Desk Review  Premium Ergonomic Desk 2025",
+        "category": "Office Furniture",
+        "date": "December 23, 2025",
+        "read_time": "18 min",
+        "icon": "desk",
+        "description": "FlexiSpot E7 Pro standing desk review 2025 - premium electric desk with 355lb capacity, dual motors, quiet operation. Best ergonomic desk for US offices."
     },
     {
-        "filename": "yeti-tundra-350",
-        "title": "YETI Tundra 350 Cooler",
-        "category": "Outdoor Equipment",
-        "date": "Jan 18, 2025",
-        "read_time": "17 min",
-        "icon": "snowflake",
-        "description": "Commercial-grade rotomolded cooler with 10+ day ice retention."
+        "filename": "formovie-theater-premium-projector",
+        "title": "Formovie Theater Premium 4K Triple Laser Projector",
+        "category": "Home Theater",
+        "date": "December 23, 2025",
+        "read_time": "20 min",
+        "icon": "film",
+        "description": "Formovie Theater Premium 4K Triple Laser Projector review 2025 - cinema-quality UST projector with ALPD 4.0 technology, 3000 ANSI lumens, Dolby Vision. The ultimate home theater experience for US buyers."
     },
     {
-        "filename": "trek-domane-slr9",
-        "title": "Trek Domane SLR 9 Road Bike",
-        "category": "Cycling",
-        "date": "Jan 18, 2025",
-        "read_time": "17 min",
-        "icon": "bicycle",
-        "description": "Professional endurance road bike with IsoSpeed technology and OCLV 800 carbon."
+        "filename": "garmin-fenix-8-pro-smartwatch",
+        "title": "Garmin Fenix 8 Pro Smartwatch  Ultimate Fitness Watch",
+        "category": "Smartwatches",
+        "date": "December 23, 2025",
+        "read_time": "19 min",
+        "icon": "watch",
+        "description": "Garmin Fenix 8 Pro smartwatch review 2025 - premium multisport GPS watch with AMOLED display, 16-day battery, dive computer. Ultimate fitness watch for US athletes."
     },
     {
-        "filename": "specialized-turbo-levo",
-        "title": "Specialized Turbo Levo E-Bike",
+        "filename": "lg-32gs95ue-ultragear-oled-monitor",
+        "title": "LG 32GS95UE UltraGear OLED Gaming Monitor",
+        "category": "Gaming Monitors",
+        "date": "December 23, 2025",
+        "read_time": "18 min",
+        "icon": "desktop",
+        "description": "LG 32GS95UE UltraGear OLED monitor review 2025 - 32-inch 4K 240Hz OLED gaming display with dual mode 480Hz FHD, 0.03ms response. Ultimate gaming monitor for US gamers."
+    },
+    {
+        "filename": "panorama-xl-rtx-5090-gaming-pc",
+        "title": "Panorama XL RTX 5090 Gaming PC Review  Ultimate Desktop 2025",
+        "category": "Gaming PCs",
+        "date": "December 23, 2025",
+        "read_time": "22 min",
+        "icon": "desktop",
+        "description": "Panorama XL RTX 5090 gaming PC review 2025 - extreme performance desktop with AMD Ryzen 9 9950X3D, 96GB DDR5, liquid cooling. Ultimate gaming powerhouse for US gamers."
+    },
+    {
+        "filename": "ridstar-q20-pro-electric-bike",
+        "title": "Ridstar Q20 Pro Electric Bike Review  Dual Motor Power 2025",
         "category": "E-Bikes",
-        "date": "Jan 18, 2025",
-        "read_time": "17 min",
+        "date": "December 23, 2025",
+        "read_time": "21 min",
         "icon": "bicycle",
-        "description": "Premium full-suspension e-MTB with powerful motor and extended range battery."
+        "description": "Ridstar Q20 Pro electric bike review 2025 - powerful dual 1000W motors, 60-mile range, fat tires, full suspension. Ultimate e-bike for US commuters and adventure riders."
+    },
+    {
+        "filename": "roborock-s8-maxv-ultra",
+        "title": "Roborock S8 MaxV Ultra Review  Smart Home Cleaning 2025",
+        "category": "Smart Home",
+        "date": "December 23, 2025",
+        "read_time": "19 min",
+        "icon": "robot",
+        "description": "Roborock S8 MaxV Ultra robot vacuum review 2025 - AI obstacle avoidance, 10,000Pa suction, auto mop washing, self-emptying. The ultimate smart home cleaning solution for US homes."
+    },
+    {
+        "filename": "rocket-appartamento-tca-espresso",
+        "title": "Rocket Appartamento TCA Espresso Machine",
+        "category": "Kitchen Appliances",
+        "date": "December 23, 2025",
+        "read_time": "20 min",
+        "icon": "coffee",
+        "description": "Rocket Appartamento TCA espresso machine review 2025 - professional heat exchanger, PID temperature control, E61 group, Italian craftsmanship. Café-quality espresso at home for US coffee enthusiasts."
+    },
+    {
+        "filename": "sony-a7r-v-mirrorless-camera",
+        "title": "Sony A7R V Mirrorless Camera  61MP Professional Powerhouse",
+        "category": "Professional Cameras",
+        "date": "December 23, 2025",
+        "read_time": "20 min",
+        "icon": "camera",
+        "description": "Sony A7R V camera review 2025 - 61MP full-frame mirrorless with AI autofocus, 8K video, advanced stabilization. Ultimate professional camera for US photographers."
+    },
+    {
+        "filename": "apple-mac-studio-m2-ultra",
+        "title": "Apple Mac Studio M2 Ultra  Professional Powerhouse Desktop",
+        "category": "Professional Computing",
+        "date": "December 21, 2025",
+        "read_time": "12 min",
+        "icon": "desktop",
+        "description": "Discover why the Apple Mac Studio M2 Ultra is the ultimate professional desktop workstation for 2025. Complete review of performance, specs, and why it's worth the investment for creative professionals in the United States."
+    },
+    {
+        "filename": "asus-rog-swift-oled-pg42uq",
+        "title": "ASUS ROG Swift OLED PG42UQ Review  Ultimate Gaming Display",
+        "category": "Gaming Monitors",
+        "date": "December 21, 2025",
+        "read_time": "13 min",
+        "icon": "desktop",
+        "description": "ASUS ROG Swift OLED PG42UQ Gaming Monitor review: 42-inch 4K OLED display with 138Hz refresh rate, 0.1ms response time, and stunning HDR performance. Perfect for US gaming enthusiasts."
+    },
+    {
+        "filename": "blackstone-36-inch-griddle",
+        "title": "Blackstone 36Inch Griddle Review  Professional Outdoor Cooking",
+        "category": "Outdoor Cooking",
+        "date": "December 21, 2025",
+        "read_time": "12 min",
+        "icon": "shopping-cart",
+        "description": "Blackstone 36-Inch Griddle Cooking Station review: Professional outdoor cooking with 4 independent burners, 60,000 BTU power, and restaurant-quality results. Perfect for US outdoor cooking enthusiasts."
+    },
+    {
+        "filename": "corsair-one-i300",
+        "title": "CORSAIR ONE i300 Review  Compact Gaming PC Powerhouse",
+        "category": "Gaming PCs",
+        "date": "December 21, 2025",
+        "read_time": "13 min",
+        "icon": "desktop",
+        "description": "CORSAIR ONE i300 Compact Gaming PC review: Intel i9 processor, RTX 4080 graphics, ultra-compact design, liquid cooling, and silent operation. Perfect for US gamers wanting desktop power in minimal space."
+    },
+    {
+        "filename": "cricut-maker-3",
+        "title": "Cricut Maker 3 Review  Professional Cutting Machine",
+        "category": "Crafting & DIY",
+        "date": "December 21, 2025",
+        "read_time": "12 min",
+        "icon": "shopping-cart",
+        "description": "Cricut Maker 3 Professional Cutting Machine review: Cuts 300+ materials, smart material support, faster cutting, and unlimited creative possibilities. Perfect for US crafters and makers."
+    },
+    {
+        "filename": "dji-osmo-pocket-3",
+        "title": "DJI Osmo Pocket 3 Review  Ultimate Vlogging Camera",
+        "category": "Cameras & Video",
+        "date": "December 21, 2025",
+        "read_time": "14 min",
+        "icon": "camera",
+        "description": "DJI Osmo Pocket 3 4K Handheld Camera review: 1-inch sensor, 4K120 video, 3-axis gimbal stabilization, and incredibly portable design. Perfect for US content creators and vloggers."
+    },
+    {
+        "filename": "gaggia-classic-pro",
+        "title": "Gaggia Classic Pro Review  Professional Espresso at Home",
+        "category": "Coffee Machines",
+        "date": "December 21, 2025",
+        "read_time": "13 min",
+        "icon": "coffee",
+        "description": "Gaggia Classic Pro Espresso Machine review: Commercial-quality brewing, authentic Italian design, exceptional build quality, and unmatched value. Perfect for US coffee enthusiasts seeking cafe-quality espresso at home."
+    },
+    {
+        "filename": "garmin-fenix-7x-sapphire-solar",
+        "title": "Garmin Fenix 7X Sapphire Solar Review  Ultimate Multisport GPS Watch",
+        "category": "Premium Sports Watches",
+        "date": "December 21, 2025",
+        "read_time": "14 min",
+        "icon": "watch",
+        "description": "Garmin Fenix 7X Sapphire Solar GPS Watch review: Premium multisport watch with 51mm display, solar charging, advanced training metrics, and extreme battery life. Perfect for serious athletes in the US."
+    },
+    {
+        "filename": "shark-ai-ultra-2in1-robot",
+        "title": "Shark AI Ultra 2in1 Robot Review  Smart Vacuum & Mop",
+        "category": "Home Cleaning",
+        "date": "December 21, 2025",
+        "read_time": "11 min",
+        "icon": "robot",
+        "description": "Shark AI Ultra 2-in-1 Robot Vacuum & Mop review: Powerful suction, self-emptying base, sonic mopping, and smart navigation. Perfect for busy US households seeking automated cleaning."
+    },
+    {
+        "filename": "vitamix-professional-series-750",
+        "title": "Vitamix Professional Series 750  Premium Blender Worth Every Penny",
+        "category": "Kitchen Appliances",
+        "date": "December 21, 2025",
+        "read_time": "11 min",
+        "icon": "blender",
+        "description": "Complete review of the Vitamix Professional Series 750 blender for 2025. Discover why this premium blender is the best investment for health-conscious Americans seeking restaurant-quality results at home."
+    },
+    {
+        "filename": "lg-instaview-door-in-door",
+        "title": "LG InstaView DoorinDoor Refrigerator Review  Premium Kitchen 2025",
+        "category": "Kitchen Appliances",
+        "date": "December 11, 2025",
+        "read_time": "18 min",
+        "icon": "shopping-cart",
+        "description": "LG InstaView Door-in-Door refrigerator review - premium kitchen with 25 cu ft capacity, smart technology, and dual cooling. Best luxury fridge 2025 - Perfect for US kitchens."
+    },
+    {
+        "filename": "segway-ninebot-max-g2",
+        "title": "Segway Ninebot Max G2 Review  Premium Electric Scooter 2025",
+        "category": "Outdoor Mobility",
+        "date": "December 11, 2025",
+        "read_time": "16 min",
+        "icon": "shopping-cart",
+        "description": "Segway Ninebot Max G2 electric scooter review. Premium urban mobility with 40-mile range, 600W motor, and dual braking. Best electric scooter 2025 for commuters - Perfect for US riders."
+    },
+    {
+        "filename": "sole-f85-folding-treadmill",
+        "title": "Sole F85 Folding Treadmill Review  Premium Home Fitness 2025",
+        "category": "Home Fitness",
+        "date": "December 11, 2025",
+        "read_time": "17 min",
+        "icon": "running",
+        "description": "Sole F85 Folding Treadmill review - premium home fitness with 3-HP motor, 22 MP/H speed, and cushioned deck. Best treadmill 2025 for serious runners - Perfect for US home gyms."
+    },
+    {
+        "filename": "astell-kern-sp3000-dap",
+        "title": "Astell&Kern SP3000 DAP  Ultimate Audiophile Player",
+        "category": "Audiophile",
+        "date": "December 10, 2025",
+        "read_time": "15 min",
+        "icon": "shopping-cart",
+        "description": "Astell&Kern SP3000 review 2025 - Flagship digital audio player with quad DAC, native DSD512, and stainless steel chassis. Ultimate audiophile DAP at $3,699. Complete US buyer's guide."
+    },
+    {
+        "filename": "dyson-zone-headphones",
+        "title": "Dyson Zone Headphones  Premium Audio Meets Innovation",
+        "category": "Premium Audio",
+        "date": "December 10, 2025",
+        "read_time": "14 min",
+        "icon": "mobile",
+        "description": "Dyson Zone headphones review 2025 - Premium noise-cancelling headphones with optional air purification. Ultra-low distortion audio, 50-hour battery. Complete US buyer's guide at $949."
+    },
+    {
+        "filename": "epson-home-cinema-ls12000-projector",
+        "title": "Epson Home Cinema LS12000 Projector  Ultimate 4K Laser",
+        "category": "Home Theater",
+        "date": "December 10, 2025",
+        "read_time": "16 min",
+        "icon": "film",
+        "description": "Epson Home Cinema LS12000 4K laser projector review 2025 - 2,700 lumens, 2,500,000:1 contrast, HDR10+, 4K PRO-UHD. Best home theater projector at $4,999. Complete US buyer's guide."
+    },
+    {
+        "filename": "miele-complete-c3-marin-vacuum",
+        "title": "Miele Complete C3 Marin Vacuum  Premium German Engineering",
+        "category": "Home Cleaning",
+        "date": "December 10, 2025",
+        "read_time": "14 min",
+        "icon": "robot",
+        "description": "Miele Complete C3 Marin review 2025 - Premium German canister vacuum with HEPA filtration, 1200W motor, and 20-year lifespan. Best vacuum for allergy sufferers at $1,499. Complete US buyer's guide."
+    },
+    {
+        "filename": "rel-acoustics-s812-subwoofer",
+        "title": "REL Acoustics S/812 Subwoofer  Audiophile Bass",
+        "category": "Home Audio",
+        "date": "December 10, 2025",
+        "read_time": "13 min",
+        "icon": "shopping-cart",
+        "description": "REL Acoustics S/812 subwoofer review 2025 - 12-inch driver, 500W Class D amp, high-level input. Audiophile bass integration at $2,499. Complete US buyer's guide."
+    },
+    {
+        "filename": "tempur-pedic-grandbreeze-mattress",
+        "title": "TempurPedic GrandBreeze King Mattress  Ultimate Sleep",
+        "category": "Sleep & Wellness",
+        "date": "December 10, 2025",
+        "read_time": "15 min",
+        "icon": "bed",
+        "description": "Tempur-Pedic GrandBreeze King Mattress review 2025 - Ultimate cooling technology, pressure relief, and 25-year warranty. Premium sleep at $5,499. Complete US buyer's guide."
+    },
+    {
+        "filename": "thermomix-tm6-kitchen",
+        "title": "Thermomix TM6  The Ultimate Smart Kitchen Appliance",
+        "category": "Kitchen Appliances",
+        "date": "December 10, 2025",
+        "read_time": "14 min",
+        "icon": "shopping-cart",
+        "description": "Thermomix TM6 review 2025 - All-in-one smart kitchen appliance with 20+ functions: cooking, blending, steaming, weighing. German precision at $1,499. Complete US buyer's guide."
+    },
+    {
+        "filename": "all-clad-d5-brushed-14-piece",
+        "title": "AllClad D5 Brushed 14Piece Set | Worth $1,899?",
+        "category": "Kitchen & Cooking",
+        "date": "December 5, 2025",
+        "read_time": "17 min",
+        "icon": "shopping-cart",
+        "description": "All-Clad D5 Brushed 14-Piece Cookware Set review - Premium 5-ply stainless steel cookware handcrafted in USA. Is this $1,899 set worth the investment? Our honest 2025 review for home cooks."
+    },
+    {
+        "filename": "arlo-ultra-2-spotlight-camera",
+        "title": "Arlo Ultra 2 Camera System | 4K Security Worth $1,599?",
+        "category": "Home Security",
+        "date": "December 5, 2025",
+        "read_time": "17 min",
+        "icon": "camera",
+        "description": "Arlo Ultra 2 Spotlight Camera System delivers true 4K HDR video with color night vision and 180� field of view. Is this $1,599 security system worth it? Our comprehensive 2025 review."
+    },
+    {
+        "filename": "benq-sw321c-photoview-monitor",
+        "title": "BenQ SW321C PhotoVue | Professional 4K Display Worth $1,599?",
+        "category": "Photography & Video",
+        "date": "December 5, 2025",
+        "read_time": "16 min",
+        "icon": "desktop",
+        "description": "BenQ SW321C PhotoVue Monitor review - This 32-inch 4K display delivers 99% Adobe RGB for professional photo and video editing. Is it worth $1,599? Our detailed 2025 review for creatives."
+    },
+    {
+        "filename": "corsair-icue-5000x-rgb-build",
+        "title": "CORSAIR iCUE 5000X RGB Build | Premium PC Worth $2,500?",
+        "category": "Gaming & PC Building",
+        "date": "December 5, 2025",
+        "read_time": "18 min",
+        "icon": "wind",
+        "description": "CORSAIR iCUE 5000X RGB Premium Gaming PC Build review - Complete $2,500 build with tempered glass, RGB lighting, and enthusiast components. Is this showcase build worth it? Our 2025 review."
+    },
+    {
+        "filename": "elgato-wave-dx-podcast-bundle",
+        "title": "Elgato Wave DX Podcast Bundle | Complete Streaming Studio",
+        "category": "Podcasting & Streaming",
+        "date": "December 5, 2025",
+        "read_time": "17 min",
+        "icon": "mobile",
+        "description": "Elgato Wave DX Podcast Bundle review - Complete streaming studio with XLR microphone, Wave XLR interface, boom arm, and accessories. Is this $1,299 kit worth it? Our comprehensive 2025 review."
+    },
+    {
+        "filename": "purple-hybrid-premier-4-mattress",
+        "title": "Purple Hybrid Premier 4 Mattress | Worth $3,599?",
+        "category": "Sleep & Wellness",
+        "date": "December 5, 2025",
+        "read_time": "19 min",
+        "icon": "bed",
+        "description": "Purple Hybrid Premier 4 mattress review - This $3,599 luxury king mattress uses GelFlex Grid technology for pressure relief. Is it worth the investment? Our honest 2025 review reveals all."
+    },
+    {
+        "filename": "samsung-bespoke-4-door-flex",
+        "title": "Samsung Bespoke 4Door Flex | Smart Fridge Worth $3,699?",
+        "category": "Appliances",
+        "date": "December 5, 2025",
+        "read_time": "17 min",
+        "icon": "shopping-cart",
+        "description": "Samsung Bespoke 4-Door Flex refrigerator review - This $3,699 smart fridge features customizable panels, Family Hub, and FlexZone drawer. Is it worth the premium price? Our detailed 2025 review."
+    },
+    {
+        "filename": "samsung-hw-q990d-soundbar",
+        "title": "Samsung HWQ990D Soundbar Review  Ultimate 11.1.4 Dolby Atmos System 2025",
+        "category": "Home Theater",
+        "date": "December 5, 2025",
+        "read_time": "18 min",
+        "icon": "volume-up",
+        "description": "Samsung HW-Q990D Soundbar review - 11.1.4 channel Dolby Atmos system with wireless rear speakers and subwoofer. The ultimate home theater soundbar for 2025."
+    },
+    {
+        "filename": "steelcase-leap-v2-chair",
+        "title": "Steelcase Leap V2 | Ergonomic Chair Worth $1,143?",
+        "category": "Office & Productivity",
+        "date": "December 5, 2025",
+        "read_time": "16 min",
+        "icon": "chair",
+        "description": "Steelcase Leap V2 ergonomic office chair review - Premium adjustable chair with LiveBack technology. Is this $1,143 chair worth it for your back? Our honest 2025 review."
+    },
+    {
+        "filename": "traeger-timberline-1300",
+        "title": "Traeger Timberline 1300 | WiFi Pellet Grill Worth $2,499?",
+        "category": "BBQ & Grilling",
+        "date": "December 5, 2025",
+        "read_time": "18 min",
+        "icon": "fire",
+        "description": "Traeger Timberline 1300 WiFi Pellet Grill review - This $2,499 smart grill delivers restaurant-quality results with full app control. Is it worth the investment? Our comprehensive 2025 review."
+    },
+    {
+        "filename": "bose-quietcomfort-ultra-headphones",
+        "title": "Bose QuietComfort Ultra Headphones  Ultimate Noise Cancellation",
+        "category": "Premium Audio",
+        "date": "December 3, 2025",
+        "read_time": "11 min",
+        "icon": "mobile",
+        "description": "Comprehensive Bose QuietComfort Ultra Headphones review 2025. Expert analysis of world-class noise cancellation, Immersive Audio, and premium comfort. US buyers guide."
+    },
+    {
+        "filename": "macbook-pro-16-m3-max",
+        "title": "MacBook Pro 16inch M3 Max  Professional Powerhouse",
+        "category": "Professional Laptops",
+        "date": "December 3, 2025",
+        "read_time": "12 min",
+        "icon": "shopping-cart",
+        "description": "Comprehensive MacBook Pro 16-inch M3 Max review 2025. Expert analysis of performance, display, battery life, and value for creative professionals. US buyers guide."
+    },
+    {
+        "filename": "ninja-foodi-smart-xl-grill",
+        "title": "Ninja Foodi Smart XL Grill  6in1 Indoor Grill & Air Fryer",
+        "category": "Kitchen Appliances",
+        "date": "December 3, 2025",
+        "read_time": "10 min",
+        "icon": "fire",
+        "description": "Comprehensive Ninja Foodi Smart XL Grill review 2025. Expert analysis of Cyclonic Grilling Technology, 6-in-1 cooking modes, and Smart Cook System. US buyers guide with pros, cons, and recipes."
+    },
+    {
+        "filename": "apple-watch-ultra-2",
+        "title": "Apple Watch Ultra 2 Review  Premium Adventure Smartwatch 2025",
+        "category": "Premium Smartwatches",
+        "date": "November 27, 2025",
+        "read_time": "16 min",
+        "icon": "watch",
+        "description": "Apple Watch Ultra 2 review: Premium titanium smartwatch with 49mm display, dual-frequency GPS, dive computer to 100m, and extreme battery life. Perfect for athletes and adventurers in the US."
+    },
+    {
+        "filename": "bowers-wilkins-px8",
+        "title": "Bowers & Wilkins Px8 Review  Audiophile Wireless Headphones 2025",
+        "category": "Premium Headphones",
+        "date": "November 27, 2025",
+        "read_time": "17 min",
+        "icon": "mobile",
+        "description": "Bowers & Wilkins Px8 review: Premium wireless headphones with carbon fiber construction, 40mm drivers, adaptive ANC, and audiophile sound quality. Perfect for music lovers in the US."
+    },
+    {
+        "filename": "delonghi-specialista-maestro",
+        "title": "DeLonghi La Specialista Maestro Review  Premium Espresso 2025",
+        "category": "Espresso Machines",
+        "date": "November 27, 2025",
+        "read_time": "18 min",
+        "icon": "coffee",
+        "description": "DeLonghi La Specialista Maestro review: Premium espresso machine with LatteArt System, Smart Tamping Station, dual heating, and bean-to-cup convenience. Perfect for espresso enthusiasts in the US."
+    },
+    {
+        "filename": "ipad-pro-12-9-m2",
+        "title": "iPad Pro 12.9inch M2 Review  Best Premium Tablet 2025",
+        "category": "Premium Tablets",
+        "date": "November 27, 2025",
+        "read_time": "15 min",
+        "icon": "desktop",
+        "description": "iPad Pro 12.9-inch M2 review with desktop-class M2 chip, stunning Liquid Retina XDR display, Apple Pencil hover, and all-day battery life. Best premium tablet 2025 - Perfect for US shoppers."
+    },
+    {
+        "filename": "kitchenaid-pro-line-mixer",
+        "title": "KitchenAid Pro Line Stand Mixer Review  Professional Baking 2025",
+        "category": "Kitchen Appliances",
+        "date": "November 27, 2025",
+        "read_time": "16 min",
+        "icon": "blender",
+        "description": "KitchenAid Pro Line Stand Mixer review: Professional 7-quart stand mixer with 1.3HP motor, 11 speeds, and premium design. Perfect for serious bakers and home chefs in the US."
+    },
+    {
+        "filename": "microsoft-surface-laptop-studio-2",
+        "title": "Microsoft Surface Laptop Studio 2 Review  Best Creative Workstation 2025",
+        "category": "Premium Laptops",
+        "date": "November 27, 2025",
+        "read_time": "15 min",
+        "icon": "laptop",
+        "description": "Microsoft Surface Laptop Studio 2 review with 13th Gen Intel Core i7, NVIDIA RTX 4060, unique convertible design, and vibrant PixelSense touchscreen. Best creative workstation 2025 - Perfect for US shoppers."
+    },
+    {
+        "filename": "nespresso-creatista-plus",
+        "title": "Nespresso Creatista Plus Review  BaristaQuality Espresso 2025",
+        "category": "Coffee Machines",
+        "date": "November 27, 2025",
+        "read_time": "16 min",
+        "icon": "coffee",
+        "description": "Nespresso Creatista Plus review: Premium espresso machine with automatic steam wand, 8 coffee styles, barista-quality results, and sleek stainless steel design. Perfect for coffee lovers in the US."
+    },
+    {
+        "filename": "peloton-bike-plus",
+        "title": "Peloton Bike+ Review  Premium Connected Fitness 2025",
+        "category": "Home Fitness",
+        "date": "November 27, 2025",
+        "read_time": "18 min",
+        "icon": "bicycle",
+        "description": "Peloton Bike+ review: Premium exercise bike with auto-follow resistance, rotating 23.8-inch HD touchscreen, immersive live and on-demand classes. Perfect for home fitness enthusiasts in the US."
+    },
+    {
+        "filename": "razer-blade-15-2024",
+        "title": "Razer Blade 15 2024 Review  Premium Gaming Laptop",
+        "category": "Gaming Laptops",
+        "date": "November 27, 2025",
+        "read_time": "17 min",
+        "icon": "laptop",
+        "description": "Razer Blade 15 2024 review: Premium gaming laptop with 14th Gen Intel Core i9, RTX 4070, QHD 240Hz display, and sleek aluminum design. Perfect for gamers and creators in the US."
+    },
+    {
+        "filename": "samsung-frame-tv-65",
+        "title": "Samsung The Frame 65 Review  ArtInspired QLED TV 2025",
+        "category": "Premium TVs",
+        "date": "November 27, 2025",
+        "read_time": "17 min",
+        "icon": "tv",
+        "description": "Samsung The Frame 65-inch QLED TV review: Art-inspired 4K TV with Quantum Dot technology, Art Mode, customizable bezels, anti-reflection screen. Perfect for design-conscious home theater in the US."
+    },
+    {
+        "filename": "samsung-galaxy-s24-ultra",
+        "title": "Samsung Galaxy S24 Ultra Review  Best Flagship Phone 2025",
+        "category": "Premium Smartphones",
+        "date": "November 27, 2025",
+        "read_time": "16 min",
+        "icon": "camera",
+        "description": "Samsung Galaxy S24 Ultra review with revolutionary AI features, powerful Snapdragon 8 Gen 3 processor, stunning 200MP camera, and integrated S Pen. Best flagship smartphone 2025 - Perfect for US shoppers."
+    },
+    {
+        "filename": "samsung-odyssey-oled-g9",
+        "title": "Samsung Odyssey OLED G9 Review  Ultimate Gaming Monitor 2025",
+        "category": "Gaming Monitors",
+        "date": "November 27, 2025",
+        "read_time": "18 min",
+        "icon": "desktop",
+        "description": "Samsung Odyssey OLED G9 review: Ultra-wide 49-inch OLED gaming monitor with 240Hz refresh rate, 0.03ms response time, 1800R curve, and stunning HDR. Perfect for immersive gaming in the US."
+    },
+    {
+        "filename": "sony-a7-iv-camera",
+        "title": "Sony A7 IV Review  Professional FullFrame Camera 2025",
+        "category": "Professional Cameras",
+        "date": "November 27, 2025",
+        "read_time": "17 min",
+        "icon": "camera",
+        "description": "Sony A7 IV review: Professional 33MP full-frame mirrorless camera with 4K 60p video, 10fps burst shooting, advanced Real-time Eye AF, and exceptional image quality. Perfect for pro photographers in the US."
+    },
+    {
+        "filename": "apple-watch-se",
+        "title": "Apple Watch SE (2nd Gen) 2025 Review  Best Value Smartwatch",
+        "category": "Wearables",
+        "date": "November 25, 2025",
+        "read_time": "12 min",
+        "icon": "desktop",
+        "description": "Apple Watch SE 2025 Review: GPS tracking, heart rate monitoring, crash detection, and 50m water resistance. Best affordable Apple smartwatch at $249. Full specs and buying guide - Perfect for US shoppers."
+    },
+    {
+        "filename": "blink-video-doorbell",
+        "title": "Blink Video Doorbell 2025 Review  Best Budget Smart Doorbell",
+        "category": "Smart Home",
+        "date": "November 25, 2025",
+        "read_time": "12 min",
+        "icon": "shopping-cart",
+        "description": "Blink Video Doorbell Review: 1080p HD video, two-year battery life, two-way audio, motion detection. Best affordable smart doorbell at $59.99. Complete guide - Perfect for US shoppers."
+    },
+    {
+        "filename": "fire-tv-stick-4k",
+        "title": "Amazon Fire TV Stick 4K Max 2025 Review  Ultimate Streaming",
+        "category": "Streaming",
+        "date": "November 25, 2025",
+        "read_time": "14 min",
+        "icon": "tv",
+        "description": "Fire TV Stick 4K Max Review: Alexa voice control, Wi-Fi 6E, cloud gaming, 4K HDR streaming. Best Amazon streaming device at $59.99. Full buying guide - Perfect for US shoppers."
+    },
+    {
+        "filename": "instant-pot-duo",
+        "title": "Instant Pot Duo 7in1 2025 Review  Best MultiCooker",
+        "category": "Kitchen",
+        "date": "November 25, 2025",
+        "read_time": "14 min",
+        "icon": "shopping-cart",
+        "description": "Instant Pot Duo Review: 7-in-1 multi-cooker, pressure cooker, slow cooker, rice cooker. Best kitchen appliance at $99.99. Complete cooking guide included - Perfect for US shoppers."
+    },
+    {
+        "filename": "jbl-flip-6",
+        "title": "JBL Flip 6 Portable Speaker 2025 Review  Best Waterproof Bluetooth Speaker",
+        "category": "Audio",
+        "date": "November 25, 2025",
+        "read_time": "12 min",
+        "icon": "volume-up",
+        "description": "JBL Flip 6 Review: Waterproof IP67 rating, 12-hour battery, powerful bass, PartyBoost feature. Best portable speaker at $129.99. Complete audio guide - Perfect for US shoppers."
+    },
+    {
+        "filename": "kindle-paperwhite",
+        "title": "Amazon Kindle Paperwhite 16GB (2024) Review  Best EReader",
+        "category": "Electronics",
+        "date": "November 25, 2025",
+        "read_time": "11 min",
+        "icon": "shopping-cart",
+        "description": "Kindle Paperwhite 2024 Review: 16GB storage, 6.8-inch glare-free display, 10-week battery, waterproof design. Best e-reader for book lovers at $149. Complete buying guide - Perfect for US shoppers."
+    },
+    {
+        "filename": "ninja-air-fryer",
+        "title": "Ninja Air Fryer Pro 2025 Review  Best Air Fryer for Healthy Cooking",
+        "category": "Kitchen",
+        "date": "November 25, 2025",
+        "read_time": "13 min",
+        "icon": "wind",
+        "description": "Ninja Air Fryer Pro Review: 5-quart capacity, 400°F heat, healthier cooking with 75% less fat. Best air fryer at $119.99. Complete cooking guide included - Perfect for US shoppers."
+    },
+    {
+        "filename": "roku-streaming-stick",
+        "title": "Roku Streaming Stick 4K Plus 2025 Review  Best Streaming Device",
+        "category": "Streaming",
+        "date": "November 25, 2025",
+        "read_time": "13 min",
+        "icon": "shopping-cart",
+        "description": "Roku Streaming Stick 4K Plus Review: 4K HDR streaming, voice remote, 500+ channels, and private listening. Best streaming stick at $49.99. Complete guide - Perfect for US shoppers."
+    },
+    {
+        "filename": "roomba-694",
+        "title": "iRobot Roomba 694 2025 Review  Best EntryLevel Robot Vacuum",
+        "category": "Smart Home",
+        "date": "November 25, 2025",
+        "read_time": "13 min",
+        "icon": "robot",
+        "description": "Roomba 694 Review: Smart mapping, app control, automatic charging, 3-stage cleaning system. Best affordable robot vacuum at $274.99. Complete buying guide - Perfect for US shoppers."
+    },
+    {
+        "filename": "sony-wh-1000xm5",
+        "title": "Sony WH1000XM5 Headphones 2025 Review  Best Noise Cancelling",
+        "category": "Audio",
+        "date": "November 25, 2025",
+        "read_time": "15 min",
+        "icon": "mobile",
+        "description": "Sony WH-1000XM5 Review: Industry-leading noise cancellation, 30-hour battery, superior sound quality. Best premium headphones at $398. Complete guide - Perfect for US shoppers."
+    },
+    {
+        "filename": "anker-powercore-26800",
+        "title": "Anker PowerCore 26800 Review  Best Portable Charger 2025",
+        "category": "Tech Accessories",
+        "date": "January 25, 2025",
+        "read_time": "14 min",
+        "icon": "shopping-cart",
+        "description": "Anker PowerCore 26800 portable charger review with fast charging, triple ports, and massive capacity. Best power bank for travel and daily use in 2025 - Perfect for US shoppers."
+    },
+    {
+        "filename": "smart-watch-2025",
+        "title": "Smart Watch 2025 Review  Best Fitness Tracker with Heart Rate Monitor",
+        "category": "Fitness Tech",
+        "date": "January 22, 2025",
+        "read_time": "15 min",
+        "icon": "desktop",
+        "description": "Comprehensive smart watch review with heart rate monitoring, sleep tracking, and 100+ sport modes. Best affordable fitness smartwatch for 2025 - Perfect for US shoppers."
+    },
+    {
+        "filename": "3in1-charging-station",
+        "title": "3in1 Wireless Charging Station Review  iPhone, Apple Watch, AirPods 2025",
+        "category": "Tech Accessories",
+        "date": "January 20, 2025",
+        "read_time": "13 min",
+        "icon": "mobile",
+        "description": "3-in-1 wireless charging station review for iPhone 16/15, Apple Watch, and AirPods. Fast charging dock with MagSafe compatibility tested for 2025 - Perfect for US shoppers."
     },
     {
         "filename": "adam-audio-a7v",
@@ -347,8 +1409,8 @@
         "category": "Pro Audio",
         "date": "Jan 18, 2025",
         "read_time": "17 min",
-        "icon": "volume-up",
-        "description": "Flagship nearfield studio monitors with ART tweeter and precision DSP."
+        "icon": "desktop",
+        "description": "Adam Audio A7V Studio Monitors Review 2025 - Flagship nearfield studio monitors with ART tweeter and precision DSP. Premium quality at $1500."
     },
     {
         "filename": "big-green-egg-xlarge",
@@ -357,1473 +1419,501 @@
         "date": "Jan 18, 2025",
         "read_time": "17 min",
         "icon": "fire",
-        "description": "Premium ceramic kamado-style grill and smoker with legendary versatility."
+        "description": "Big Green Egg XLarge Review 2025 - Premium ceramic kamado-style grill and smoker with legendary versatility. Premium quality at $1249."
     },
     {
-        "filename": "3in1-charging-station",
-        "title": "3-in-1 Charging Station",
-        "category": "Charging",
-        "date": "Nov 25, 2024",
-        "read_time": "8 min",
-        "icon": "charging-station",
-        "description": "Simplify your charging setup with this MagSafe-compatible 3-in-1 wireless charging station."
+        "filename": "festool-kapex-ks120",
+        "title": "Festool KAPEX KS 120 Miter Saw",
+        "category": "Tools & Workshop",
+        "date": "Jan 18, 2025",
+        "read_time": "17 min",
+        "icon": "shopping-cart",
+        "description": "Festool KAPEX KS 120 Miter Saw Review 2025 - Premium dual-bevel sliding compound miter saw with laser precision and dust extraction. Premium quality at $1800."
     },
     {
-        "filename": "airpods-pro-2",
-        "title": "Apple AirPods Pro 2",
-        "category": "Audio",
-        "date": "Nov 24, 2024",
-        "read_time": "10 min",
-        "icon": "headphones",
-        "description": "Premium Active Noise Cancellation with up to 2x better performance."
+        "filename": "hydrow-rower",
+        "title": "Hydrow Rower  Premium Connected Rowing Machine",
+        "category": "Fitness Equipment",
+        "date": "Jan 18, 2025",
+        "read_time": "17 min",
+        "icon": "water",
+        "description": "Hydrow Rower review 2025 - Premium connected rowing machine with live and on-demand classes. Experience outdoor rowing at home for $2,495."
     },
     {
-        "filename": "alienware-aurora-r16",
-        "title": "Alienware Aurora R16",
-        "category": "Gaming PC",
-        "date": "Nov 27, 2024",
-        "read_time": "12 min",
-        "icon": "laptop",
-        "description": "High-performance gaming desktop with cutting-edge components."
+        "filename": "normatec-3-legs",
+        "title": "Normatec 3 Leg Recovery System  Professional Recovery",
+        "category": "Recovery & Wellness",
+        "date": "Jan 18, 2025",
+        "read_time": "16 min",
+        "icon": "wind",
+        "description": "Normatec 3 Leg Recovery System review 2025 - Professional-grade compression therapy for athletes. Dynamic air compression for faster recovery at $1,299."
     },
     {
-        "filename": "amazon-echo-hub",
-        "title": "Amazon Echo Hub",
-        "category": "Smart Home",
-        "date": "Nov 27, 2024",
-        "read_time": "9 min",
-        "icon": "home",
-        "description": "Central control hub for your smart home devices."
+        "filename": "rimowa-original-trunk-plus",
+        "title": "Rimowa Original Trunk Plus",
+        "category": "Luxury Travel",
+        "date": "Jan 18, 2025",
+        "read_time": "17 min",
+        "icon": "shopping-cart",
+        "description": "Rimowa Original Trunk Plus Review 2025 - Iconic aluminum luggage with lifetime durability and timeless design. Premium quality at $1950."
     },
     {
-        "filename": "anker-power-bank",
-        "title": "Anker 20K mAh Power Bank",
-        "category": "Power & Charging",
-        "date": "Nov 24, 2024",
-        "read_time": "7 min",
-        "icon": "battery-full",
-        "description": "Massive 20,000 mAh portable charger with fast 15W charging."
+        "filename": "specialized-turbo-levo",
+        "title": "Specialized Turbo Levo EBike",
+        "category": "E-Bikes",
+        "date": "Jan 18, 2025",
+        "read_time": "17 min",
+        "icon": "bicycle",
+        "description": "Specialized Turbo Levo E-Bike Review 2025 - Premium full-suspension e-MTB with powerful motor and extended range battery. Premium quality at $14500."
     },
     {
-        "filename": "anker-powercore-26800",
-        "title": "Anker PowerCore 26800",
-        "category": "Power",
-        "date": "Nov 25, 2024",
-        "read_time": "9 min",
-        "icon": "battery-full",
-        "description": "Best Portable Charger with 26800mAh capacity."
+        "filename": "tonal-home-gym",
+        "title": "Tonal Home Gym  AIPowered Strength Training System",
+        "category": "Fitness Equipment",
+        "date": "Jan 18, 2025",
+        "read_time": "18 min",
+        "icon": "heartbeat",
+        "description": "Tonal Home Gym review 2025 - Revolutionary AI-powered strength training system with digital weights and personalized coaching. The future of home fitness at $3,995."
     },
     {
-        "filename": "anker-solix-f3800",
-        "title": "Anker SOLIX F3800",
-        "category": "Power Station",
-        "date": "Nov 27, 2024",
-        "read_time": "11 min",
-        "icon": "battery-full",
-        "description": "Portable power station with expandable capacity."
+        "filename": "trek-domane-slr9",
+        "title": "Trek Domane SLR 9 Road Bike",
+        "category": "Cycling",
+        "date": "Jan 18, 2025",
+        "read_time": "17 min",
+        "icon": "bicycle",
+        "description": "Trek Domane SLR 9 Road Bike Review 2025 - Professional endurance road bike with IsoSpeed technology and OCLV 800 carbon. Premium quality at $12499."
     },
     {
-        "filename": "anker-usb-c-hub",
-        "title": "Anker USB-C Hub 7-in-1",
-        "category": "Accessories",
-        "date": "Nov 25, 2024",
-        "read_time": "8 min",
-        "icon": "plug",
-        "description": "Expand your laptop connectivity with this versatile hub."
-    },
-    {
-        "filename": "apple-airtag",
-        "title": "Apple AirTag 4 Pack",
-        "category": "Smart Tech",
-        "date": "Nov 24, 2024",
-        "read_time": "8 min",
-        "icon": "map-marker-alt",
-        "description": "Never lose your valuables with Apple's Find My network."
-    },
-    {
-        "filename": "apple-homepod-2",
-        "title": "Apple HomePod 2nd Gen",
-        "category": "Smart Speaker",
-        "date": "Nov 27, 2024",
-        "read_time": "10 min",
-        "icon": "home",
-        "description": "Premium smart speaker with spatial audio."
-    },
-    {
-        "filename": "apple-vision-pro",
-        "title": "Apple Vision Pro",
-        "category": "AR/VR",
-        "date": "Nov 27, 2024",
-        "read_time": "15 min",
-        "icon": "vr-cardboard",
-        "description": "Revolutionary spatial computing device."
-    },
-    {
-        "filename": "apple-watch-se",
-        "title": "Apple Watch SE (2nd Gen)",
-        "category": "Wearables 2025",
-        "date": "Nov 25, 2025",
-        "read_time": "12 min",
-        "icon": "watch",
-        "description": "Best Value Smartwatch with essential features."
-    },
-    {
-        "filename": "apple-watch-ultra-2",
-        "title": "Apple Watch Ultra 2",
-        "category": "Wearables",
-        "date": "Nov 27, 2024",
-        "read_time": "13 min",
-        "icon": "watch",
-        "description": "Premium adventure smartwatch with extended battery."
-    },
-    {
-        "filename": "asus-rog-zephyrus-g16",
-        "title": "ASUS ROG Zephyrus G16",
-        "category": "Gaming Laptops",
-        "date": "Nov 27, 2024",
+        "filename": "wyze-cam-v4",
+        "title": "WYZE Cam v4 Review  Best Smart Home Security Camera 2025",
+        "category": "Home Security",
+        "date": "January 18, 2025",
         "read_time": "14 min",
-        "icon": "laptop",
-        "description": "Ultra-slim gaming laptop with powerful performance."
+        "icon": "camera",
+        "description": "WYZE Cam v4 security camera review covering video quality, night vision, AI detection, and smart home integration. The best affordable security camera - Perfect for US shoppers."
+    },
+    {
+        "filename": "yeti-tundra-350",
+        "title": "YETI Tundra 350 Cooler",
+        "category": "Outdoor Equipment",
+        "date": "Jan 18, 2025",
+        "read_time": "17 min",
+        "icon": "shopping-cart",
+        "description": "YETI Tundra 350 Cooler Review 2025 - Commercial-grade rotomolded cooler with 10+ day ice retention. Premium quality at $1300."
+    },
+    {
+        "filename": "tagry-x08-headphones",
+        "title": "TAGRY X08 Bluetooth Headphones Review  60H Playtime Wireless Earbuds 2025",
+        "category": "Audio Tech",
+        "date": "January 15, 2025",
+        "read_time": "12 min",
+        "icon": "mobile",
+        "description": "TAGRY X08 Bluetooth headphones review with 60-hour battery life, wireless charging, and IPX5 waterproof rating. Best budget earbuds for 2025 tested - Perfect for US shoppers."
+    },
+    {
+        "filename": "canon-rf-70-200mm-f28",
+        "title": "Canon RF 70200mm F2.8 L IS USM Review  Professional Telephoto Lens 2025",
+        "category": "Photography",
+        "date": "December 11, 2024",
+        "read_time": "18 min",
+        "icon": "shopping-cart",
+        "description": "Canon RF 70-200mm F2.8 L IS USM review - Professional telephoto lens with incredible image quality, dual Nano USM motors, 5-stop image stabilization, and weather sealing. Best telephoto lens 2025 for US photographers."
+    },
+    {
+        "filename": "dreame-l50-ultra-robot-vacuum",
+        "title": "Dreame L50 Ultra Complete Robot Vacuum Review  Revolutionary Retractable Legs 2025",
+        "category": "Smart Home",
+        "date": "December 11, 2024",
+        "read_time": "17 min",
+        "icon": "robot",
+        "description": "Dreame L50 Ultra Complete Robot Vacuum review - Revolutionary retractable leg technology, advanced mopping, obstacle avoidance, and powerful 11,000Pa suction. Best premium robot vacuum 2025 for US homes."
+    },
+    {
+        "filename": "flexispot-e7-pro-plus",
+        "title": "FlexiSpot E7 Pro Plus Standing Desk Review  Premium Dual Motor 2025",
+        "category": "Office Furniture",
+        "date": "December 11, 2024",
+        "read_time": "18 min",
+        "icon": "desk",
+        "description": "FlexiSpot E7 Pro Plus Standing Desk review - Dual motor power, 355 lb capacity, whisper-quiet operation, programmable memory, and premium build quality. Best electric standing desk 2025 for US professionals."
+    },
+    {
+        "filename": "narwal-freo-x-ultra",
+        "title": "Narwal Freo X Ultra Robot Vacuum Review  ZeroMaintenance Cleaning 2025",
+        "category": "Smart Home",
+        "date": "December 11, 2024",
+        "read_time": "16 min",
+        "icon": "robot",
+        "description": "Narwal Freo X Ultra Robot Vacuum review - Zero-tangle floating brush, 12,000Pa suction, intelligent dirt detection, EdgeSwing mopping, and industry-first zero-maintenance cleaning system. Best for US homes 2025."
+    },
+    {
+        "filename": "secretlab-titan-evo-plus",
+        "title": "Secretlab TITAN Evo Plus 2025 Review  NextGen Gaming Chair",
+        "category": "Gaming Furniture",
+        "date": "December 11, 2024",
+        "read_time": "17 min",
+        "icon": "chair",
+        "description": "Secretlab TITAN Evo Plus 2025 review - Next-gen gaming chair with self-adjusting lumbar support, intelligent temperature regulation, premium materials, and ergonomic excellence. Best gaming chair 2025 for US gamers."
     },
     {
         "filename": "bang-olufsen-beovision-harmony",
         "title": "Bang & Olufsen Beovision Harmony",
-        "category": "Luxury TV",
-        "date": "Dec 3, 2024",
-        "read_time": "12 min",
-        "icon": "tv",
-        "description": "Stunning 8K OLED TV with integrated soundbar."
-    },
-    {
-        "filename": "beats-studio-pro",
-        "title": "Beats Studio Pro",
-        "category": "Audio",
-        "date": "Nov 27, 2024",
-        "read_time": "11 min",
-        "icon": "headphones",
-        "description": "Premium wireless headphones with lossless audio."
-    },
-    {
-        "filename": "bengoo-g9000",
-        "title": "BENGOO G9000 Gaming Headset",
-        "category": "Gaming Audio",
-        "date": "Nov 24, 2024",
-        "read_time": "7 min",
-        "icon": "headset",
-        "description": "Budget-friendly gaming headset with 7.1 surround sound."
-    },
-    {
-        "filename": "blink-video-doorbell",
-        "title": "Blink Video Doorbell",
-        "category": "Smart Home",
-        "date": "Nov 25, 2025",
-        "read_time": "9 min",
-        "icon": "door-open",
-        "description": "Affordable smart doorbell with HD video and motion detection."
+        "category": "Luxury Electronics",
+        "date": "December 3, 2024",
+        "read_time": "17 min",
+        "icon": "volume-up",
+        "description": "Bang & Olufsen Beovision Harmony review - Luxurious OLED TV with motorized speaker panels, premium audio, and stunning design. The ultimate TV experience for US luxury homes 2025."
     },
     {
         "filename": "bose-lifestyle-650",
-        "title": "Bose Lifestyle 650",
-        "category": "Home Theater",
-        "date": "Dec 3, 2024",
-        "read_time": "13 min",
-        "icon": "tv",
-        "description": "Premium home theater system with wireless speakers."
-    },
-    {
-        "filename": "bose-quietcomfort-ultra-headphones",
-        "title": "Bose QuietComfort Ultra",
-        "category": "Audio",
-        "date": "Nov 27, 2024",
-        "read_time": "12 min",
-        "icon": "headphones",
-        "description": "World-class noise cancelling headphones."
-    },
-    {
-        "filename": "bose-ultra-open-earbuds",
-        "title": "Bose Ultra Open Earbuds",
-        "category": "Audio",
-        "date": "Nov 27, 2024",
-        "read_time": "10 min",
-        "icon": "headphones",
-        "description": "Revolutionary open-ear design for all-day comfort."
-    },
-    {
-        "filename": "bowers-wilkins-px8",
-        "title": "Bowers & Wilkins PX8",
-        "category": "Premium Audio",
-        "date": "Nov 27, 2024",
-        "read_time": "12 min",
-        "icon": "headphones",
-        "description": "Luxury wireless headphones with 24-bit audio."
-    },
-    {
-        "filename": "breville-barista-express",
-        "title": "Breville Barista Express",
-        "category": "Kitchen Appliances",
-        "date": "Nov 26, 2024",
-        "read_time": "13 min",
-        "icon": "coffee",
-        "description": "All-in-one espresso machine with integrated grinder."
+        "title": "Bose Lifestyle 650 Home Theater System",
+        "category": "Home Audio",
+        "date": "December 3, 2024",
+        "read_time": "16 min",
+        "icon": "shopping-cart",
+        "description": "Bose Lifestyle 650 Home Entertainment System review - Premium 5.1 surround sound with Adaptiq calibration, wireless connectivity, and stunning audio. Best home theater system for US homes."
     },
     {
         "filename": "breville-oracle-jet",
         "title": "Breville Oracle Jet",
-        "category": "Kitchen",
-        "date": "Dec 3, 2024",
-        "read_time": "14 min",
+        "category": "Kitchen Appliances",
+        "date": "December 3, 2024",
+        "read_time": "16 min",
         "icon": "coffee",
-        "description": "Automated espresso machine with microfoam technology."
-    },
-    {
-        "filename": "canon-eos-r6-mark-ii",
-        "title": "Canon EOS R6 Mark II",
-        "category": "Cameras",
-        "date": "Nov 27, 2024",
-        "read_time": "15 min",
-        "icon": "camera",
-        "description": "Professional mirrorless camera with 24.2MP sensor."
-    },
-    {
-        "filename": "dell-xps-17-2025",
-        "title": "Dell XPS 17 2025",
-        "category": "Laptops",
-        "date": "Nov 27, 2024",
-        "read_time": "13 min",
-        "icon": "laptop",
-        "description": "Premium 17-inch laptop for creators."
-    },
-    {
-        "filename": "delonghi-specialista-maestro",
-        "title": "DeLonghi Specialista Maestro",
-        "category": "Kitchen",
-        "date": "Nov 27, 2024",
-        "read_time": "12 min",
-        "icon": "coffee",
-        "description": "Smart espresso machine with dual heating system."
+        "description": "Breville Oracle Jet review - Super-automatic espresso machine with integrated grinder and milk system. Best automatic espresso maker for US homes 2025."
     },
     {
         "filename": "dji-inspire-3",
         "title": "DJI Inspire 3",
-        "category": "Drones",
-        "date": "Dec 3, 2024",
-        "read_time": "15 min",
-        "icon": "drone",
-        "description": "Professional cinema drone with 8K camera."
-    },
-    {
-        "filename": "dji-mini-4-pro",
-        "title": "DJI Mini 4 Pro",
-        "category": "Drones",
-        "date": "Nov 27, 2024",
-        "read_time": "12 min",
-        "icon": "drone",
-        "description": "Compact drone with advanced obstacle avoidance."
-    },
-    {
-        "filename": "dyson-purifier-hot-cool",
-        "title": "Dyson Purifier Hot+Cool HP07",
-        "category": "Home Air Quality",
-        "date": "Nov 26, 2024",
-        "read_time": "12 min",
-        "icon": "wind",
-        "description": "3-in-1 purifier, heater, and fan."
-    },
-    {
-        "filename": "dyson-v15-detect",
-        "title": "Dyson V15 Detect",
-        "category": "Home Cleaning",
-        "date": "Nov 26, 2024",
-        "read_time": "12 min",
-        "icon": "broom",
-        "description": "Cordless vacuum with laser dust detection."
-    },
-    {
-        "filename": "echo-dot-5th-gen",
-        "title": "Echo Dot 5th Gen",
-        "category": "Smart Speaker",
-        "date": "Nov 25, 2024",
-        "read_time": "8 min",
-        "icon": "circle-dot",
-        "description": "Compact Alexa smart speaker with improved audio."
-    },
-    {
-        "filename": "elgato-stream-deck-xl",
-        "title": "Elgato Stream Deck XL",
-        "category": "Streaming",
-        "date": "Nov 27, 2024",
-        "read_time": "11 min",
-        "icon": "gamepad",
-        "description": "Advanced stream control with 32 customizable keys."
-    },
-    {
-        "filename": "fanatec-podium-dd2",
-        "title": "Fanatec Podium DD2",
-        "category": "Sim Racing",
-        "date": "Dec 3, 2024",
-        "read_time": "14 min",
-        "icon": "gamepad",
-        "description": "Professional direct drive racing wheel."
-    },
-    {
-        "filename": "fire-tv-stick-4k",
-        "title": "Fire TV Stick 4K Max",
-        "category": "Streaming",
-        "date": "Nov 25, 2025",
-        "read_time": "11 min",
-        "icon": "fire",
-        "description": "Powerful 4K streaming with Wi-Fi 6E support."
-    },
-    {
-        "filename": "fitbit-inspire-3",
-        "title": "Fitbit Inspire 3",
-        "category": "Fitness",
-        "date": "Nov 24, 2024",
-        "read_time": "9 min",
-        "icon": "heartbeat",
-        "description": "Comprehensive fitness tracker with 10-day battery life."
-    },
-    {
-        "filename": "focal-utopia-headphones",
-        "title": "Focal Utopia",
-        "category": "Audiophile",
-        "date": "Dec 3, 2024",
-        "read_time": "13 min",
-        "icon": "headphones",
-        "description": "Reference-grade open-back headphones."
-    },
-    {
-        "filename": "gaggenau-400-series-oven",
-        "title": "Gaggenau 400 Series Oven",
-        "category": "Luxury Kitchen",
-        "date": "Dec 3, 2024",
-        "read_time": "14 min",
-        "icon": "fire",
-        "description": "Professional-grade built-in oven."
-    },
-    {
-        "filename": "galaxy-tab-a9",
-        "title": "Samsung Galaxy Tab A9+",
-        "category": "Tablets",
-        "date": "Nov 24, 2024",
-        "read_time": "8 min",
-        "icon": "tablet",
-        "description": "Affordable tablet with 11-inch display."
-    },
-    {
-        "filename": "gopro-hero-12-black",
-        "title": "GoPro HERO 12 Black",
-        "category": "Action Cameras",
-        "date": "Nov 27, 2024",
-        "read_time": "12 min",
-        "icon": "camera",
-        "description": "Ultimate action camera with 5.3K video."
-    },
-    {
-        "filename": "hasselblad-x2d-100c",
-        "title": "Hasselblad X2D 100C",
-        "category": "Medium Format",
-        "date": "Dec 3, 2024",
+        "category": "Drones & Photography",
+        "date": "December 3, 2024",
         "read_time": "16 min",
         "icon": "camera",
-        "description": "100MP medium format mirrorless camera."
+        "description": "DJI Inspire 3 drone review - Professional cinema drone with 8K camera, 360° obstacle avoidance, and cinema-grade features. Best professional drone for US filmmakers 2025."
     },
     {
         "filename": "herman-miller-eames-lounge",
-        "title": "Herman Miller Eames Lounge",
-        "category": "Luxury Furniture",
-        "date": "Dec 3, 2024",
-        "read_time": "10 min",
+        "title": "Herman Miller Eames Lounge Chair",
+        "category": "Furniture",
+        "date": "December 3, 2024",
+        "read_time": "16 min",
         "icon": "chair",
-        "description": "Iconic lounge chair and ottoman."
-    },
-    {
-        "filename": "herman-miller-embody-gaming",
-        "title": "Herman Miller x Logitech Embody",
-        "category": "Gaming Furniture",
-        "date": "Nov 27, 2024",
-        "read_time": "13 min",
-        "icon": "chair",
-        "description": "Premium ergonomic gaming chair."
-    },
-    {
-        "filename": "instant-pot-duo",
-        "title": "Instant Pot Duo 7-in-1",
-        "category": "Kitchen",
-        "date": "Nov 25, 2025",
-        "read_time": "11 min",
-        "icon": "utensils",
-        "description": "Multi-functional pressure cooker."
-    },
-    {
-        "filename": "ipad-11-inch",
-        "title": "Apple iPad 11-inch",
-        "category": "Tablets",
-        "date": "Nov 24, 2024",
-        "read_time": "10 min",
-        "icon": "tablet-alt",
-        "description": "Powerful tablet with A16 chip."
-    },
-    {
-        "filename": "ipad-pro-12-9-m2",
-        "title": "iPad Pro 12.9 M2",
-        "category": "Tablets",
-        "date": "Nov 27, 2024",
-        "read_time": "14 min",
-        "icon": "tablet",
-        "description": "Pro tablet with M2 chip and Liquid Retina XDR."
-    },
-    {
-        "filename": "iphone-16-pro-max",
-        "title": "iPhone 16 Pro Max",
-        "category": "Smartphones",
-        "date": "Nov 27, 2024",
-        "read_time": "15 min",
-        "icon": "mobile",
-        "description": "Flagship iPhone with A18 Pro chip."
-    },
-    {
-        "filename": "irobot-roomba-j7",
-        "title": "iRobot Roomba j7+",
-        "category": "Smart Home",
-        "date": "Nov 26, 2024",
-        "read_time": "13 min",
-        "icon": "robot",
-        "description": "Self-emptying robot vacuum with obstacle avoidance."
-    },
-    {
-        "filename": "jbl-flip-6",
-        "title": "JBL Flip 6",
-        "category": "Portable Audio",
-        "date": "Nov 25, 2025",
-        "read_time": "9 min",
-        "icon": "music",
-        "description": "Waterproof portable Bluetooth speaker."
-    },
-    {
-        "filename": "keychron-q1-pro",
-        "title": "Keychron Q1 Pro",
-        "category": "Keyboards",
-        "date": "Nov 26, 2024",
-        "read_time": "12 min",
-        "icon": "keyboard",
-        "description": "Premium wireless mechanical keyboard."
-    },
-    {
-        "filename": "kindle-paperwhite",
-        "title": "Kindle Paperwhite 16GB",
-        "category": "E-Readers",
-        "date": "Nov 25, 2025",
-        "read_time": "11 min",
-        "icon": "book-reader",
-        "description": "Best e-reader with glare-free display."
-    },
-    {
-        "filename": "kitchenaid-pro-line-mixer",
-        "title": "KitchenAid Pro Line Mixer",
-        "category": "Kitchen",
-        "date": "Nov 27, 2024",
-        "read_time": "11 min",
-        "icon": "blender",
-        "description": "Professional stand mixer with 7-quart bowl."
+        "description": "Herman Miller Eames Lounge Chair review - Iconic design with premium leather and molded plywood. Best luxury chair for US homes 2025."
     },
     {
         "filename": "la-marzocco-linea-mini",
         "title": "La Marzocco Linea Mini",
-        "category": "Espresso Machines",
-        "date": "Dec 3, 2024",
-        "read_time": "15 min",
+        "category": "Kitchen Appliances",
+        "date": "December 3, 2024",
+        "read_time": "16 min",
         "icon": "coffee",
-        "description": "Commercial-grade home espresso machine."
-    },
-    {
-        "filename": "leica-q3-camera",
-        "title": "Leica Q3",
-        "category": "Luxury Cameras",
-        "date": "Dec 3, 2024",
-        "read_time": "14 min",
-        "icon": "camera",
-        "description": "Premium compact camera with 60MP sensor."
-    },
-    {
-        "filename": "lg-27-4k-monitor",
-        "title": "LG 27-Inch 4K Monitor",
-        "category": "Monitors",
-        "date": "Nov 26, 2024",
-        "read_time": "12 min",
-        "icon": "tv",
-        "description": "Professional 4K display with USB-C."
-    },
-    {
-        "filename": "lg-c3-oled-65",
-        "title": "LG C3 OLED 65-inch",
-        "category": "TVs",
-        "date": "Nov 27, 2024",
-        "read_time": "14 min",
-        "icon": "tv",
-        "description": "Premium OLED TV for gaming and movies."
+        "description": "La Marzocco Linea Mini review - Dual boiler espresso machine with commercial-grade components and PID control. Best home espresso machine for US coffee enthusiasts 2025."
     },
     {
         "filename": "lg-z3-oled-77",
-        "title": "LG Z3 OLED 77-inch",
-        "category": "Luxury TV",
-        "date": "Dec 3, 2024",
-        "read_time": "15 min",
+        "title": "LG Z3 OLED 77inch 8K TV",
+        "category": "Home Entertainment",
+        "date": "December 3, 2024",
+        "read_time": "18 min",
         "icon": "tv",
-        "description": "8K OLED flagship television."
-    },
-    {
-        "filename": "logitech-g502",
-        "title": "Logitech G502 HERO",
-        "category": "Gaming Mice",
-        "date": "Nov 24, 2024",
-        "read_time": "9 min",
-        "icon": "mouse",
-        "description": "Legendary gaming mouse with HERO 25K sensor."
-    },
-    {
-        "filename": "logitech-mx-master-3s",
-        "title": "Logitech MX Master 3S",
-        "category": "Computer Accessories",
-        "date": "Nov 26, 2024",
-        "read_time": "11 min",
-        "icon": "mouse",
-        "description": "Ultimate productivity mouse."
-    },
-    {
-        "filename": "macbook-pro-16-m3-max",
-        "title": "MacBook Pro 16 M3 Max",
-        "category": "Laptops",
-        "date": "Nov 27, 2024",
-        "read_time": "16 min",
-        "icon": "laptop",
-        "description": "Ultimate professional laptop with M3 Max chip."
-    },
-    {
-        "filename": "macbook-pro-16-m3",
-        "title": "MacBook Pro 16 M3",
-        "category": "Premium Laptops",
-        "date": "Nov 26, 2024",
-        "read_time": "15 min",
-        "icon": "laptop",
-        "description": "Professional laptop with M3 chip."
-    },
-    {
-        "filename": "macbook-pro-16-m4-max",
-        "title": "MacBook Pro 16 M4 Max",
-        "category": "Laptops",
-        "date": "Nov 27, 2024",
-        "read_time": "16 min",
-        "icon": "laptop",
-        "description": "Latest MacBook with groundbreaking M4 Max."
-    },
-    {
-        "filename": "mcintosh-mc275-amplifier",
-        "title": "McIntosh MC275",
-        "category": "Hi-Fi Audio",
-        "date": "Dec 3, 2024",
-        "read_time": "13 min",
-        "icon": "volume-up",
-        "description": "Legendary vacuum tube amplifier."
-    },
-    {
-        "filename": "meta-quest-3",
-        "title": "Meta Quest 3 512GB",
-        "category": "VR Gaming",
-        "date": "Nov 27, 2024",
-        "read_time": "14 min",
-        "icon": "vr-cardboard",
-        "description": "Next-gen mixed reality headset."
-    },
-    {
-        "filename": "meta-quest-3s",
-        "title": "Meta Quest 3S 128GB",
-        "category": "VR Gaming",
-        "date": "Nov 24, 2024",
-        "read_time": "8 min",
-        "icon": "vr-cardboard",
-        "description": "Affordable VR headset with powerful features."
-    },
-    {
-        "filename": "microsoft-surface-laptop-studio-2",
-        "title": "Surface Laptop Studio 2",
-        "category": "Laptops",
-        "date": "Nov 27, 2024",
-        "read_time": "13 min",
-        "icon": "laptop",
-        "description": "Versatile creator laptop with unique hinge."
-    },
-    {
-        "filename": "microsoft-surface-pro-10",
-        "title": "Surface Pro 10",
-        "category": "Tablets",
-        "date": "Nov 27, 2024",
-        "read_time": "12 min",
-        "icon": "tablet",
-        "description": "Professional 2-in-1 tablet."
-    },
-    {
-        "filename": "montblanc-meisterstuck-149",
-        "title": "Montblanc Meisterstück 149",
-        "category": "Luxury Writing",
-        "date": "Dec 3, 2024",
-        "read_time": "9 min",
-        "icon": "pen",
-        "description": "Iconic fountain pen."
-    },
-    {
-        "filename": "nespresso-creatista-plus",
-        "title": "Nespresso Creatista Plus",
-        "category": "Kitchen",
-        "date": "Nov 27, 2024",
-        "read_time": "11 min",
-        "icon": "coffee",
-        "description": "Premium coffee machine with automatic milk frother."
-    },
-    {
-        "filename": "netgear-nighthawk-raxe500",
-        "title": "Netgear Nighthawk RAXE500",
-        "category": "Networking",
-        "date": "Nov 27, 2024",
-        "read_time": "13 min",
-        "icon": "wifi",
-        "description": "Tri-band Wi-Fi 6E router."
-    },
-    {
-        "filename": "ninja-air-fryer",
-        "title": "Ninja Air Fryer Pro",
-        "category": "Kitchen",
-        "date": "Nov 25, 2025",
-        "read_time": "10 min",
-        "icon": "temperature-high",
-        "description": "Versatile air fryer with 5-quart capacity."
-    },
-    {
-        "filename": "ninja-foodi-smart-xl-grill",
-        "title": "Ninja Foodi Smart XL Grill",
-        "category": "Kitchen",
-        "date": "Nov 27, 2024",
-        "read_time": "12 min",
-        "icon": "fire",
-        "description": "Indoor grill and air fryer combo."
-    },
-    {
-        "filename": "peloton-bike-plus",
-        "title": "Peloton Bike+",
-        "category": "Fitness",
-        "date": "Nov 27, 2024",
-        "read_time": "14 min",
-        "icon": "bicycle",
-        "description": "Premium connected exercise bike."
-    },
-    {
-        "filename": "philips-hue-play-sync-box",
-        "title": "Philips Hue Play Sync Box",
-        "category": "Smart Home",
-        "date": "Nov 27, 2024",
-        "read_time": "10 min",
-        "icon": "lightbulb",
-        "description": "Entertainment lighting sync system."
-    },
-    {
-        "filename": "razer-blade-15-2024",
-        "title": "Razer Blade 15 2024",
-        "category": "Gaming Laptops",
-        "date": "Nov 27, 2024",
-        "read_time": "14 min",
-        "icon": "laptop",
-        "description": "Premium gaming laptop with RTX 4080."
-    },
-    {
-        "filename": "ring-doorbell-pro-2",
-        "title": "Ring Video Doorbell Pro 2",
-        "category": "Smart Home",
-        "date": "Nov 25, 2024",
-        "read_time": "10 min",
-        "icon": "door-open",
-        "description": "Advanced smart doorbell with 3D motion detection."
-    },
-    {
-        "filename": "roku-streaming-stick",
-        "title": "Roku Streaming Stick 4K Plus",
-        "category": "Streaming",
-        "date": "Nov 25, 2025",
-        "read_time": "10 min",
-        "icon": "tv",
-        "description": "Compact 4K streaming device."
-    },
-    {
-        "filename": "roomba-694",
-        "title": "iRobot Roomba 694",
-        "category": "Home Robotics",
-        "date": "Nov 25, 2025",
-        "read_time": "10 min",
-        "icon": "robot",
-        "description": "Affordable robot vacuum with Wi-Fi."
-    },
-    {
-        "filename": "samsung-frame-tv-65",
-        "title": "Samsung Frame TV 65-inch",
-        "category": "TVs",
-        "date": "Nov 27, 2024",
-        "read_time": "13 min",
-        "icon": "tv",
-        "description": "Art-inspired QLED television."
-    },
-    {
-        "filename": "samsung-galaxy-s24-ultra",
-        "title": "Samsung Galaxy S24 Ultra",
-        "category": "Smartphones",
-        "date": "Nov 27, 2024",
-        "read_time": "15 min",
-        "icon": "mobile",
-        "description": "Flagship Android phone with S Pen."
-    },
-    {
-        "filename": "samsung-galaxy-s25-ultra",
-        "title": "Samsung Galaxy S25 Ultra",
-        "category": "Smartphones",
-        "date": "Nov 27, 2024",
-        "read_time": "15 min",
-        "icon": "mobile",
-        "description": "Next-gen flagship with advanced AI."
-    },
-    {
-        "filename": "samsung-galaxy-z-fold-6",
-        "title": "Samsung Galaxy Z Fold 6",
-        "category": "Foldables",
-        "date": "Nov 27, 2024",
-        "read_time": "14 min",
-        "icon": "mobile",
-        "description": "Premium foldable smartphone."
-    },
-    {
-        "filename": "samsung-odyssey-ark-55-curved",
-        "title": "Samsung Odyssey Ark 55",
-        "category": "Gaming Monitors",
-        "date": "Dec 3, 2024",
-        "read_time": "15 min",
-        "icon": "desktop",
-        "description": "Curved 4K gaming monitor."
-    },
-    {
-        "filename": "samsung-odyssey-oled-g9",
-        "title": "Samsung Odyssey OLED G9",
-        "category": "Gaming Monitors",
-        "date": "Nov 27, 2024",
-        "read_time": "14 min",
-        "icon": "desktop",
-        "description": "Ultra-wide OLED gaming monitor."
-    },
-    {
-        "filename": "secretlab-titan-evo",
-        "title": "Secretlab TITAN Evo 2022",
-        "category": "Gaming Furniture",
-        "date": "Nov 26, 2024",
-        "read_time": "13 min",
-        "icon": "chair",
-        "description": "Premium gaming chair with L-ADAPT support."
-    },
-    {
-        "filename": "smart-watch-2025",
-        "title": "Smart Watch 2025",
-        "category": "Fitness Tech",
-        "date": "Nov 25, 2024",
-        "read_time": "10 min",
-        "icon": "clock",
-        "description": "Feature-packed fitness tracker."
-    },
-    {
-        "filename": "sonos-arc-soundbar",
-        "title": "Sonos Arc Soundbar",
-        "category": "Audio",
-        "date": "Nov 27, 2024",
-        "read_time": "13 min",
-        "icon": "tv",
-        "description": "Premium Dolby Atmos soundbar."
+        "description": "LG Z3 OLED 77-inch Smart TV 2025 review - Revolutionary 8K OLED display with AI processing, Dolby Vision, and premium audio. Best luxury TV for US homes."
     },
     {
         "filename": "sony-a1-ii-camera",
-        "title": "Sony A1 II",
-        "category": "Professional Cameras",
-        "date": "Dec 3, 2024",
-        "read_time": "16 min",
+        "title": "Sony A1 II Camera",
+        "category": "Photography",
+        "date": "December 3, 2024",
+        "read_time": "18 min",
         "icon": "camera",
-        "description": "Flagship mirrorless camera."
-    },
-    {
-        "filename": "sony-a7-iv-camera",
-        "title": "Sony A7 IV",
-        "category": "Cameras",
-        "date": "Nov 27, 2024",
-        "read_time": "14 min",
-        "icon": "camera",
-        "description": "Versatile full-frame camera."
-    },
-    {
-        "filename": "sony-a7r-v-camera",
-        "title": "Sony A7R V",
-        "category": "Cameras",
-        "date": "Nov 27, 2024",
-        "read_time": "15 min",
-        "icon": "camera",
-        "description": "High-resolution mirrorless camera."
-    },
-    {
-        "filename": "sony-a95l-qd-oled-77",
-        "title": "Sony A95L QD-OLED 77",
-        "category": "Premium TV",
-        "date": "Nov 27, 2024",
-        "read_time": "15 min",
-        "icon": "tv",
-        "description": "QD-OLED television with cognitive processing."
-    },
-    {
-        "filename": "sony-wf-1000xm6",
-        "title": "Sony WF-1000XM6",
-        "category": "Audio",
-        "date": "Nov 27, 2024",
-        "read_time": "11 min",
-        "icon": "headphones",
-        "description": "Premium noise-cancelling earbuds."
-    },
-    {
-        "filename": "sony-wh-1000xm5",
-        "title": "Sony WH-1000XM5",
-        "category": "Premium Audio",
-        "date": "Nov 25, 2025",
-        "read_time": "13 min",
-        "icon": "headphones",
-        "description": "Industry-leading noise cancelling headphones."
-    },
-    {
-        "filename": "tag-heuer-connected-calibre-e4",
-        "title": "TAG Heuer Connected Calibre E4",
-        "category": "Luxury Smartwatch",
-        "date": "Dec 3, 2024",
-        "read_time": "12 min",
-        "icon": "watch",
-        "description": "Swiss luxury smartwatch."
-    },
-    {
-        "filename": "tagry-x08-headphones",
-        "title": "TAGRY X08 Bluetooth Headphones",
-        "category": "Audio 2025",
-        "date": "Nov 25, 2024",
-        "read_time": "9 min",
-        "icon": "headphones",
-        "description": "Affordable wireless earbuds with 60H playtime."
+        "description": "Sony A1 II mirrorless camera review - 50MP full-frame sensor, 8K video, AI-powered autofocus, and professional performance. Best camera for US photographers 2025."
     },
     {
         "filename": "technics-sl1200gr-turntable",
-        "title": "Technics SL-1200GR",
-        "category": "Vinyl Audio",
-        "date": "Dec 3, 2024",
-        "read_time": "12 min",
-        "icon": "record-vinyl",
-        "description": "Legendary direct drive turntable."
-    },
-    {
-        "filename": "theragun-pro-plus",
-        "title": "Theragun PRO Plus",
-        "category": "Wellness",
-        "date": "Nov 27, 2024",
-        "read_time": "11 min",
-        "icon": "hand-holding-heart",
-        "description": "Professional massage device."
-    },
-    {
-        "filename": "tile-pro-tracker",
-        "title": "Tile Pro Bluetooth Tracker",
-        "category": "Tracker",
-        "date": "Nov 25, 2024",
-        "read_time": "7 min",
-        "icon": "location-dot",
-        "description": "Item finder with 400-foot range."
-    },
-    {
-        "filename": "vitamix-a3500-ascent",
-        "title": "Vitamix A3500 Ascent",
-        "category": "Kitchen",
-        "date": "Nov 27, 2024",
-        "read_time": "12 min",
-        "icon": "blender",
-        "description": "Professional blender with touchscreen."
+        "title": "Technics SL1200GR",
+        "category": "Audio Equipment",
+        "date": "December 3, 2024",
+        "read_time": "16 min",
+        "icon": "shopping-cart",
+        "description": "Technics SL-1200GR turntable review - Direct drive turntable with coreless motor and precision engineering. Best audiophile turntable for US vinyl lovers 2025."
     },
     {
         "filename": "weber-genesis-ex-335",
-        "title": "Weber Genesis EX-335",
+        "title": "Weber Genesis EX335 Smart Grill",
         "category": "Outdoor Cooking",
-        "date": "Dec 3, 2024",
-        "read_time": "13 min",
-        "icon": "fire",
-        "description": "Premium gas grill with smart features."
-    },
-    {
-        "filename": "wolf-dual-fuel-range",
-        "title": "Wolf Dual Fuel Range",
-        "category": "Luxury Kitchen",
-        "date": "Dec 3, 2024",
+        "date": "December 3, 2024",
         "read_time": "15 min",
         "icon": "fire",
-        "description": "Professional-grade cooking range."
+        "description": "Weber Genesis EX-335 Smart Gas Grill review - Premium 3-burner grill with smart technology, side burner, and restaurant-quality cooking. Best outdoor grill for US homes 2025."
     },
     {
-        "filename": "wyze-cam-v4",
-        "title": "WYZE Cam v4",
+        "filename": "asus-rog-zephyrus-g16",
+        "title": "Asus ROG Zephyrus G16 Review  Best Gaming Laptop 2025",
+        "category": "Gaming Laptops",
+        "date": "November 27, 2024",
+        "read_time": "17 min",
+        "icon": "laptop",
+        "description": "Asus ROG Zephyrus G16 review with Intel Core Ultra 9, RTX 4070, 240Hz OLED display, and premium design. Best gaming laptop 2025 - Perfect for US gamers and creators."
+    },
+    {
+        "filename": "canon-eos-r6-mark-ii",
+        "title": "Canon EOS R6 Mark II Review  Best Pro Mirrorless Camera 2025",
+        "category": "Professional Cameras",
+        "date": "November 27, 2024",
+        "read_time": "18 min",
+        "icon": "camera",
+        "description": "Canon EOS R6 Mark II review with 24.2MP full-frame sensor, 40fps burst shooting, 6K video, and incredible autofocus. Best professional mirrorless camera 2025 - Perfect for US photographers."
+    },
+    {
+        "filename": "dji-mini-4-pro",
+        "title": "DJI Mini 4 Pro Review  Best Compact Drone 2025",
+        "category": "Drones & Photography",
+        "date": "November 27, 2024",
+        "read_time": "16 min",
+        "icon": "drone",
+        "description": "DJI Mini 4 Pro review with 4K/60fps HDR, omnidirectional obstacle avoidance, 34-min flight time, and advanced intelligent features. Best compact drone 2025 - Perfect for US aerial photographers."
+    },
+    {
+        "filename": "herman-miller-embody-gaming",
+        "title": "Herman Miller Embody Gaming Chair Review  Best Premium Gaming Chair 2025",
+        "category": "Gaming Furniture",
+        "date": "November 27, 2024",
+        "read_time": "17 min",
+        "icon": "chair",
+        "description": "Herman Miller x Logitech Embody Gaming Chair review with advanced ergonomics, pixelated support, cooling foam, and 12-year warranty. Best premium gaming chair 2025 - Perfect for US gamers."
+    },
+    {
+        "filename": "lg-c3-oled-65",
+        "title": "LG C3 OLED 65inch TV Review  Best Premium OLED TV 2025",
+        "category": "Home Theater",
+        "date": "November 27, 2024",
+        "read_time": "16 min",
+        "icon": "tv",
+        "description": "LG C3 OLED 65-inch TV review with self-lit pixels, perfect blacks, 120Hz gaming, α9 AI processor, and webOS 23. Best premium OLED TV 2025 - Perfect for US home theaters."
+    },
+    {
+        "filename": "sonos-arc-soundbar",
+        "title": "Sonos Arc Soundbar Review  Best Premium Soundbar 2025",
+        "category": "Home Audio",
+        "date": "November 27, 2024",
+        "read_time": "16 min",
+        "icon": "volume-up",
+        "description": "Sonos Arc soundbar review with Dolby Atmos, 11 speakers, Trueplay tuning, voice control, and seamless multi-room audio. Best premium soundbar 2025 - Perfect for US home theaters."
+    },
+    {
+        "filename": "vitamix-a3500-ascent",
+        "title": "Vitamix A3500 Ascent Blender Review  Best Premium Blender 2025",
+        "category": "Kitchen Appliances",
+        "date": "November 27, 2024",
+        "read_time": "17 min",
+        "icon": "blender",
+        "description": "Vitamix A3500 Ascent blender review with self-detect technology, touchscreen controls, variable speed, 10-year warranty, and professional performance. Best premium blender 2025 - Perfect for US home chefs."
+    },
+    {
+        "filename": "breville-barista-express",
+        "title": "Breville Barista Express Review  Best Home Espresso Machine 2025",
+        "category": "Kitchen Appliances",
+        "date": "November 26, 2024",
+        "read_time": "16 min",
+        "icon": "coffee",
+        "description": "Breville Barista Express espresso machine review with built-in grinder, 15-bar Italian pump, and precise temperature control. Best home espresso machine 2025 - Perfect for US shoppers."
+    },
+    {
+        "filename": "dyson-purifier-hot-cool",
+        "title": "Dyson Purifier Hot+Cool HP07 Review  Best Air Purifier 2025",
+        "category": "Air Quality",
+        "date": "November 26, 2024",
+        "read_time": "15 min",
+        "icon": "desktop",
+        "description": "Dyson Purifier Hot+Cool HP07 review with HEPA filtration, heating, cooling, and air quality monitoring. Best all-in-one air treatment for 2025 - Perfect for US shoppers."
+    },
+    {
+        "filename": "dyson-v15-detect",
+        "title": "Dyson V15 Detect Review  Best Cordless Vacuum 2025",
+        "category": "Home Cleaning",
+        "date": "November 26, 2024",
+        "read_time": "15 min",
+        "icon": "robot",
+        "description": "Dyson V15 Detect cordless vacuum review with laser dust detection, HEPA filtration, and powerful suction. Best cordless vacuum for 2025 - Perfect for US shoppers."
+    },
+    {
+        "filename": "irobot-roomba-j7",
+        "title": "iRobot Roomba j7+ Review  Best SelfEmptying Robot Vacuum 2025",
         "category": "Smart Home",
-        "date": "Nov 25, 2024",
+        "date": "November 26, 2024",
+        "read_time": "15 min",
+        "icon": "robot",
+        "description": "iRobot Roomba j7+ review with self-emptying base, advanced obstacle avoidance, and smart mapping technology. Best premium robot vacuum for 2025 - Perfect for US shoppers."
+    },
+    {
+        "filename": "keychron-q1-pro",
+        "title": "Keychron Q1 Pro Review  Best Premium Mechanical Keyboard 2025",
+        "category": "Keyboards",
+        "date": "November 26, 2024",
+        "read_time": "14 min",
+        "icon": "shopping-cart",
+        "description": "Keychron Q1 Pro mechanical keyboard review with hot-swappable switches, wireless connectivity, and premium aluminum build. Best custom keyboard for 2025 - Perfect for US shoppers."
+    },
+    {
+        "filename": "lg-27-4k-monitor",
+        "title": "LG 27Inch 4K UHD Monitor Review  Best Display for Professionals 2025",
+        "category": "Monitors",
+        "date": "November 26, 2024",
+        "read_time": "14 min",
+        "icon": "desktop",
+        "description": "LG 27-inch 4K UHD Monitor review with HDR10 support, USB-C connectivity, and professional color accuracy. Best monitor for creative professionals in 2025."
+    },
+    {
+        "filename": "logitech-mx-master-3s",
+        "title": "Logitech MX Master 3S Review  Best Productivity Mouse 2025",
+        "category": "Computer Accessories",
+        "date": "November 26, 2024",
+        "read_time": "13 min",
+        "icon": "shopping-cart",
+        "description": "Logitech MX Master 3S review with silent clicks, 8K DPI sensor, and multi-device connectivity. Best productivity mouse for professionals in 2025 - Perfect for US shoppers."
+    },
+    {
+        "filename": "macbook-pro-16-m3",
+        "title": "MacBook Pro 16inch M3 Max Review  Best Pro Laptop 2025",
+        "category": "Premium Laptops",
+        "date": "November 26, 2024",
+        "read_time": "15 min",
+        "icon": "laptop",
+        "description": "MacBook Pro 16-inch M3 Max review with exceptional performance, stunning Liquid Retina XDR display, and up to 22 hours battery. Best professional laptop 2025 - Perfect for US shoppers."
+    },
+    {
+        "filename": "secretlab-titan-evo",
+        "title": "Secretlab TITAN Evo 2022 Review  Best Premium Gaming Chair 2025",
+        "category": "Gaming Furniture",
+        "date": "November 26, 2024",
+        "read_time": "16 min",
+        "icon": "chair",
+        "description": "Secretlab TITAN Evo 2022 gaming chair review with premium ergonomics, adjustable lumbar support, and luxury materials. Best gaming chair for 2025 - Perfect for US shoppers."
+    },
+    {
+        "filename": "anker-usb-c-hub",
+        "title": "Anker USBC Hub 7in1 Review  Best Laptop Adapter 2025",
+        "category": "Accessories",
+        "date": "November 25, 2024",
+        "read_time": "11 min",
+        "icon": "laptop",
+        "description": "Anker 7-in-1 USB-C hub review with HDMI 4K, USB 3.0 ports, and SD card reader. Best portable adapter for MacBook Pro, iPad Pro, and laptops."
+    },
+    {
+        "filename": "echo-dot-5th-gen",
+        "title": "Echo Dot 5th Gen Review  Best Alexa Smart Speaker 2025",
+        "category": "Smart Home",
+        "date": "November 25, 2024",
+        "read_time": "11 min",
+        "icon": "volume-up",
+        "description": "Echo Dot 5th Generation review covering sound quality, Alexa features, and smart home control. Best affordable smart speaker with improved audio - Perfect for US shoppers."
+    },
+    {
+        "filename": "ring-doorbell-pro-2",
+        "title": "Ring Video Doorbell Pro 2 Review  Best Smart Doorbell 2025",
+        "category": "Smart Home",
+        "date": "November 25, 2024",
+        "read_time": "12 min",
+        "icon": "shopping-cart",
+        "description": "Ring Video Doorbell Pro 2 review with 1536p HD video, 3D motion detection, and Alexa integration. Best smart doorbell for home security in 2025 - Perfect for US shoppers."
+    },
+    {
+        "filename": "tile-pro-tracker",
+        "title": "Tile Pro Bluetooth Tracker Review  Best Item Finder 2025",
+        "category": "Accessories",
+        "date": "November 25, 2024",
         "read_time": "10 min",
-        "icon": "video",
-        "description": "Affordable 2.5K security camera."
+        "icon": "mobile",
+        "description": "Tile Pro Bluetooth tracker review with 400-foot range, replaceable battery, and loud ring. Best alternative to AirTag for Android and iPhone users - Perfect for US shoppers."
+    },
+    {
+        "filename": "airpods-pro-2",
+        "title": "Apple AirPods Pro 2 Review  Premium Wireless Earbuds",
+        "category": "Audio",
+        "date": "November 24, 2024",
+        "read_time": "10 min",
+        "icon": "headphones",
+        "description": "Apple AirPods Pro 2 review with detailed analysis of active noise cancellation, sound quality, and battery life. Find out why they're the best wireless earbuds - Perfect for US shoppers."
+    },
+    {
+        "filename": "anker-power-bank",
+        "title": "Anker 20K mAh Power Bank Review  Reliable Portable Power",
+        "category": "Tech Accessories",
+        "date": "November 24, 2024",
+        "read_time": "9 min",
+        "icon": "shopping-cart",
+        "description": "Anker 20K mAh power bank review testing charging speed, capacity, and build quality. Find the best portable charger for your devices in 2024 - Perfect for US shoppers."
+    },
+    {
+        "filename": "apple-airtag",
+        "title": "Apple AirTag 4 Pack Review  Smart Item Tracking",
+        "category": "Smart Accessories",
+        "date": "November 24, 2024",
+        "read_time": "10 min",
+        "icon": "wind",
+        "description": "Apple AirTag 4 Pack review detailing tracking accuracy, battery life, and setup process. Complete guide to Apple's item tracking solution for 2024 - Perfect for US shoppers."
+    },
+    {
+        "filename": "bengoo-g9000",
+        "title": "BENGOO G9000 Gaming Headset Review  Budget Gaming Excellence",
+        "category": "Gaming Audio",
+        "date": "November 24, 2024",
+        "read_time": "9 min",
+        "icon": "mobile",
+        "description": "BENGOO G9000 gaming headset review covering sound quality, microphone performance, and comfort. Is this budget gaming headset worth buying in 2024? - Perfect for US shoppers."
+    },
+    {
+        "filename": "fitbit-inspire-3",
+        "title": "Fitbit Inspire 3 Review  Complete Fitness Tracker",
+        "category": "Fitness",
+        "date": "November 24, 2024",
+        "read_time": "10 min",
+        "icon": "desktop",
+        "description": "Fitbit Inspire 3 fitness tracker review covering health monitoring, battery life, and app features. Discover if this affordable tracker meets your needs - Perfect for US shoppers."
+    },
+    {
+        "filename": "galaxy-tab-a9",
+        "title": "Samsung Galaxy Tab A9+ Review  Best Budget Android Tablet",
+        "category": "Tablets",
+        "date": "November 24, 2024",
+        "read_time": "10 min",
+        "icon": "tablet",
+        "description": "Samsung Galaxy Tab A9+ review testing performance, display, and battery life. Is this budget Android tablet worth buying? Complete guide and analysis - Perfect for US shoppers."
+    },
+    {
+        "filename": "ipad-11-inch",
+        "title": "Apple iPad 11inch Review  Ultimate Tablet Experience",
+        "category": "Tablets",
+        "date": "November 24, 2024",
+        "read_time": "12 min",
+        "icon": "tablet",
+        "description": "Apple iPad 11-inch with A16 chip review covering performance, display quality, and features. Complete analysis of Apple's latest tablet for 2024 - Perfect for US shoppers."
+    },
+    {
+        "filename": "logitech-g502",
+        "title": "Logitech G502 HERO Gaming Mouse Review  Precision Gaming",
+        "category": "Gaming Peripherals",
+        "date": "November 24, 2024",
+        "read_time": "11 min",
+        "icon": "shopping-cart",
+        "description": "Logitech G502 HERO gaming mouse review with analysis of sensor accuracy, customization options, and ergonomics. The ultimate precision gaming mouse tested - Perfect for US shoppers."
+    },
+    {
+        "filename": "meta-quest-3s",
+        "title": "Meta Quest 3S 128GB Review  The Ultimate VR Experience",
+        "category": "VR Gaming",
+        "date": "November 24, 2024",
+        "read_time": "8 min",
+        "icon": "shopping-cart",
+        "description": "Complete Meta Quest 3S 128GB review covering performance, visual quality, and gaming experience. Discover why it's the best standalone VR headset in 2024 - Perfect for US shoppers."
     },
     {
         "filename": "xbox-controller",
-        "title": "Xbox Wireless Controller",
-        "category": "Gaming Controllers",
-        "date": "Nov 24, 2024",
-        "read_time": "9 min",
-        "icon": "gamepad",
-        "description": "Latest Xbox controller with refined design."
-    },
-    {
-        "filename": "roborock-saros-10r",
-        "title": "Roborock Saros 10R",
-        "category": "Smart Home",
-        "date": "Dec 5, 2025",
-        "read_time": "15 min",
-        "icon": "robot",
-        "description": "Ultimate robot vacuum with 10,000Pa suction and dual rotating mops."
-    },
-    {
-        "filename": "hisense-px3-pro",
-        "title": "Hisense PX3-Pro",
-        "category": "Home Theater",
-        "date": "Dec 5, 2025",
-        "read_time": "16 min",
-        "icon": "film",
-        "description": "Premium 4K laser projector with 3,000 ANSI lumens and 120Hz gaming."
-    },
-    {
-        "filename": "ecovacs-deebot-x9-pro-omni",
-        "title": "Ecovacs Deebot X9 Pro Omni",
-        "category": "Smart Home",
-        "date": "Dec 5, 2025",
-        "read_time": "15 min",
-        "icon": "robot",
-        "description": "Advanced robot vacuum with OZMO Roller mopping and 19,500Pa suction."
-    },
-    {
-        "filename": "dji-mavic-4-pro",
-        "title": "DJI Mavic 4 Pro",
-        "category": "Drones",
-        "date": "Dec 5, 2025",
-        "read_time": "16 min",
-        "icon": "drone",
-        "description": "Professional drone with Hasselblad camera, 8K video, and omnidirectional sensors."
-    },
-    {
-        "filename": "razer-blade-16-2025",
-        "title": "Razer Blade 16 2025",
-        "category": "Gaming Laptops",
-        "date": "Dec 5, 2025",
-        "read_time": "15 min",
-        "icon": "laptop",
-        "description": "Premium gaming laptop with RTX 5090, 240Hz Mini LED display."
-    },
-    {
-        "filename": "nordictrack-commercial-1750",
-        "title": "NordicTrack Commercial 1750",
-        "category": "Fitness",
-        "date": "Dec 5, 2025",
-        "read_time": "15 min",
-        "icon": "heartbeat",
-        "description": "Premium treadmill with 4.0 CHP motor, iFit integration, and 15% incline."
-    },
-    {
-        "filename": "delonghi-la-specialista-arte",
-        "title": "De'Longhi La Specialista Arte",
-        "category": "Kitchen Appliances",
-        "date": "Dec 5, 2025",
-        "read_time": "15 min",
-        "icon": "coffee",
-        "description": "Luxury espresso machine with 8-setting grinder and Smart Tamping Station."
-    },
-    {
-        "filename": "fully-jarvis-bamboo-standing-desk",
-        "title": "Fully Jarvis Bamboo Standing Desk",
-        "category": "Office Furniture",
-        "date": "Dec 5, 2025",
-        "read_time": "16 min",
-        "icon": "desk",
-        "description": "Premium electric standing desk with dual motors and 350 lb capacity."
-    },
-    {
-        "filename": "iqair-healthpro-plus",
-        "title": "IQAir HealthPro Plus",
-        "category": "Home Air Quality",
-        "date": "Dec 5, 2025",
-        "read_time": "16 min",
-        "icon": "wind",
-        "description": "Medical-grade air purifier with HyperHEPA filtration to 0.003 microns."
-    },
-    {
-        "filename": "furnimat-2025-premium-massage-chair",
-        "title": "FURNIMAT 2025 Premium Massage Chair",
-        "category": "Wellness",
-        "date": "Dec 5, 2025",
-        "read_time": "16 min",
-        "icon": "chair",
-        "description": "4D full body massage chair with SL-track, zero gravity, and 40+ airbags."
-    },
-    {
-        "filename": "samsung-hw-q990d-soundbar",
-        "title": "Samsung HW-Q990D Soundbar",
-        "category": "Home Theater",
-        "date": "Dec 5, 2025",
-        "read_time": "17 min",
-        "icon": "volume-up",
-        "description": "Premium 11.1.4ch soundbar with wireless rear speakers and Dolby Atmos."
-    },
-    {
-        "filename": "purple-hybrid-premier-4-mattress",
-        "title": "Purple Hybrid Premier 4 Mattress",
-        "category": "Sleep & Wellness",
-        "date": "Dec 5, 2025",
-        "read_time": "16 min",
-        "icon": "bed",
-        "description": "Luxury king mattress with 4-inch GelFlex Grid and premium support coils."
-    },
-    {
-        "filename": "arlo-ultra-2-spotlight-camera",
-        "title": "Arlo Ultra 2 Spotlight Camera",
-        "category": "Smart Security",
-        "date": "Dec 5, 2025",
-        "read_time": "16 min",
-        "icon": "video",
-        "description": "4K HDR security camera system with color night vision and 180° view."
-    },
-    {
-        "filename": "benq-sw321c-photoview-monitor",
-        "title": "BenQ SW321C PhotoVue Monitor",
-        "category": "Professional Displays",
-        "date": "Dec 5, 2025",
-        "read_time": "15 min",
-        "icon": "desktop",
-        "description": "32-inch 4K monitor with 99% Adobe RGB for photo and video editing."
-    },
-    {
-        "filename": "elgato-wave-dx-podcast-bundle",
-        "title": "Elgato Wave DX Podcast Bundle",
-        "category": "Streaming Equipment",
-        "date": "Dec 5, 2025",
-        "read_time": "15 min",
-        "icon": "microphone",
-        "description": "Complete professional podcast studio with XLR microphone and mixer."
-    },
-    {
-        "filename": "traeger-timberline-1300",
-        "title": "Traeger Timberline 1300",
-        "category": "Outdoor Cooking",
-        "date": "Dec 5, 2025",
-        "read_time": "15 min",
-        "icon": "fire",
-        "description": "WiFi-enabled wood pellet grill with 1,300 sq in cooking space and app control."
-    },
-    {
-        "filename": "all-clad-d5-brushed-14-piece",
-        "title": "All-Clad D5 Brushed 14-Piece Set",
-        "category": "Premium Cookware",
-        "date": "Dec 5, 2025",
-        "read_time": "15 min",
-        "icon": "utensils",
-        "description": "5-ply stainless steel cookware set with superior heat distribution."
-    },
-    {
-        "filename": "steelcase-leap-v2-chair",
-        "title": "Steelcase Leap V2 Chair",
-        "category": "Office Furniture",
-        "date": "Dec 5, 2025",
-        "read_time": "14 min",
-        "icon": "chair",
-        "description": "Ergonomic office chair with LiveBack technology and 4D adjustable arms."
-    },
-    {
-        "filename": "samsung-bespoke-4-door-flex",
-        "title": "Samsung Bespoke 4-Door Flex",
-        "category": "Kitchen Appliances",
-        "date": "Dec 5, 2025",
-        "read_time": "15 min",
-        "icon": "snowflake",
-        "description": "Smart refrigerator with customizable panels and Family Hub touchscreen."
-    },
-    {
-        "filename": "corsair-icue-5000x-rgb-build",
-        "title": "CORSAIR iCUE 5000X RGB Build",
-        "category": "Gaming PC",
-        "date": "Dec 5, 2025",
-        "read_time": "16 min",
-        "icon": "laptop",
-        "description": "Premium gaming PC case with tempered glass and advanced RGB lighting system."
-    },
-    {
-        "filename": "lg-signature-oled-m3-97",
-        "title": "LG Signature OLED M3 97-inch",
-        "category": "Luxury TV",
-        "date": "Dec 10, 2025",
-        "read_time": "18 min",
-        "icon": "tv",
-        "description": "World's first wireless 97-inch 4K OLED TV with Zero Connect Box technology."
-    },
-    {
-        "filename": "jura-z10-espresso-machine",
-        "title": "JURA Z10 Espresso Machine",
-        "category": "Kitchen Appliances",
-        "date": "Dec 10, 2025",
-        "read_time": "17 min",
-        "icon": "coffee",
-        "description": "Premium automatic espresso machine with Product Recognizing Grinder and cold brew function."
-    },
-    {
-        "filename": "sennheiser-ambeo-soundbar-max",
-        "title": "Sennheiser AMBEO Soundbar Max",
-        "category": "Home Theater",
-        "date": "Dec 10, 2025",
-        "read_time": "16 min",
-        "icon": "volume-up",
-        "description": "Premium 13-driver soundbar with 5.1.4 Dolby Atmos and room calibration technology."
-    },
-    {
-        "filename": "dyson-zone-headphones",
-        "title": "Dyson Zone Headphones",
-        "category": "Audio",
-        "date": "Dec 10, 2025",
-        "read_time": "16 min",
-        "icon": "headphones",
-        "description": "Revolutionary noise-cancelling headphones with optional air purification visor."
-    },
-    {
-        "filename": "tempur-pedic-grandbreeze-mattress",
-        "title": "Tempur-Pedic GrandBreeze Mattress",
-        "category": "Sleep & Wellness",
-        "date": "Dec 10, 2025",
-        "read_time": "17 min",
-        "icon": "bed",
-        "description": "Luxury king mattress with SmartClimate Max cooling and pressure-relieving TEMPUR material."
-    },
-    {
-        "filename": "miele-complete-c3-marin-vacuum",
-        "title": "Miele Complete C3 Marin Vacuum",
-        "category": "Home Appliances",
-        "date": "Dec 10, 2025",
-        "read_time": "16 min",
-        "icon": "broom",
-        "description": "German-engineered canister vacuum with HEPA AirClean filter and 1,200W Vortex Motor."
-    },
-    {
-        "filename": "epson-home-cinema-ls12000-projector",
-        "title": "Epson Home Cinema LS12000 Projector",
-        "category": "Home Theater",
-        "date": "Dec 10, 2025",
-        "read_time": "17 min",
-        "icon": "film",
-        "description": "4K PRO-UHD laser projector with 2,700 lumens and pixel-shifting technology."
-    },
-    {
-        "filename": "astell-kern-sp3000-dap",
-        "title": "Astell&Kern SP3000 DAP",
-        "category": "Audiophile",
-        "date": "Dec 10, 2025",
-        "read_time": "17 min",
-        "icon": "music",
-        "description": "Flagship digital audio player with quad DAC design and stainless steel chassis."
-    },
-    {
-        "filename": "thermomix-tm6-kitchen",
-        "title": "Thermomix TM6",
-        "category": "Kitchen Appliances",
-        "date": "Dec 10, 2025",
-        "read_time": "17 min",
-        "icon": "blender",
-        "description": "All-in-one smart kitchen appliance with 24 functions and guided cooking technology."
-    },
-    {
-        "filename": "rel-acoustics-s812-subwoofer",
-        "title": "REL Acoustics S/812 Subwoofer",
-        "category": "Audiophile",
-        "date": "Dec 10, 2025",
-        "read_time": "16 min",
-        "icon": "volume-up",
-        "description": "Reference-grade 12-inch subwoofer with 800W amplifier and high-level connectivity."
-    },
-    {
-        "filename": "bugaboo-fox-5-stroller",
-        "title": "Bugaboo Fox 5 Luxury Stroller",
-        "category": "Baby Products",
-        "date": "Jan 18, 2025",
-        "read_time": "16 min",
-        "icon": "baby-carriage",
-        "description": "Premium luxury stroller with revolutionary design, superior comfort, and all-terrain capability."
-    },
-    {
-        "filename": "sony-vpl-xw5000es-projector",
-        "title": "Sony VPL-XW5000ES 4K Projector",
-        "category": "Home Theater",
-        "date": "Jan 18, 2025",
-        "read_time": "18 min",
-        "icon": "film",
-        "description": "Premium 4K laser projector with native SXRD panels and cinema-quality picture performance."
-    },
-    {
-        "filename": "bowflex-velocore-bike",
-        "title": "Bowflex VeloCore Exercise Bike",
-        "category": "Fitness",
-        "date": "Jan 18, 2025",
-        "read_time": "17 min",
-        "icon": "biking",
-        "description": "Revolutionary exercise bike with innovative Lean Mode and immersive workout experiences."
-    },
-    {
-        "filename": "baratza-sette-270wi-grinder",
-        "title": "Baratza Sette 270Wi Espresso Grinder",
-        "category": "Kitchen Appliances",
-        "date": "Jan 18, 2025",
-        "read_time": "17 min",
-        "icon": "coffee",
-        "description": "Precision espresso grinder with built-in scale and grind-by-weight technology."
-    },
-    {
-        "filename": "bernina-770-qe-sewing-machine",
-        "title": "Bernina 770 QE Sewing Machine",
-        "category": "Crafts & Sewing",
-        "date": "Jan 18, 2025",
-        "read_time": "18 min",
-        "icon": "cut",
-        "description": "Swiss-engineered professional sewing machine with 12-inch throat space and Dual Feed system."
-    },
-    {
-        "filename": "celestron-nexstar-evolution-9",
-        "title": "Celestron NexStar Evolution 9.25",
-        "category": "Telescopes",
-        "date": "Jan 18, 2025",
-        "read_time": "16 min",
-        "icon": "star",
-        "description": "Premium telescope with WiFi control, 9.25-inch aperture, and advanced StarBright XLT optics."
-    },
-    {
-        "filename": "anova-precision-cooker-pro",
-        "title": "Anova Precision Cooker Pro",
-        "category": "Kitchen",
-        "date": "Jan 18, 2025",
-        "read_time": "15 min",
-        "icon": "temperature-high",
-        "description": "Professional sous vide immersion circulator with 1200W power and commercial-grade construction."
-    },
-    {
-        "filename": "masterbuilt-gravity-1050-grill",
-        "title": "Masterbuilt Gravity Series 1050",
-        "category": "Outdoor Cooking",
-        "date": "Jan 18, 2025",
-        "read_time": "17 min",
-        "icon": "fire",
-        "description": "Smart charcoal grill and smoker with revolutionary gravity-feed fuel system and digital control."
-    },
-    {
-        "filename": "wolf-gourmet-countertop-oven",
-        "title": "WOLF Gourmet Elite Countertop Oven",
-        "category": "Kitchen Appliances",
-        "date": "Jan 18, 2025",
-        "read_time": "16 min",
-        "icon": "fire",
-        "description": "Professional-grade countertop oven with dual convection and precise temperature control."
-    },
-    {
-        "filename": "kitchenaid-commercial-8qt-mixer",
-        "title": "KitchenAid Commercial 8-Quart Mixer",
-        "category": "Kitchen",
-        "date": "Jan 18, 2025",
-        "read_time": "17 min",
-        "icon": "blender",
-        "description": "Professional stand mixer with 1.3 HP motor, 8-quart capacity, and commercial construction."
-    },
-    {
-        "filename": "dreame-l50-ultra-robot-vacuum",
-        "title": "Dreame L50 Ultra Robot Vacuum",
-        "category": "Smart Home",
-        "date": "Jan 18, 2025",
-        "read_time": "17 min",
-        "icon": "robot",
-        "description": "Revolutionary robot vacuum with retractable legs, 11,000Pa suction, and advanced mopping system."
-    },
-    {
-        "filename": "narwal-freo-x-ultra",
-        "title": "Narwal Freo X Ultra Robot Vacuum",
-        "category": "Smart Home",
-        "date": "Jan 18, 2025",
-        "read_time": "17 min",
-        "icon": "robot",
-        "description": "Premium robot vacuum/mop with zero-tangle brush, 12,000Pa suction, and EdgeSwing technology."
-    },
-    {
-        "filename": "flexispot-e7-pro-plus",
-        "title": "FlexiSpot E7 Pro Plus Standing Desk",
-        "category": "Office Furniture",
-        "date": "Jan 18, 2025",
-        "read_time": "16 min",
-        "icon": "desk",
-        "description": "Premium electric standing desk with dual motors, 355lb capacity, and advanced stability."
-    },
-    {
-        "filename": "secretlab-titan-evo-plus",
-        "title": "Secretlab TITAN Evo Plus 2025",
-        "category": "Gaming Furniture",
-        "date": "Jan 18, 2025",
-        "read_time": "15 min",
-        "icon": "chair",
-        "description": "Next-generation premium gaming chair with self-adjusting lumbar and PlushCell foam."
-    },
-    {
-        "filename": "canon-rf-70-200mm-f28",
-        "title": "Canon RF 70-200mm F2.8 L IS USM",
-        "category": "Photography",
-        "date": "Jan 18, 2025",
-        "read_time": "15 min",
-        "icon": "camera",
-        "description": "Professional telephoto zoom lens with optical image stabilization and weather sealing."
-    },
-    {
-        "filename": "sony-fe-24-70mm-gm-ii",
-        "title": "Sony FE 24-70mm F2.8 GM II",
-        "category": "Photography",
-        "date": "Jan 18, 2025",
-        "read_time": "17 min",
-        "icon": "camera",
-        "description": "Premium standard zoom lens with exceptional sharpness and advanced autofocus for professionals."
-    },
-    {
-        "filename": "saatva-classic-luxury-mattress",
-        "title": "Saatva Classic Luxury Mattress",
-        "category": "Sleep & Wellness",
-        "date": "Jan 18, 2025",
-        "read_time": "16 min",
-        "icon": "bed",
-        "description": "Premium innerspring hybrid mattress with euro pillow top and dual-coil support system."
-    },
-    {
-        "filename": "segway-ninebot-max-g2",
-        "title": "Segway Ninebot Max G2",
-        "category": "Transportation",
-        "date": "Jan 18, 2025",
-        "read_time": "16 min",
-        "icon": "bicycle",
-        "description": "Premium electric scooter with 43-mile range, dual suspension, and advanced safety features."
-    },
-    {
-        "filename": "sole-f85-folding-treadmill",
-        "title": "Sole F85 Folding Treadmill",
-        "category": "Fitness",
-        "date": "Jan 18, 2025",
-        "read_time": "17 min",
-        "icon": "running",
-        "description": "Commercial-grade home treadmill with 4.0 HP motor, 15% incline, and Cushion Flex Whisper Deck."
-    },
-    {
-        "filename": "lg-instaview-door-in-door",
-        "title": "LG InstaView Door-in-Door Refrigerator",
-        "category": "Kitchen Appliances",
-        "date": "Jan 18, 2025",
-        "read_time": "18 min",
-        "icon": "snowflake",
-        "description": "Premium smart refrigerator with InstaView technology, craft ice maker, and ThinQ smart features."
-    },
-    {
-        "filename": "panorama-xl-rtx-5090-gaming-pc",
-        "title": "Panorama XL RTX 5090 Gaming PC Review 2025",
-        "category": "Gaming PCs",
-        "date": "Dec 23, 2025",
-        "read_time": "22 min",
-        "icon": "desktop",
-        "description": "Ultimate gaming desktop with RTX 5090, AMD Ryzen 9 9950X3D, 96GB DDR5, 4TB NVMe SSD, and liquid cooling."
-    },
-    {
-        "filename": "formovie-theater-premium-projector",
-        "title": "Formovie Theater Premium 4K Projector Review 2025",
-        "category": "Home Theater",
-        "date": "Dec 23, 2025",
-        "read_time": "20 min",
-        "icon": "film",
-        "description": "4K UHD ultra short throw triple laser projector with 2200 lumens, Google TV, Netflix, and Bowers & Wilkins speakers."
-    },
-    {
-        "filename": "ridstar-q20-pro-electric-bike",
-        "title": "Ridstar Q20 Pro Electric Bike Review 2025",
-        "category": "Electric Bikes",
-        "date": "Dec 23, 2025",
-        "read_time": "19 min",
-        "icon": "bicycle",
-        "description": "Dual 1000W motor e-bike with 52V 40Ah battery, 180-mile range, and 34 MPH top speed for ultimate power."
-    },
-    {
-        "filename": "roborock-s8-maxv-ultra",
-        "title": "Roborock S8 MaxV Ultra Robot Vacuum Review 2025",
-        "category": "Smart Home",
-        "date": "Dec 23, 2025",
-        "read_time": "20 min",
-        "icon": "robot",
-        "description": "Premium robot vacuum with 10,000Pa suction, FlexiArm Design, RockDock Ultra 8-in-1 station, and advanced AI."
-    },
-    {
-        "filename": "rocket-appartamento-tca-espresso",
-        "title": "Rocket Appartamento TCA Espresso Machine Review 2025",
-        "category": "Coffee & Espresso",
-        "date": "Dec 23, 2025",
-        "read_time": "19 min",
-        "icon": "coffee",
-        "description": "Premium Italian espresso machine with E61 group head, PID temperature control, and luxury craftsmanship."
-    },
-    {
-        "filename": "flexispot-e7-pro-standing-desk",
-        "title": "FlexiSpot E7 Pro Standing Desk Review 2025",
-        "category": "Office Furniture",
-        "date": "Dec 23, 2025",
-        "read_time": "18 min",
-        "icon": "desk",
-        "description": "Premium electric standing desk with 355lb capacity, dual motors, 4 memory presets, and whisper-quiet operation."
-    },
-    {
-        "filename": "garmin-fenix-8-pro-smartwatch",
-        "title": "Garmin Fenix 8 Pro Smartwatch Review 2025",
-        "category": "Smartwatches",
-        "date": "Dec 23, 2025",
-        "read_time": "19 min",
-        "icon": "watch",
-        "description": "Premium multisport GPS watch with AMOLED display, 16-day battery, advanced training metrics, and dive computer."
-    },
-    {
-        "filename": "lg-32gs95ue-ultragear-oled-monitor",
-        "title": "LG 32GS95UE UltraGear OLED Gaming Monitor Review 2025",
-        "category": "Gaming Monitors",
-        "date": "Dec 23, 2025",
-        "read_time": "18 min",
-        "icon": "desktop",
-        "description": "32-inch 4K OLED gaming monitor with 240Hz refresh, 0.03ms response, dual mode 480Hz FHD, and HDR True Black 400."
-    },
-    {
-        "filename": "sony-a7r-v-mirrorless-camera",
-        "title": "Sony A7R V Mirrorless Camera Review 2025",
-        "category": "Professional Cameras",
-        "date": "Dec 23, 2025",
-        "read_time": "20 min",
-        "icon": "camera",
-        "description": "61MP full-frame camera with AI-powered autofocus, 8K video, advanced image stabilization, and professional features."
-    },
-    {
-        "filename": "dyson-big-quiet-air-purifier",
-        "title": "Dyson Big+Quiet Formaldehyde Air Purifier Review 2025",
-        "category": "Home Air Quality",
-        "date": "Dec 23, 2025",
-        "read_time": "17 min",
-        "icon": "wind",
-        "description": "Premium air purifier with HEPA H13 filtration, 99.95% particle capture, formaldehyde destruction, and quiet operation."
+        "title": "Xbox Wireless Controller Review  Ultimate Gaming Control",
+        "category": "Gaming",
+        "date": "November 24, 2024",
+        "read_time": "11 min",
+        "icon": "shopping-cart",
+        "description": "Xbox Wireless Controller review analyzing ergonomics, battery life, and compatibility. Is Microsoft's latest gamepad the best controller for gaming? - Perfect for US shoppers."
     }
 ]
