@@ -1,5 +1,95 @@
 [
     {
+        "filename": "alchemist-premium-edition-2025",
+        "title": "The Alchemist Premium Edition 2025 - Paulo Coelho's Life-Changing Journey",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "The Alchemist Premium Edition 2025: Paulo Coelho's inspiring tale about following your dreams. Life-changing fable that has transformed millions of US readers worldwide."
+    },
+    {
+        "filename": "rich-dad-poor-dad-deluxe-2025",
+        "title": "Rich Dad Poor Dad Deluxe Edition 2025 - Robert Kiyosaki Financial Freedom",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "19 min",
+        "icon": "book",
+        "description": "Rich Dad Poor Dad Deluxe Edition 2025: Robert Kiyosaki's revolutionary guide to financial freedom and wealth building. Life-changing money principles for US readers."
+    },
+    {
+        "filename": "5am-club-premium-edition-2025",
+        "title": "The 5 AM Club Premium Edition 2025 - Robin Sharma Morning Routine Guide",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "The 5 AM Club Premium Edition 2025: Robin Sharma's transformative morning routine for extraordinary results. Life-changing productivity system for US achievers."
+    },
+    {
+        "filename": "cant-hurt-me-deluxe-edition-2025",
+        "title": "Can't Hurt Me Deluxe Edition 2025 - David Goggins Ultimate Mental Toughness",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "20 min",
+        "icon": "book",
+        "description": "Can't Hurt Me Deluxe Edition 2025: David Goggins' powerful story of transformation through mental toughness and self-discipline. Life-changing motivation for US readers."
+    },
+    {
+        "filename": "miracle-morning-premium-edition-2025",
+        "title": "The Miracle Morning Premium Edition 2025 - Hal Elrod Life-Changing Morning",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "17 min",
+        "icon": "book",
+        "description": "The Miracle Morning Premium Edition 2025: Hal Elrod's proven morning routine that transforms your life before 8am. Life-changing habits for US early risers."
+    },
+    {
+        "filename": "mindset-deluxe-edition-2025",
+        "title": "Mindset Deluxe Edition 2025 - Carol Dweck Growth Psychology Guide",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Mindset Deluxe Edition 2025: Carol Dweck's revolutionary psychology of success through growth mindset. Life-changing perspective for US learners and achievers."
+    },
+    {
+        "filename": "daring-greatly-premium-edition-2025",
+        "title": "Daring Greatly Premium Edition 2025 - Bren\u00e9 Brown Vulnerability Guide",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "19 min",
+        "icon": "book",
+        "description": "Daring Greatly Premium Edition 2025: Bren\u00e9 Brown's powerful guide to courage, vulnerability, and wholehearted living. Life-changing wisdom for US readers."
+    },
+    {
+        "filename": "gifts-imperfection-illustrated-2025",
+        "title": "The Gifts of Imperfection Illustrated Edition 2025 - Bren\u00e9 Brown Self-Acceptance",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "16 min",
+        "icon": "book",
+        "description": "The Gifts of Imperfection Illustrated Edition 2025: Bren\u00e9 Brown's guide to letting go of perfectionism and embracing authenticity. Life-changing self-acceptance for US readers."
+    },
+    {
+        "filename": "start-with-why-premium-edition-2025",
+        "title": "Start with Why Premium Edition 2025 - Simon Sinek Leadership Purpose Guide",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Start with Why Premium Edition 2025: Simon Sinek's inspiring guide to finding your purpose and leading with passion. Life-changing leadership for US entrepreneurs."
+    },
+    {
+        "filename": "power-positive-thinking-deluxe-2025",
+        "title": "The Power of Positive Thinking Deluxe Edition 2025 - Norman Vincent Peale",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "17 min",
+        "icon": "book",
+        "description": "The Power of Positive Thinking Deluxe Edition 2025: Norman Vincent Peale's timeless classic on faith, optimism, and achieving success. Life-changing positivity for US readers."
+    },
+    {
         "filename": "think-and-grow-rich-deluxe-2025",
         "title": "Think and Grow Rich Deluxe Edition 2025 - Napoleon Hill's Life-Changing Classic",
         "category": "The Best-Selling Books",
