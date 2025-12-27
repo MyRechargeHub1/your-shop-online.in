@@ -1,5 +1,95 @@
 [
     {
+        "filename": "lord-of-rings-deluxe-illustrated-2025",
+        "title": "The Lord of the Rings Deluxe Illustrated Edition 2025 - Tolkien's Epic Fantasy Masterpiece",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "20 min",
+        "icon": "book",
+        "description": "The Lord of the Rings Deluxe Illustrated Edition 2025: J.R.R. Tolkien's complete epic fantasy with stunning artwork, premium binding, and collector's quality. The ultimate LOTR edition for US readers."
+    },
+    {
+        "filename": "harry-potter-complete-box-set-2025",
+        "title": "Harry Potter Complete Collection Special Edition Box Set 2025 - All 7 Books",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "19 min",
+        "icon": "book",
+        "description": "Harry Potter Complete Collection Special Edition 2025: All 7 books in premium box set with exclusive artwork, collector's quality binding. The ultimate Harry Potter collection for US fans."
+    },
+    {
+        "filename": "art-of-game-of-thrones-collectors-2025",
+        "title": "The Art of Game of Thrones Collector's Edition 2025 - HBO's Epic Series Visual Guide",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "The Art of Game of Thrones Collector's Edition 2025: Stunning visual companion with behind-the-scenes photos, concept art, and exclusive insights. Premium HBO collectible for US fans."
+    },
+    {
+        "filename": "national-geographic-parks-guide-2025",
+        "title": "National Geographic Complete National Parks 2025 - 400+ Parks Illustrated Guide",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "17 min",
+        "icon": "book",
+        "description": "National Geographic Complete National Parks 2025: Comprehensive illustrated guide to 400+ US parks with stunning photography, maps, and travel tips. Essential guide for American nature lovers."
+    },
+    {
+        "filename": "taschen-75-years-marvel-comics-2025",
+        "title": "Taschen 75 Years of Marvel Comics 2025 - From Golden Age to Now",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "20 min",
+        "icon": "book",
+        "description": "Taschen 75 Years of Marvel Comics 2025: Definitive XXL collector's edition chronicling Marvel's complete history with rare artwork and exclusive content. Premium collectible for US comic fans."
+    },
+    {
+        "filename": "beatles-anthology-collectors-edition-2025",
+        "title": "The Beatles Anthology Collector's Edition 2025 - Complete Visual History",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "19 min",
+        "icon": "book",
+        "description": "The Beatles Anthology Collector's Edition 2025: Complete visual history with rare photos, personal stories, and exclusive insights. Premium collectible for US Beatles fans."
+    },
+    {
+        "filename": "atlas-obscura-explorers-edition-2025",
+        "title": "Atlas Obscura Explorer's Edition 2025 - 1000+ World's Hidden Wonders",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "16 min",
+        "icon": "book",
+        "description": "Atlas Obscura Explorer's Edition 2025: Discover 1000+ hidden wonders with stunning photography and fascinating stories. Essential travel guide for adventurous US explorers."
+    },
+    {
+        "filename": "photography-book-phaidon-2025",
+        "title": "The Photography Book Phaidon 2025 - 500 Legendary Photographers",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "The Photography Book Phaidon 2025: Comprehensive A-Z guide featuring 500 legendary photographers with iconic images. Premium coffee table book for US photography enthusiasts."
+    },
+    {
+        "filename": "nasa-archives-60-years-space-2025",
+        "title": "NASA Archives 60 Years in Space 2025 - Complete Space Exploration History",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "20 min",
+        "icon": "book",
+        "description": "NASA Archives 60 Years in Space 2025: Complete visual history with rare photographs, mission details, and exclusive insights. Premium XXL collector's edition for US space enthusiasts."
+    },
+    {
+        "filename": "world-atlas-wine-8th-edition-2025",
+        "title": "The World Atlas of Wine 8th Edition 2025 - Comprehensive Wine Guide",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "17 min",
+        "icon": "book",
+        "description": "The World Atlas of Wine 8th Edition 2025: Comprehensive guide with detailed maps, region profiles, and expert tasting notes. Essential reference for US wine lovers and collectors."
+    },
+    {
         "filename": "halter-neck-evening-dress-2025",
         "title": "Halter Neck Evening Dress 2025 - Elegant Formal Gown with Stunning Neckline",
         "category": "Ladies' Dresses",
