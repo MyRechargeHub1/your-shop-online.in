@@ -1,5 +1,95 @@
 [
     {
+        "filename": "principles-premium-edition-2025",
+        "title": "Principles Premium Edition 2025 - Ray Dalio Life and Work",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "20 min",
+        "icon": "book",
+        "description": "Principles Premium Edition 2025: Ray Dalio's fundamental truths for getting what you want out of life and work. Life-changing wisdom for US achievers."
+    },
+    {
+        "filename": "science-getting-rich-premium-2025",
+        "title": "The Science of Getting Rich Premium Edition 2025 - Wallace Wattles Prosperity",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "17 min",
+        "icon": "book",
+        "description": "The Science of Getting Rich Premium Edition 2025: Wallace Wattles' timeless guide to abundance and prosperity. Life-changing wealth creation for US readers."
+    },
+    {
+        "filename": "leadership-self-deception-premium-2025",
+        "title": "Leadership and Self-Deception Premium Edition 2025 - Arbinger Institute",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Leadership and Self-Deception Premium Edition 2025: Arbinger Institute's guide to getting out of your own way. Life-changing leadership for US professionals."
+    },
+    {
+        "filename": "go-giver-premium-edition-2025",
+        "title": "The Go-Giver Premium Edition 2025 - Bob Burg Success Parable",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "15 min",
+        "icon": "book",
+        "description": "The Go-Giver Premium Edition 2025: Bob Burg's little story about a powerful business idea. Life-changing generosity for US entrepreneurs."
+    },
+    {
+        "filename": "innovators-dilemma-premium-2025",
+        "title": "The Innovator's Dilemma Premium Edition 2025 - Clayton Christensen Disruption",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "19 min",
+        "icon": "book",
+        "description": "The Innovator's Dilemma Premium Edition 2025: Clayton Christensen's revolutionary technology changes and market leadership. Life-changing innovation for US business leaders."
+    },
+    {
+        "filename": "peak-performance-premium-2025",
+        "title": "Peak Performance Premium Edition 2025 - Brad Stulberg Excellence Science",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Peak Performance Premium Edition 2025: Brad Stulberg's science of success for athletes and business. Life-changing performance for US high achievers."
+    },
+    {
+        "filename": "untethered-soul-at-work-premium-2025",
+        "title": "The Untethered Soul at Work Premium Edition 2025 - Michael Singer Professional Life",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "The Untethered Soul at Work Premium Edition 2025: Michael Singer's guide to finding peace and purpose in professional life. Life-changing workplace wisdom for US professionals."
+    },
+    {
+        "filename": "originals-premium-edition-2025",
+        "title": "Originals Premium Edition 2025 - Adam Grant Nonconformity",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "19 min",
+        "icon": "book",
+        "description": "Originals Premium Edition 2025: Dr. Adam Grant's guide to how nonconformists move the world. Life-changing creativity for US innovators."
+    },
+    {
+        "filename": "slight-edge-10th-anniversary-premium-2025",
+        "title": "The Slight Edge 10th Anniversary Premium Edition 2025 - Jeff Olson",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "17 min",
+        "icon": "book",
+        "description": "The Slight Edge 10th Anniversary Premium Edition 2025: Jeff Olson's turning simple disciplines into massive success. Life-changing habits for US readers."
+    },
+    {
+        "filename": "leap-of-faith-premium-2025",
+        "title": "Leap of Faith Premium Edition 2025 - Queen Noor Jordan Memoir",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Leap of Faith Premium Edition 2025: Queen Noor's memoir of love, loss, and leadership. Life-changing courage inspiring US readers worldwide."
+    },
+    {
         "filename": "e-myth-entrepreneur-premium-2025",
         "title": "The E-Myth Entrepreneur Premium Edition 2025 - Michael Gerber Business Success",
         "category": "The Best-Selling Books",
