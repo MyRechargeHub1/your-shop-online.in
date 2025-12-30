@@ -1,5 +1,95 @@
 [
     {
+        "filename": "design-everyday-things-premium-2025",
+        "title": "The Design of Everyday Things Premium Edition 2025 - Don Norman UX Psychology",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "The Design of Everyday Things Premium Edition 2025: Don Norman's cognitive science of design and user experience. Life-changing thinking for US designers and innovators."
+    },
+    {
+        "filename": "war-on-normal-people-premium-2025",
+        "title": "The War on Normal People Premium Edition 2025 - Andrew Yang Future Economy",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "19 min",
+        "icon": "book",
+        "description": "The War on Normal People Premium Edition 2025: Andrew Yang's truth about America's disappearing jobs and universal basic income. Life-changing economics for US readers."
+    },
+    {
+        "filename": "soul-of-money-premium-2025",
+        "title": "The Soul of Money Premium Edition 2025 - Lynne Twist Sufficiency",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "17 min",
+        "icon": "book",
+        "description": "The Soul of Money Premium Edition 2025: Lynne Twist's transforming relationship with money and life. Life-changing sufficiency for US readers seeking abundance."
+    },
+    {
+        "filename": "presence-premium-edition-2025",
+        "title": "Presence Premium Edition 2025 - Amy Cuddy Personal Power",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Presence Premium Edition 2025: Dr. Amy Cuddy's guide to bringing your boldest self to biggest challenges. Life-changing confidence for US professionals."
+    },
+    {
+        "filename": "grit-to-great-premium-2025",
+        "title": "Grit to Great Premium Edition 2025 - Linda Kaplan Thaler Success",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "17 min",
+        "icon": "book",
+        "description": "Grit to Great Premium Edition 2025: Linda Kaplan Thaler's power of passion and perseverance. Life-changing determination for US achievers."
+    },
+    {
+        "filename": "bounce-premium-edition-2025",
+        "title": "Bounce Premium Edition 2025 - Matthew Syed Growth Mindset",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Bounce Premium Edition 2025: Matthew Syed's myth of talent and power of practice. Life-changing growth mindset for US students and performers."
+    },
+    {
+        "filename": "culture-code-premium-edition-2025",
+        "title": "The Culture Code Premium Edition 2025 - Daniel Coyle Team Building",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "19 min",
+        "icon": "book",
+        "description": "The Culture Code Premium Edition 2025: Daniel Coyle's secrets of highly successful groups. Life-changing team dynamics for US leaders and organizations."
+    },
+    {
+        "filename": "third-door-premium-edition-2025",
+        "title": "The Third Door Premium Edition 2025 - Alex Banayan Success Stories",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "19 min",
+        "icon": "book",
+        "description": "The Third Door Premium Edition 2025: Alex Banayan's wild quest to uncover how world's most successful launched careers. Life-changing persistence for US dreamers."
+    },
+    {
+        "filename": "extreme-ownership-premium-2025",
+        "title": "Extreme Ownership Premium Edition 2025 - Jocko Willink Navy SEAL Leadership",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "20 min",
+        "icon": "book",
+        "description": "Extreme Ownership Premium Edition 2025: Jocko Willink's Navy SEAL leadership principles for business and life. Life-changing accountability for US leaders."
+    },
+    {
+        "filename": "daily-stoic-premium-edition-2025",
+        "title": "The Daily Stoic Premium Edition 2025 - Ryan Holiday Ancient Wisdom",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "The Daily Stoic Premium Edition 2025: Ryan Holiday's 366 meditations on wisdom, perseverance, and art of living. Life-changing philosophy for US readers."
+    },
+    {
         "filename": "principles-premium-edition-2025",
         "title": "Principles Premium Edition 2025 - Ray Dalio Life and Work",
         "category": "The Best-Selling Books",
