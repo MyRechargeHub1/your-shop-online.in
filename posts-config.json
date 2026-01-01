@@ -1,5 +1,185 @@
 [
     {
+        "filename": "new-earth-premium-edition-2025",
+        "title": "A New Earth Premium Edition 2025 - Eckhart Tolle Life Purpose",
+        "category": "The Best-Selling Books",
+        "date": "December 30, 2025",
+        "read_time": "22 min",
+        "icon": "book",
+        "description": "A New Earth Premium Edition 2025: Eckhart Tolle's transformative guide to awakening your life's purpose and transcending ego-based consciousness."
+    },
+    {
+        "filename": "conversations-with-god-premium-2025",
+        "title": "Conversations with God Premium Edition 2025 - Neale Donald Walsch Divine Dialogue",
+        "category": "The Best-Selling Books",
+        "date": "December 30, 2025",
+        "read_time": "24 min",
+        "icon": "book",
+        "description": "Conversations with God Premium Edition 2025: Neale Donald Walsch's life-changing dialogue exploring love, purpose, and divine wisdom."
+    },
+    {
+        "filename": "many-lives-many-masters-premium-2025",
+        "title": "Many Lives Many Masters Premium Edition 2025 - Dr. Brian Weiss Past Life Therapy",
+        "category": "The Best-Selling Books",
+        "date": "December 30, 2025",
+        "read_time": "20 min",
+        "icon": "book",
+        "description": "Many Lives Many Masters Premium Edition 2025: Dr. Brian Weiss's groundbreaking past-life therapy revealing profound truths about life and healing."
+    },
+    {
+        "filename": "journey-of-souls-premium-2025",
+        "title": "Journey of Souls Premium Edition 2025 - Dr. Michael Newton Spirit World",
+        "category": "The Best-Selling Books",
+        "date": "December 30, 2025",
+        "read_time": "21 min",
+        "icon": "book",
+        "description": "Journey of Souls Premium Edition 2025: Dr. Michael Newton's groundbreaking research into the spirit world between lives."
+    },
+    {
+        "filename": "wherever-you-go-there-you-are-premium-2025",
+        "title": "Wherever You Go There You Are Premium Edition 2025 - Jon Kabat-Zinn Mindfulness",
+        "category": "The Best-Selling Books",
+        "date": "December 30, 2025",
+        "read_time": "19 min",
+        "icon": "book",
+        "description": "Wherever You Go There You Are Premium Edition 2025: Jon Kabat-Zinn's essential guide to mindfulness meditation in everyday life."
+    },
+    {
+        "filename": "places-that-scare-you-premium-2025",
+        "title": "The Places That Scare You Premium Edition 2025 - Pema Chodron Fearlessness",
+        "category": "The Best-Selling Books",
+        "date": "December 30, 2025",
+        "read_time": "20 min",
+        "icon": "book",
+        "description": "The Places That Scare You Premium Edition 2025: Pema Chodron's guide to facing fear and cultivating fearlessness through compassion."
+    },
+    {
+        "filename": "art-of-living-premium-2025",
+        "title": "The Art of Living Premium Edition 2025 - Thich Nhat Hanh Mindful Living",
+        "category": "The Best-Selling Books",
+        "date": "December 30, 2025",
+        "read_time": "21 min",
+        "icon": "book",
+        "description": "The Art of Living Premium Edition 2025: Thich Nhat Hanh's life-changing guide to mindful living, peace, and happiness."
+    },
+    {
+        "filename": "finding-your-own-north-star-premium-2025",
+        "title": "Finding Your Own North Star Premium Edition 2025 - Martha Beck Life Purpose",
+        "category": "The Best-Selling Books",
+        "date": "December 30, 2025",
+        "read_time": "22 min",
+        "icon": "book",
+        "description": "Finding Your Own North Star Premium Edition 2025: Martha Beck's guide to discovering your authentic path and true purpose."
+    },
+    {
+        "filename": "voice-of-knowledge-premium-2025",
+        "title": "The Voice of Knowledge Premium Edition 2025 - Don Miguel Ruiz Personal Freedom",
+        "category": "The Best-Selling Books",
+        "date": "December 30, 2025",
+        "read_time": "20 min",
+        "icon": "book",
+        "description": "The Voice of Knowledge Premium Edition 2025: Don Miguel Ruiz's guide to freedom from self-limiting beliefs and inner truth."
+    },
+    {
+        "filename": "sacred-journey-peaceful-warrior-premium-2025",
+        "title": "Sacred Journey of the Peaceful Warrior Premium Edition 2025 - Dan Millman Spiritual Path",
+        "category": "The Best-Selling Books",
+        "date": "December 30, 2025",
+        "read_time": "21 min",
+        "icon": "book",
+        "description": "Sacred Journey of the Peaceful Warrior Premium Edition 2025: Dan Millman's life-changing sequel exploring spiritual awakening."
+    },
+    {
+        "filename": "autobiography-of-a-yogi-premium-2025",
+        "title": "Autobiography of a Yogi Premium Edition 2025 - Paramahansa Yogananda Spiritual Classic",
+        "category": "The Best-Selling Books",
+        "date": "December 30, 2025",
+        "read_time": "25 min",
+        "icon": "book",
+        "description": "Autobiography of a Yogi Premium Edition 2025: Paramahansa Yogananda's life-changing spiritual classic on Self-realization."
+    },
+    {
+        "filename": "book-of-awakening-premium-2025",
+        "title": "The Book of Awakening Premium Edition 2025 - Mark Nepo Daily Wisdom",
+        "category": "The Best-Selling Books",
+        "date": "December 30, 2025",
+        "read_time": "23 min",
+        "icon": "book",
+        "description": "The Book of Awakening Premium Edition 2025: Mark Nepo's life-changing daily companion for spiritual awakening."
+    },
+    {
+        "filename": "heart-buddha-teaching-premium-2025",
+        "title": "The Heart of the Buddha's Teaching Premium Edition 2025 - Thich Nhat Hanh Buddhist Wisdom",
+        "category": "The Best-Selling Books",
+        "date": "December 30, 2025",
+        "read_time": "24 min",
+        "icon": "book",
+        "description": "The Heart of the Buddha's Teaching Premium Edition 2025: Thich Nhat Hanh's comprehensive guide to Buddhist wisdom."
+    },
+    {
+        "filename": "living-buddha-living-christ-premium-2025",
+        "title": "Living Buddha Living Christ Premium Edition 2025 - Thich Nhat Hanh Interfaith Wisdom",
+        "category": "The Best-Selling Books",
+        "date": "December 30, 2025",
+        "read_time": "22 min",
+        "icon": "book",
+        "description": "Living Buddha Living Christ Premium Edition 2025: Thich Nhat Hanh's exploration of Buddhist and Christian wisdom."
+    },
+    {
+        "filename": "creative-visualization-premium-2025",
+        "title": "Creative Visualization Premium Edition 2025 - Shakti Gawain Manifestation",
+        "category": "The Best-Selling Books",
+        "date": "December 30, 2025",
+        "read_time": "20 min",
+        "icon": "book",
+        "description": "Creative Visualization Premium Edition 2025: Shakti Gawain's guide to using imagination to create what you want."
+    },
+    {
+        "filename": "radical-forgiveness-premium-2025",
+        "title": "Radical Forgiveness Premium Edition 2025 - Colin Tipping Healing",
+        "category": "The Best-Selling Books",
+        "date": "December 30, 2025",
+        "read_time": "21 min",
+        "icon": "book",
+        "description": "Radical Forgiveness Premium Edition 2025: Colin Tipping's revolutionary approach to forgiveness and healing."
+    },
+    {
+        "filename": "prophet-illustrated-premium-2025",
+        "title": "The Prophet Illustrated Premium Edition 2025 - Kahlil Gibran Wisdom",
+        "category": "The Best-Selling Books",
+        "date": "December 30, 2025",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "The Prophet Illustrated Premium Edition 2025: Kahlil Gibran's timeless poetic wisdom on life, love, and human nature."
+    },
+    {
+        "filename": "siddhartha-premium-2025",
+        "title": "Siddhartha Premium Edition 2025 - Hermann Hesse Spiritual Journey",
+        "category": "The Best-Selling Books",
+        "date": "December 30, 2025",
+        "read_time": "19 min",
+        "icon": "book",
+        "description": "Siddhartha Premium Edition 2025: Hermann Hesse's classic spiritual journey of self-discovery and enlightenment."
+    },
+    {
+        "filename": "letters-young-poet-premium-2025",
+        "title": "Letters to a Young Poet Premium Edition 2025 - Rainer Maria Rilke Guidance",
+        "category": "The Best-Selling Books",
+        "date": "December 30, 2025",
+        "read_time": "17 min",
+        "icon": "book",
+        "description": "Letters to a Young Poet Premium Edition 2025: Rainer Maria Rilke's profound guidance on art, life, and solitude."
+    },
+    {
+        "filename": "love-yourself-life-depends-premium-2025",
+        "title": "Love Yourself Like Your Life Depends On It Premium Edition 2025 - Kamal Ravikant Self-Love",
+        "category": "The Best-Selling Books",
+        "date": "December 30, 2025",
+        "read_time": "16 min",
+        "icon": "book",
+        "description": "Love Yourself Like Your Life Depends On It Premium Edition 2025: Kamal Ravikant's transformative guide to self-love."
+    },
+    {
         "filename": "thinking-in-bets-premium-2025",
         "title": "Thinking in Bets Premium Edition 2025 - Annie Duke Decision Making",
         "category": "The Best-Selling Books",
