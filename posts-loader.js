@@ -35,6 +35,7 @@
         'Wearables': 'fa-watch',
         'Wearables 2025': 'fa-watch',
         'E-Readers': 'fa-book-reader',
+        'The Best-Selling Books': 'fa-book',
         'Streaming': 'fa-tv',
         'Smart Speaker': 'fa-circle-dot',
         'Home Robotics': 'fa-robot',
