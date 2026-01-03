@@ -1,12 +1,114 @@
-# GitHub Pages Configuration
+# Jekyll Configuration for Your Shop Online
+# Site Settings
+title: "YourShop Online - Premium Product Reviews"
+description: "Your trusted source for premium product reviews and recommendations. Amazon bestsellers, household products, children's toys, and inspirational books."
 url: "https://your-shop-online.in"
 baseurl: ""
+author: "YourShop Online Team"
 
-# Exclude files from processing
+# SEO Settings
+lang: en-US
+locale: en_US
+timezone: America/New_York
+
+# Social Media
+twitter:
+  username: yourshop
+  card: summary_large_image
+
+# Site Analytics
+google_analytics: G-EV8RGKBESY
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+permalink: /Posts/:title.html
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-redirect-from
+
+# Jekyll Sitemap Configuration
+sitemap:
+  path: sitemap.xml
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /Posts/:title.html
+
+# Defaults
+defaults:
+  - scope:
+      path: "Posts"
+      type: "posts"
+    values:
+      layout: "post"
+      sitemap: true
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      sitemap: true
+
+# Exclude from processing
 exclude:
   - README.md
   - .git
   - .gitignore
+  - node_modules
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - update-posts-system.js
+  - posts-loader.js
+  - script.js
+  - sw.js
+  - "*.md"
+
+# Include files
+include:
+  - _pages
+
+# Sass Configuration
+sass:
+  style: compressed
+  sass_dir: _sass
+
+# Compression
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
+# SEO and Social
+social:
+  name: YourShop Online
+  links:
+    - https://your-shop-online.in
 
 # Force HTTPS
 enforce_ssl: your-shop-online.in
+
+# Sitemap Generator Settings (Custom)
+sitemap_generator:
+  auto_update: true
+  source_file: posts-config.json
+  output_file: sitemap.xml
+  base_url: https://your-shop-online.in
+  homepage_priority: "1.0"
+  homepage_changefreq: "daily"
+  post_priority: "0.9"
+  post_changefreq: "monthly"
+  page_priority: "0.8"
+  page_changefreq: "monthly"
