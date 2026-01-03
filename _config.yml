@@ -59,6 +59,9 @@ defaults:
 # Exclude from processing
 exclude:
   - README.md
+  - JEKYLL-README.md
+  - TESTING-GUIDE.md
+  - POSTS-REVIEW-REPORT.md
   - .git
   - .gitignore
   - node_modules
@@ -67,15 +70,25 @@ exclude:
   - Gemfile.lock
   - package.json
   - package-lock.json
-  - update-posts-system.js
+  - update-sitemap-auto.sh
+  - jekyll-helper.sh
+  - generate-sitemap.py
+  - index-old.html
+  - test-posts-loading.html
+
+# Include files - ensure these are copied to _site during build
+include:
+  - _pages
   - posts-loader.js
   - script.js
   - sw.js
-  - "*.md"
-
-# Include files
-include:
-  - _pages
+  - pwa-install.js
+  - styles.css
+  - blog-styles.css
+  - Posts
+  - favicon.svg
+  - logo.svg
+  - manifest.json
 
 # Sass Configuration
 sass:
