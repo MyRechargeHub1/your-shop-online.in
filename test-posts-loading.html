@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Posts Loading Test - Your Shop Online</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .test-section {
+            background: white;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #667eea;
+        }
+        .status {
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        .success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        .error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+        .info {
+            background: #d1ecf1;
+            color: #0c5460;
+            border: 1px solid #bee5eb;
+        }
+        pre {
+            background: #f4f4f4;
+            padding: 15px;
+            border-radius: 4px;
+            overflow-x: auto;
+        }
+        .post-sample {
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 4px;
+        }
+        button {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            margin: 5px;
+        }
+        button:hover {
+            background: #5568d3;
+        }
+        #testResults {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>📊 Posts Loading Diagnostic Tool</h1>
+
+    <div class="test-section">
+        <h2>Test Environment</h2>
+        <div id="environment"></div>
+    </div>
+
+    <div class="test-section">
+        <h2>Quick Actions</h2>
+        <button onclick="testPostsLoading()">🔍 Test Posts Loading</button>
+        <button onclick="validateJSON()">✓ Validate JSON</button>
+        <button onclick="checkFiles()">📁 Check Files</button>
+        <button onclick="location.reload()">🔄 Refresh Page</button>
+    </div>
+
+    <div class="test-section">
+        <h2>Test Results</h2>
+        <div id="testResults">
+            <p class="info">Click "Test Posts Loading" to run diagnostics...</p>
+        </div>
+    </div>
+
+    <div class="test-section">
+        <h2>Post Samples</h2>
+        <div id="postSamples"></div>
+    </div>
+
+    <div class="test-section">
+        <h2>Troubleshooting Guide</h2>
+        <h3>Common Issues:</h3>
+        <ol>
+            <li>
+                <strong>Local File Testing (file:// protocol)</strong>
+                <div class="info">
+                    The fetch() API doesn't work with file:// protocol.
+                    You need to run a local web server.
+                </div>
+                <strong>Solutions:</strong>
+                <pre>
+# Python 3
+python3 -m http.server 8000
+
+# Python 2
+python -m SimpleHTTPServer 8000
+
+# Node.js (npx)
+npx http-server -p 8000
+
+# VS Code
+Install "Live Server" extension and click "Go Live"
+                </pre>
+                Then visit: <code>http://localhost:8000</code>
+            </li>
+            <li>
+                <strong>GitHub Pages Deployment</strong>
+                <div class="info">
+                    On GitHub Pages, posts should load automatically.
+                    If not, check the browser console for errors (F12).
+                </div>
+            </li>
+            <li>
+                <strong>CORS Issues</strong>
+                <div class="info">
+                    If seeing CORS errors, ensure files are served from the same domain.
+                </div>
+            </li>
+        </ol>
+
+        <h3>Manual Verification:</h3>
+        <ol>
+            <li>Open browser console (F12 → Console tab)</li>
+            <li>Look for errors from posts-loader.js</li>
+            <li>Check if posts-config.json loads: <code>fetch('/posts-config.json')</code></li>
+            <li>Verify 580 posts are in the JSON file</li>
+        </ol>
+    </div>
+
+    <script>
+        // Display environment info
+        function displayEnvironment() {
+            const env = document.getElementById('environment');
+            const protocol = window.location.protocol;
+            const isLocal = protocol === 'file:';
+            const isHTTP = protocol.startsWith('http');
+
+            env.innerHTML = `
+                <div class="status ${isLocal ? 'error' : 'success'}">
+                    <strong>Protocol:</strong> ${protocol}<br>
+                    <strong>Host:</strong> ${window.location.host || 'N/A (local file)'}<br>
+                    <strong>Full URL:</strong> ${window.location.href}<br>
+                    <strong>Status:</strong> ${isLocal ? '❌ File protocol detected - posts won\'t load without a server' : '✓ HTTP protocol - should work'}
+                </div>
+            `;
+        }
+
+        // Test posts loading
+        async function testPostsLoading() {
+            const results = document.getElementById('testResults');
+            results.innerHTML = '<p class="info">Running tests...</p>';
+
+            const tests = [];
+
+            // Test 1: Fetch posts-config.json
+            try {
+                const response = await fetch('/posts-config.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                }
+                const posts = await response.json();
+                tests.push(`<div class="status success">✓ Successfully fetched posts-config.json<br>Found ${posts.length} posts</div>`);
+
+                // Show sample posts
+                displayPostSamples(posts.slice(0, 5));
+            } catch (error) {
+                tests.push(`<div class="status error">✗ Failed to fetch posts-config.json<br>Error: ${error.message}</div>`);
+            }
+
+            // Test 2: Check if posts-loader.js exists
+            tests.push(`<div class="status info">ℹ Check browser console for posts-loader.js status</div>`);
+
+            // Test 3: DOM elements
+            const blogGrid = document.querySelector('.blog-grid');
+            const postCount = document.querySelector('#post-count');
+            tests.push(`<div class="status ${blogGrid ? 'success' : 'error'}">
+                ${blogGrid ? '✓' : '✗'} .blog-grid element ${blogGrid ? 'exists' : 'not found'}
+            </div>`);
+            tests.push(`<div class="status ${postCount ? 'success' : 'error'}">
+                ${postCount ? '✓' : '✗'} #post-count element ${postCount ? 'exists' : 'not found'}
+            </div>`);
+
+            results.innerHTML = tests.join('');
+        }
+
+        // Display post samples
+        function displayPostSamples(posts) {
+            const samples = document.getElementById('postSamples');
+            if (!posts || posts.length === 0) {
+                samples.innerHTML = '<p class="error">No posts found</p>';
+                return;
+            }
+
+            let html = `<p class="success">Showing ${posts.length} of 580 posts:</p>`;
+            posts.forEach((post, index) => {
+                html += `
+                    <div class="post-sample">
+                        <strong>${index + 1}. ${post.title}</strong><br>
+                        <small>
+                            📁 ${post.filename}.html |
+                            📂 ${post.category} |
+                            📅 ${post.date} |
+                            ⏱️ ${post.read_time}
+                        </small>
+                    </div>
+                `;
+            });
+            samples.innerHTML = html;
+        }
+
+        // Validate JSON
+        async function validateJSON() {
+            const results = document.getElementById('testResults');
+            results.innerHTML = '<p class="info">Validating posts-config.json...</p>';
+
+            try {
+                const response = await fetch('/posts-config.json');
+                const posts = await response.json();
+
+                // Validation checks
+                const issues = [];
+                posts.forEach((post, index) => {
+                    if (!post.filename) issues.push(`Post ${index + 1}: Missing filename`);
+                    if (!post.title) issues.push(`Post ${index + 1}: Missing title`);
+                    if (!post.category) issues.push(`Post ${index + 1}: Missing category`);
+                });
+
+                if (issues.length === 0) {
+                    results.innerHTML = `<div class="status success">
+                        ✓ JSON is valid!<br>
+                        ✓ All ${posts.length} posts have required fields
+                    </div>`;
+                } else {
+                    results.innerHTML = `<div class="status error">
+                        Found ${issues.length} validation issues:<br>
+                        ${issues.slice(0, 10).join('<br>')}
+                        ${issues.length > 10 ? '<br>...and more' : ''}
+                    </div>`;
+                }
+            } catch (error) {
+                results.innerHTML = `<div class="status error">✗ JSON validation failed: ${error.message}</div>`;
+            }
+        }
+
+        // Check files
+        async function checkFiles() {
+            const results = document.getElementById('testResults');
+            results.innerHTML = '<p class="info">Checking files...</p>';
+
+            const checks = [];
+
+            // Check posts-config.json
+            try {
+                const response = await fetch('/posts-config.json');
+                checks.push(`<div class="status success">✓ posts-config.json: ${response.ok ? 'OK' : 'Failed'}</div>`);
+            } catch (e) {
+                checks.push(`<div class="status error">✗ posts-config.json: ${e.message}</div>`);
+            }
+
+            // Check posts-loader.js
+            try {
+                const response = await fetch('/posts-loader.js');
+                checks.push(`<div class="status success">✓ posts-loader.js: ${response.ok ? 'OK' : 'Failed'}</div>`);
+            } catch (e) {
+                checks.push(`<div class="status error">✗ posts-loader.js: ${e.message}</div>`);
+            }
+
+            // Check sample post
+            try {
+                const response = await fetch('/Posts/law-of-success-leather-bound-2025.html');
+                checks.push(`<div class="status success">✓ Sample post (law-of-success...): ${response.ok ? 'OK' : 'Failed'}</div>`);
+            } catch (e) {
+                checks.push(`<div class="status error">✗ Sample post: ${e.message}</div>`);
+            }
+
+            results.innerHTML = checks.join('');
+        }
+
+        // Initialize
+        displayEnvironment();
+        console.log('📊 Diagnostic tool loaded. Click buttons to run tests.');
+    </script>
+</body>
+</html>
