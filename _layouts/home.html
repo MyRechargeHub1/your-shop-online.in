@@ -1,0 +1,112 @@
+---
+layout: default
+---
+<div class="home">
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container">
+      <h1>{{ site.title }}</h1>
+      <p class="hero-description">{{ site.description }}</p>
+    </div>
+  </section>
+
+  <!-- Featured Posts Section -->
+  <section class="blog-posts">
+    <div class="container">
+      <div class="section-header">
+        <h2>Latest Product Reviews</h2>
+        <p>Discover our latest reviews of premium products for 2025</p>
+      </div>
+
+      {% if site.data.posts-config %}
+        <div class="blog-grid">
+          {% for post in site.data.posts-config limit:12 %}
+            <article class="blog-card">
+              <a href="/Posts/{{ post.filename }}.html">
+                <div class="blog-image">
+                  <div class="blog-category">{{ post.category }}</div>
+                  <div class="blog-placeholder">
+                    <i class="fas fa-{{ post.icon | default: 'star' }}"></i>
+                  </div>
+                </div>
+              </a>
+              <div class="blog-content">
+                <div class="blog-meta">
+                  <span><i class="far fa-calendar"></i> {{ post.date }}</span>
+                  <span><i class="far fa-clock"></i> {{ post.read_time }}</span>
+                </div>
+                <h2><a href="/Posts/{{ post.filename }}.html" style="text-decoration: none; color: inherit;">{{ post.title }}</a></h2>
+                <p>{{ post.description | truncatewords: 30 }}</p>
+                <a href="/Posts/{{ post.filename }}.html" class="btn-blog">
+                  Read Full Review <i class="fas fa-arrow-right"></i>
+                </a>
+              </div>
+            </article>
+          {% endfor %}
+        </div>
+
+        <div class="view-all-section">
+          <p class="post-count-text">Showing 12 of <span id="post-count">{{ site.data.posts-config.size }}</span> reviews</p>
+          <a href="/all-posts.html" class="btn btn-primary">View All Reviews</a>
+        </div>
+      {% else %}
+        <div class="loading-message">
+          <p>Loading posts...</p>
+        </div>
+      {% endif %}
+    </div>
+  </section>
+
+  <!-- Categories Section -->
+  <section class="categories">
+    <div class="container">
+      <h2>Shop by Category</h2>
+      <div class="category-grid">
+        <a href="/category.html?cat=The Best-Selling Books" class="category-card">
+          <i class="fas fa-book"></i>
+          <h3>Books</h3>
+        </a>
+        <a href="/category.html?cat=Everyday Household Products" class="category-card">
+          <i class="fas fa-home"></i>
+          <h3>Household</h3>
+        </a>
+        <a href="/category.html?cat=Children's Toy Products" class="category-card">
+          <i class="fas fa-gamepad"></i>
+          <h3>Toys</h3>
+        </a>
+        <a href="/category.html?cat=Ladies' Dresses" class="category-card">
+          <i class="fas fa-tshirt"></i>
+          <h3>Fashion</h3>
+        </a>
+        <a href="/category.html?cat=Gaming" class="category-card">
+          <i class="fas fa-gamepad"></i>
+          <h3>Gaming</h3>
+        </a>
+        <a href="/category.html?cat=Smart Home" class="category-card">
+          <i class="fas fa-video"></i>
+          <h3>Smart Home</h3>
+        </a>
+        <a href="/category.html?cat=Kitchen Appliances" class="category-card">
+          <i class="fas fa-utensils"></i>
+          <h3>Kitchen</h3>
+        </a>
+        <a href="/category.html?cat=Audio" class="category-card">
+          <i class="fas fa-headphones"></i>
+          <h3>Audio</h3>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Newsletter Section -->
+  <section class="newsletter-section">
+    <div class="container">
+      <h2>Stay Updated</h2>
+      <p>Get the latest product reviews and deals delivered to your inbox</p>
+      <form class="newsletter-form-main" id="newsletter-form-main">
+        <input type="email" placeholder="Your email address" required>
+        <button type="submit" class="btn btn-primary">Subscribe</button>
+      </form>
+    </div>
+  </section>
+</div>
