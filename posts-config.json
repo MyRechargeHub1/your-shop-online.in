@@ -5218,5 +5218,95 @@
         "read_time": "15 min",
         "icon": "star",
         "description": "Professional countertop convection oven with precision temperature control and Wolf's legendary build quality."
+    },
+    {
+        "filename": "7-habits-highly-effective-people-premium-2025",
+        "title": "The 7 Habits of Highly Effective People Premium Edition 2025 - Stephen Covey",
+        "category": "The Best-Selling Books",
+        "date": "January 2, 2026",
+        "read_time": "20 min",
+        "icon": "book",
+        "description": "Stephen Covey's timeless principles for personal and professional effectiveness. Life-changing wisdom that has transformed millions of Americans."
+    },
+    {
+        "filename": "atomic-habits-premium-2025",
+        "title": "Atomic Habits Premium Edition 2025 - James Clear",
+        "category": "The Best-Selling Books",
+        "date": "January 2, 2026",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "James Clear's revolutionary approach to building good habits and breaking bad ones. Tiny changes that create remarkable results."
+    },
+    {
+        "filename": "cant-hurt-me-premium-2025",
+        "title": "Can't Hurt Me Premium Edition 2025 - David Goggins",
+        "category": "The Best-Selling Books",
+        "date": "January 2, 2026",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "David Goggins' incredible story of transformation and mental toughness. Master your mind and defy the odds."
+    },
+    {
+        "filename": "subtle-art-not-giving-premium-2025",
+        "title": "The Subtle Art of Not Giving a F*ck Premium Edition 2025 - Mark Manson",
+        "category": "The Best-Selling Books",
+        "date": "January 2, 2026",
+        "read_time": "17 min",
+        "icon": "book",
+        "description": "Mark Manson's counterintuitive approach to living a good life. Focus on what truly matters and let go of the rest."
+    },
+    {
+        "filename": "12-rules-for-life-premium-2025",
+        "title": "12 Rules for Life Premium Edition 2025 - Jordan Peterson",
+        "category": "The Best-Selling Books",
+        "date": "January 2, 2026",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Jordan Peterson's profound principles for finding meaning in life and navigating modern chaos. An antidote to confusion."
+    },
+    {
+        "filename": "awaken-giant-within-premium-2025",
+        "title": "Awaken the Giant Within Premium Edition 2025 - Tony Robbins",
+        "category": "The Best-Selling Books",
+        "date": "January 2, 2026",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Tony Robbins' powerful strategies for mastering your mental, emotional, physical and financial destiny."
+    },
+    {
+        "filename": "you-are-badass-premium-2025",
+        "title": "You Are a Badass Premium Edition 2025 - Jen Sincero",
+        "category": "The Best-Selling Books",
+        "date": "January 2, 2026",
+        "read_time": "17 min",
+        "icon": "book",
+        "description": "Jen Sincero's hilarious and inspiring guide to stop doubting your greatness and start living an awesome life."
+    },
+    {
+        "filename": "magic-thinking-big-premium-2025",
+        "title": "The Magic of Thinking Big Premium Edition 2025 - David Schwartz",
+        "category": "The Best-Selling Books",
+        "date": "January 2, 2026",
+        "read_time": "17 min",
+        "icon": "book",
+        "description": "David Schwartz's timeless classic on achieving extraordinary success by expanding your thinking and expectations."
+    },
+    {
+        "filename": "start-with-why-premium-2025",
+        "title": "Start with Why Premium Edition 2025 - Simon Sinek",
+        "category": "The Best-Selling Books",
+        "date": "January 2, 2026",
+        "read_time": "17 min",
+        "icon": "book",
+        "description": "Simon Sinek's groundbreaking concept of inspirational leadership. Great leaders inspire everyone to take action."
+    },
+    {
+        "filename": "mindset-premium-2025",
+        "title": "Mindset Premium Edition 2025 - Carol Dweck",
+        "category": "The Best-Selling Books",
+        "date": "January 2, 2026",
+        "read_time": "17 min",
+        "icon": "book",
+        "description": "Carol Dweck's revolutionary research on growth mindset. The new psychology of success that transforms achievement."
     }
 ]
