@@ -5308,5 +5308,95 @@
         "read_time": "17 min",
         "icon": "book",
         "description": "Carol Dweck's revolutionary research on growth mindset. The new psychology of success that transforms achievement."
+    },
+    {
+        "filename": "think-grow-rich-premium-2025",
+        "title": "Think and Grow Rich Premium Edition 2025 - Napoleon Hill",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "19 min",
+        "icon": "book",
+        "description": "Napoleon Hill's timeless classic on wealth building and success. The book that launched the personal development industry."
+    },
+    {
+        "filename": "how-win-friends-influence-people-premium-2025",
+        "title": "How to Win Friends and Influence People Premium Edition 2025 - Dale Carnegie",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "19 min",
+        "icon": "book",
+        "description": "Dale Carnegie's masterpiece on human relations and influence. Essential wisdom for building meaningful relationships."
+    },
+    {
+        "filename": "power-of-now-premium-2025",
+        "title": "The Power of Now Premium Edition 2025 - Eckhart Tolle",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Eckhart Tolle's transformative guide to spiritual enlightenment and present-moment awareness."
+    },
+    {
+        "filename": "daring-greatly-premium-2025",
+        "title": "Daring Greatly Premium Edition 2025 - Bren\u00e9 Brown",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Bren\u00e9 Brown's groundbreaking work on vulnerability, courage, and authentic living."
+    },
+    {
+        "filename": "grit-premium-2025",
+        "title": "Grit Premium Edition 2025 - Angela Duckworth",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Angela Duckworth's research-backed insights on passion, perseverance, and long-term success."
+    },
+    {
+        "filename": "5am-club-premium-2025",
+        "title": "The 5 AM Club Premium Edition 2025 - Robin Sharma",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Robin Sharma's revolutionary approach to morning routines and personal mastery."
+    },
+    {
+        "filename": "alchemist-premium-2025",
+        "title": "The Alchemist Premium Edition 2025 - Paulo Coelho",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Paulo Coelho's enchanting fable about following your dreams and personal legend."
+    },
+    {
+        "filename": "outliers-premium-2025",
+        "title": "Outliers Premium Edition 2025 - Malcolm Gladwell",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Malcolm Gladwell's fascinating exploration of what makes high achievers different."
+    },
+    {
+        "filename": "deep-work-premium-2025",
+        "title": "Deep Work Premium Edition 2025 - Cal Newport",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Cal Newport's essential guide to focused success in our distracted digital age."
+    },
+    {
+        "filename": "obstacle-is-way-premium-2025",
+        "title": "The Obstacle Is the Way Premium Edition 2025 - Ryan Holiday",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "19 min",
+        "icon": "book",
+        "description": "Ryan Holiday's Stoic philosophy for turning adversity into advantage and triumph."
     }
 ]
