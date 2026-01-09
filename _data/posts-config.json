@@ -1,5 +1,95 @@
 [
     {
+        "filename": "think-grow-rich-premium-2025",
+        "title": "Think and Grow Rich Premium Edition 2025 - Napoleon Hill's Wealth Building Classic",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "19 min",
+        "icon": "book",
+        "description": "Napoleon Hill's timeless classic on wealth building and success principles. The definitive guide that has helped millions of Americans achieve financial freedom and personal success through the power of thought."
+    },
+    {
+        "filename": "how-win-friends-influence-people-premium-2025",
+        "title": "How to Win Friends and Influence People Premium Edition 2025 - Dale Carnegie",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "19 min",
+        "icon": "book",
+        "description": "Dale Carnegie's masterpiece on human relations and communication. The book that has transformed millions of American lives by teaching timeless principles of connecting with people and building meaningful relationships."
+    },
+    {
+        "filename": "power-of-now-premium-2025",
+        "title": "The Power of Now Premium Edition 2025 - Eckhart Tolle's Spiritual Guide",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Eckhart Tolle's revolutionary guide to spiritual enlightenment and living in the present moment. A life-changing book that has helped millions of Americans find peace and purpose."
+    },
+    {
+        "filename": "daring-greatly-premium-2025",
+        "title": "Daring Greatly Premium Edition 2025 - Brené Brown's Vulnerability Guide",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Brené Brown's groundbreaking work on the power of vulnerability and courage. Transform your life by embracing imperfection and showing up authentically."
+    },
+    {
+        "filename": "grit-premium-2025",
+        "title": "Grit Premium Edition 2025 - Angela Duckworth's Perseverance Guide",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Angela Duckworth's research-backed guide to the power of passion and perseverance. Discover why grit matters more than talent for achieving success in America."
+    },
+    {
+        "filename": "5am-club-premium-2025",
+        "title": "The 5 AM Club Premium Edition 2025 - Robin Sharma's Morning Routine",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Robin Sharma's revolutionary morning routine for maximizing productivity and performance. Join millions of Americans who have transformed their lives by owning their mornings."
+    },
+    {
+        "filename": "alchemist-premium-2025",
+        "title": "The Alchemist Premium Edition 2025 - Paulo Coelho's Inspirational Fable",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Paulo Coelho's enchanting fable about following your dreams and listening to your heart. A life-changing journey that has inspired millions of American readers."
+    },
+    {
+        "filename": "outliers-premium-2025",
+        "title": "Outliers Premium Edition 2025 - Malcolm Gladwell's Success Stories",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Malcolm Gladwell's fascinating exploration of what makes high-achievers different. Discover the hidden factors behind success in America."
+    },
+    {
+        "filename": "deep-work-premium-2025",
+        "title": "Deep Work Premium Edition 2025 - Cal Newport's Focused Success Guide",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Cal Newport's rules for focused success in a distracted world. Learn how to achieve more by working deeply in today's hyper-connected America."
+    },
+    {
+        "filename": "obstacle-is-way-premium-2025",
+        "title": "The Obstacle Is the Way Premium Edition 2025 - Ryan Holiday's Stoic Guide",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "19 min",
+        "icon": "book",
+        "description": "Ryan Holiday's timeless art of turning trials into triumph using Stoic philosophy. Transform obstacles into opportunities and achieve success in America."
+    },
+    {
         "filename": "law-of-success-leather-bound-2025",
         "title": "The Law of Success Leather-Bound Complete Edition 2025 - Napoleon Hill Premium Collection",
         "category": "The Best-Selling Books",
@@ -910,12 +1000,12 @@
     },
     {
         "filename": "gifts-imperfection-10th-anniversary-premium-2025",
-        "title": "The Gifts of Imperfection 10th Anniversary Edition Premium 2025 - Bren\u00e9 Brown Courage",
+        "title": "The Gifts of Imperfection 10th Anniversary Edition Premium 2025 - Brené Brown Courage",
         "category": "The Best-Selling Books",
         "date": "December 26, 2025",
         "read_time": "18 min",
         "icon": "book",
-        "description": "The Gifts of Imperfection 10th Anniversary Premium Edition 2025: Bren\u00e9 Brown's guide to courage, compassion, and connection. Life-changing authenticity for US readers."
+        "description": "The Gifts of Imperfection 10th Anniversary Premium Edition 2025: Brené Brown's guide to courage, compassion, and connection. Life-changing authenticity for US readers."
     },
     {
         "filename": "influence-premium-edition-2025",
@@ -1072,12 +1162,12 @@
     },
     {
         "filename": "dare-to-lead-premium-2025",
-        "title": "Dare to Lead Premium Edition 2025 - Bren\u00e9 Brown Brave Leadership",
+        "title": "Dare to Lead Premium Edition 2025 - Brené Brown Brave Leadership",
         "category": "The Best-Selling Books",
         "date": "December 26, 2025",
         "read_time": "19 min",
         "icon": "book",
-        "description": "Dare to Lead Premium Edition 2025: Bren\u00e9 Brown's guide to brave work, tough conversations, and whole hearts. Life-changing leadership for US professionals."
+        "description": "Dare to Lead Premium Edition 2025: Brené Brown's guide to brave work, tough conversations, and whole hearts. Life-changing leadership for US professionals."
     },
     {
         "filename": "three-body-problem-premium-2025",
@@ -1144,12 +1234,12 @@
     },
     {
         "filename": "gifts-imperfect-parenting-premium-2025",
-        "title": "The Gifts of Imperfect Parenting Premium Edition 2025 - Bren\u00e9 Brown Raising Children",
+        "title": "The Gifts of Imperfect Parenting Premium Edition 2025 - Brené Brown Raising Children",
         "category": "The Best-Selling Books",
         "date": "December 26, 2025",
         "read_time": "18 min",
         "icon": "book",
-        "description": "The Gifts of Imperfect Parenting Premium Edition 2025: Bren\u00e9 Brown's guide to raising wholehearted children. Life-changing parenting for US families."
+        "description": "The Gifts of Imperfect Parenting Premium Edition 2025: Brené Brown's guide to raising wholehearted children. Life-changing parenting for US families."
     },
     {
         "filename": "meditations-premium-edition-2025",
@@ -1207,12 +1297,12 @@
     },
     {
         "filename": "braving-wilderness-deluxe-2025",
-        "title": "Braving the Wilderness Deluxe Edition 2025 - Bren\u00e9 Brown True Belonging",
+        "title": "Braving the Wilderness Deluxe Edition 2025 - Brené Brown True Belonging",
         "category": "The Best-Selling Books",
         "date": "December 26, 2025",
         "read_time": "18 min",
         "icon": "book",
-        "description": "Braving the Wilderness Deluxe Edition 2025: Bren\u00e9 Brown's quest for true belonging and courage to stand alone. Life-changing authenticity for US seekers."
+        "description": "Braving the Wilderness Deluxe Edition 2025: Brené Brown's quest for true belonging and courage to stand alone. Life-changing authenticity for US seekers."
     },
     {
         "filename": "lean-startup-premium-2025",
@@ -1486,12 +1576,12 @@
     },
     {
         "filename": "rising-strong-deluxe-2025",
-        "title": "Rising Strong Deluxe Edition 2025 - Bren\u00e9 Brown Resilience After Failure",
+        "title": "Rising Strong Deluxe Edition 2025 - Brené Brown Resilience After Failure",
         "category": "The Best-Selling Books",
         "date": "December 26, 2025",
         "read_time": "19 min",
         "icon": "book",
-        "description": "Rising Strong Deluxe Edition 2025: Bren\u00e9 Brown's process for getting back up after falling. Life-changing resilience for US professionals and families."
+        "description": "Rising Strong Deluxe Edition 2025: Brené Brown's process for getting back up after falling. Life-changing resilience for US professionals and families."
     },
     {
         "filename": "artists-way-premium-2025",
@@ -1513,12 +1603,12 @@
     },
     {
         "filename": "gifts-imperfection-premium-2025",
-        "title": "The Gifts of Imperfection Premium Edition 2025 - Bren\u00e9 Brown Wholehearted Living",
+        "title": "The Gifts of Imperfection Premium Edition 2025 - Brené Brown Wholehearted Living",
         "category": "The Best-Selling Books",
         "date": "December 26, 2025",
         "read_time": "18 min",
         "icon": "book",
-        "description": "The Gifts of Imperfection Premium Edition 2025: Bren\u00e9 Brown's guide to letting go of who you think you should be. Life-changing wholehearted living for US readers."
+        "description": "The Gifts of Imperfection Premium Edition 2025: Brené Brown's guide to letting go of who you think you should be. Life-changing wholehearted living for US readers."
     },
     {
         "filename": "war-of-art-premium-2025",
@@ -1531,12 +1621,12 @@
     },
     {
         "filename": "daring-greatly-deluxe-2025",
-        "title": "Daring Greatly Deluxe Edition 2025 - Bren\u00e9 Brown Vulnerability Power",
+        "title": "Daring Greatly Deluxe Edition 2025 - Brené Brown Vulnerability Power",
         "category": "The Best-Selling Books",
         "date": "December 26, 2025",
         "read_time": "19 min",
         "icon": "book",
-        "description": "Daring Greatly Deluxe Edition 2025: Bren\u00e9 Brown's revolutionary vulnerability research. Life-changing courage transformation for US leaders and families."
+        "description": "Daring Greatly Deluxe Edition 2025: Brené Brown's revolutionary vulnerability research. Life-changing courage transformation for US leaders and families."
     },
     {
         "filename": "start-with-why-premium-2025",
@@ -2089,21 +2179,21 @@
     },
     {
         "filename": "daring-greatly-premium-edition-2025",
-        "title": "Daring Greatly Premium Edition 2025 - Bren\u00e9 Brown Vulnerability Guide",
+        "title": "Daring Greatly Premium Edition 2025 - Brené Brown Vulnerability Guide",
         "category": "The Best-Selling Books",
         "date": "December 26, 2025",
         "read_time": "19 min",
         "icon": "book",
-        "description": "Daring Greatly Premium Edition 2025: Bren\u00e9 Brown's powerful guide to courage, vulnerability, and wholehearted living. Life-changing wisdom for US readers."
+        "description": "Daring Greatly Premium Edition 2025: Brené Brown's powerful guide to courage, vulnerability, and wholehearted living. Life-changing wisdom for US readers."
     },
     {
         "filename": "gifts-imperfection-illustrated-2025",
-        "title": "The Gifts of Imperfection Illustrated Edition 2025 - Bren\u00e9 Brown Self-Acceptance",
+        "title": "The Gifts of Imperfection Illustrated Edition 2025 - Brené Brown Self-Acceptance",
         "category": "The Best-Selling Books",
         "date": "December 26, 2025",
         "read_time": "16 min",
         "icon": "book",
-        "description": "The Gifts of Imperfection Illustrated Edition 2025: Bren\u00e9 Brown's guide to letting go of perfectionism and embracing authenticity. Life-changing self-acceptance for US readers."
+        "description": "The Gifts of Imperfection Illustrated Edition 2025: Brené Brown's guide to letting go of perfectionism and embracing authenticity. Life-changing self-acceptance for US readers."
     },
     {
         "filename": "start-with-why-premium-edition-2025",
@@ -2391,7 +2481,7 @@
         "date": "December 26, 2025",
         "read_time": "19 min",
         "icon": "tshirt",
-        "description": "Tulle ball gown 2025: Fairytale princess dream dress with layers of premium tulle. Perfect for proms, quincea\u00f1eras, and formal events in the US."
+        "description": "Tulle ball gown 2025: Fairytale princess dream dress with layers of premium tulle. Perfect for proms, quinceañeras, and formal events in the US."
     },
     {
         "filename": "silk-slip-dress-2025",
@@ -2764,12 +2854,12 @@
     },
     {
         "filename": "lego-technic-lamborghini-sian-2025",
-        "title": "LEGO Technic Lamborghini Si\u00e1n FKP 37 2025 - Ultimate Supercar Building Experience",
+        "title": "LEGO Technic Lamborghini Sián FKP 37 2025 - Ultimate Supercar Building Experience",
         "category": "Children's Toy Products",
         "date": "December 26, 2025",
         "read_time": "19 min",
         "icon": "car",
-        "description": "LEGO Technic Lamborghini Si\u00e1n review 2025: 3,696-piece authentic replica with working 8-speed gearbox and V12 engine. Premium building set for teens and adult LEGO fans in the US."
+        "description": "LEGO Technic Lamborghini Sián review 2025: 3,696-piece authentic replica with working 8-speed gearbox and V12 engine. Premium building set for teens and adult LEGO fans in the US."
     },
     {
         "filename": "kids-electric-ride-on-car-licensed-2025",
@@ -2886,7 +2976,7 @@
         "date": "December 26, 2025",
         "read_time": "17 min",
         "icon": "pizza-slice",
-        "description": "Ooni Koda 16 gas pizza oven review 2025: Reaches 950\u00b0F for authentic Neapolitan pizza in 60 seconds. Premium outdoor pizza oven for US backyards."
+        "description": "Ooni Koda 16 gas pizza oven review 2025: Reaches 950°F for authentic Neapolitan pizza in 60 seconds. Premium outdoor pizza oven for US backyards."
     },
     {
         "filename": "sodastream-art-sparkling-water-2025",
@@ -3637,12 +3727,12 @@
     },
     {
         "filename": "montblanc-meisterstuck-149",
-        "title": "Montblanc Meisterst\u00fcck 149  Ultimate Luxury Excellence",
+        "title": "Montblanc Meisterstück 149  Ultimate Luxury Excellence",
         "category": "Products",
         "date": "Dec 25, 2025",
         "read_time": "10 min",
         "icon": "shopping-cart",
-        "description": "Montblanc Meisterst\u00fcck 149 2025 review - Premium luxury product with exceptional build quality and professional-grade performance. The ultimate choice for discerning customers in the United States."
+        "description": "Montblanc Meisterstück 149 2025 review - Premium luxury product with exceptional build quality and professional-grade performance. The ultimate choice for discerning customers in the United States."
     },
     {
         "filename": "napoleon-prestige-500-grill-2025",
@@ -4074,7 +4164,7 @@
         "date": "December 23, 2025",
         "read_time": "20 min",
         "icon": "coffee",
-        "description": "Rocket Appartamento TCA espresso machine review 2025 - professional heat exchanger, PID temperature control, E61 group, Italian craftsmanship. Caf\u00e9-quality espresso at home for US coffee enthusiasts."
+        "description": "Rocket Appartamento TCA espresso machine review 2025 - professional heat exchanger, PID temperature control, E61 group, Italian craftsmanship. Café-quality espresso at home for US coffee enthusiasts."
     },
     {
         "filename": "sony-a7r-v-mirrorless-camera",
@@ -4281,7 +4371,7 @@
         "date": "December 5, 2025",
         "read_time": "17 min",
         "icon": "camera",
-        "description": "Arlo Ultra 2 Spotlight Camera System delivers true 4K HDR video with color night vision and 180\ufffd field of view. Is this $1,599 security system worth it? Our comprehensive 2025 review."
+        "description": "Arlo Ultra 2 Spotlight Camera System delivers true 4K HDR video with color night vision and 180� field of view. Is this $1,599 security system worth it? Our comprehensive 2025 review."
     },
     {
         "filename": "benq-sw321c-photoview-monitor",
@@ -4560,7 +4650,7 @@
         "date": "November 25, 2025",
         "read_time": "13 min",
         "icon": "wind",
-        "description": "Ninja Air Fryer Pro Review: 5-quart capacity, 400\u00b0F heat, healthier cooking with 75% less fat. Best air fryer at $119.99. Complete cooking guide included - Perfect for US shoppers."
+        "description": "Ninja Air Fryer Pro Review: 5-quart capacity, 400°F heat, healthier cooking with 75% less fat. Best air fryer at $119.99. Complete cooking guide included - Perfect for US shoppers."
     },
     {
         "filename": "roku-streaming-stick",
@@ -4803,7 +4893,7 @@
         "date": "December 3, 2024",
         "read_time": "16 min",
         "icon": "camera",
-        "description": "DJI Inspire 3 drone review - Professional cinema drone with 8K camera, 360\u00b0 obstacle avoidance, and cinema-grade features. Best professional drone for US filmmakers 2025."
+        "description": "DJI Inspire 3 drone review - Professional cinema drone with 8K camera, 360° obstacle avoidance, and cinema-grade features. Best professional drone for US filmmakers 2025."
     },
     {
         "filename": "herman-miller-eames-lounge",
@@ -4902,7 +4992,7 @@
         "date": "November 27, 2024",
         "read_time": "16 min",
         "icon": "tv",
-        "description": "LG C3 OLED 65-inch TV review with self-lit pixels, perfect blacks, 120Hz gaming, \u03b19 AI processor, and webOS 23. Best premium OLED TV 2025 - Perfect for US home theaters."
+        "description": "LG C3 OLED 65-inch TV review with self-lit pixels, perfect blacks, 120Hz gaming, α9 AI processor, and webOS 23. Best premium OLED TV 2025 - Perfect for US home theaters."
     },
     {
         "filename": "sonos-arc-soundbar",
@@ -5190,7 +5280,7 @@
         "date": "January 2, 2026",
         "read_time": "17 min",
         "icon": "star",
-        "description": "Touchscreen espresso machine with automatic milk texturing for caf\u00e9-quality drinks at home. Barista-level coffee made simple."
+        "description": "Touchscreen espresso machine with automatic milk texturing for café-quality drinks at home. Barista-level coffee made simple."
     },
     {
         "filename": "samsung-bespoke-4-door-flex-refrigerator-2025",
