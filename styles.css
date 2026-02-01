@@ -47,8 +47,10 @@ body {
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
 }
 
-.navbar.scrolled .logo img {
-    height: 35px;
+.navbar.scrolled .logo {
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px);
 }
 
 .navbar.scrolled .nav-wrapper {
@@ -69,6 +71,7 @@ body {
     font-size: 1.5rem;
     font-weight: bold;
     color: var(--primary-color);
+    transition: opacity 0.3s ease, visibility 0.3s ease, transform 0.3s ease;
 }
 
 .logo-img {
