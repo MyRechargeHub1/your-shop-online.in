@@ -1,0 +1,61 @@
+name: Auto-Update Sitemap
+
+on:
+  push:
+    branches:
+      - main
+      - claude/*
+    paths:
+      - 'posts-config.json'
+      - 'Posts/*.html'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update-sitemap:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate Sitemap
+        run: |
+          echo "Generating sitemap from posts-config.json..."
+          python3 generate-sitemap.py
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet sitemap.xml; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes to sitemap"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Sitemap has been updated"
+          fi
+
+      - name: Commit and push sitemap
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add sitemap.xml
+          git commit -m "chore: auto-update sitemap.xml [skip ci]"
+          git push
+
+      - name: Summary
+        run: |
+          if [ "${{ steps.check_changes.outputs.changed }}" == "true" ]; then
+            echo "✓ Sitemap updated and committed"
+          else
+            echo "ℹ Sitemap already up to date"
+          fi
