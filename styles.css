@@ -39,6 +39,20 @@ body {
     position: sticky;
     top: 0;
     z-index: 1000;
+    transition: all 0.3s ease;
+}
+
+.navbar.scrolled {
+    padding: 0.5rem 0;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.navbar.scrolled .logo img {
+    height: 35px;
+}
+
+.navbar.scrolled .nav-wrapper {
+    padding: 0.5rem 0;
 }
 
 .nav-wrapper {
@@ -61,6 +75,14 @@ body {
     width: 40px;
     height: 40px;
     object-fit: contain;
+    transition: all 0.3s ease;
+}
+
+.logo img {
+    height: 50px;
+    width: auto;
+    object-fit: contain;
+    transition: all 0.3s ease;
 }
 
 .nav-menu {
