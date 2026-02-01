@@ -1,5 +1,194 @@
 [
     {
+        "filename": "the-kybalion-premium-edition-2025",
+        "title": "The Kybalion Premium Edition 2025 - Ancient Hermetic Wisdom & Seven Universal Principles",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "20 min",
+        "icon": "book",
+        "description": "Discover ancient Hermetic wisdom revealing the seven universal laws governing reality. Premium edition of the mysterious philosophical masterwork that has transformed countless lives with teachings on Mentalism, Correspondence, Vibration, Polarity, Rhythm, Cause and Effect, and Gender."
+    },
+    {
+        "filename": "bhagavad-gita-premium-edition-2025",
+        "title": "Bhagavad Gita Premium Edition 2025 - Sacred Indian Scripture & Spiritual Wisdom",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "22 min",
+        "icon": "book",
+        "description": "The sacred dialogue between Krishna and Arjuna offering timeless wisdom on dharma, karma yoga, and spiritual liberation. Beautifully illustrated premium edition of India's most profound spiritual text that has guided millions toward purpose, peace, and enlightenment."
+    },
+    {
+        "filename": "power-of-your-subconscious-mind-premium-2025",
+        "title": "The Power of Your Subconscious Mind Premium Edition 2025 - Joseph Murphy's Life-Changing Classic",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "20 min",
+        "icon": "book",
+        "description": "Unlock the incredible power of your subconscious mind to transform your life. Dr. Joseph Murphy's groundbreaking work reveals practical techniques for harnessing mental power to achieve health, wealth, success, and happiness through scientifically-proven subconscious programming."
+    },
+    {
+        "filename": "return-to-love-premium-2025",
+        "title": "A Return to Love Premium Edition 2025 - Marianne Williamson's Spiritual Masterpiece",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "19 min",
+        "icon": "book",
+        "description": "Marianne Williamson's profound reflections on A Course in Miracles that awakened millions to love's transformative power. Learn to overcome fear, embrace forgiveness, and return to love as the ultimate healing force in relationships, career, and personal growth."
+    },
+    {
+        "filename": "master-key-system-premium-2025",
+        "title": "The Master Key System Premium Edition 2025 - Charles F. Haanel's Success Classic",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "21 min",
+        "icon": "book",
+        "description": "The legendary course that inspired Napoleon Hill's Think and Grow Rich. Charles F. Haanel's systematic training reveals the master key to unlock universal laws of success, abundance, and achievement through directed mental power and conscious creation."
+    },
+    {
+        "filename": "game-of-life-premium-2025",
+        "title": "The Game of Life and How to Play It Premium Edition 2025 - Florence Scovel Shinn Wisdom",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Florence Scovel Shinn's timeless teachings on the power of spoken word and spiritual law. Discover how to play life's game successfully through affirmations, visualization, and understanding the divine plan working through your experiences."
+    },
+    {
+        "filename": "dynamic-laws-of-prosperity-premium-2025",
+        "title": "The Dynamic Laws of Prosperity Premium Edition 2025 - Catherine Ponder's Abundance Guide",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "20 min",
+        "icon": "book",
+        "description": "Catherine Ponder reveals the spiritual laws governing prosperity and abundance. Learn practical techniques for attracting wealth, success, and fulfillment through positive thinking, gratitude, visualization, and understanding the universe's abundant nature."
+    },
+    {
+        "filename": "creative-mind-and-success-premium-2025",
+        "title": "Creative Mind and Success Premium Edition 2025 - Ernest Holmes's Foundational Work",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Ernest Holmes's groundbreaking exploration of mental science and success principles. Discover how your creative mind shapes reality and learn to direct thought power toward achieving your highest goals and deepest aspirations."
+    },
+    {
+        "filename": "science-of-mind-premium-2025",
+        "title": "The Science of Mind Premium Edition 2025 - Ernest Holmes's Comprehensive Guide",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "22 min",
+        "icon": "book",
+        "description": "Ernest Holmes's magnum opus presenting a complete philosophy of spiritual science. Explore the relationship between mind and spirit, learn practical techniques for spiritual treatment, and discover how to live from your highest consciousness."
+    },
+    {
+        "filename": "meditations-from-the-mat-premium-2025",
+        "title": "Meditations from the Mat Premium Edition 2025 - Rolf Gates Yoga Wisdom",
+        "category": "The Best-Selling Books",
+        "date": "January 3, 2026",
+        "read_time": "19 min",
+        "icon": "book",
+        "description": "Rolf Gates combines yoga philosophy with daily meditations for transformation. 365 days of wisdom blending ancient yogic teachings with modern mindfulness, offering practical guidance for living with intention, authenticity, and spiritual awareness."
+    },
+    {
+        "filename": "law-of-success-leather-bound-2025",
+        "title": "The Law of Success Leather-Bound Complete Edition 2025 - Napoleon Hill Premium Collection",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "20 min",
+        "icon": "book",
+        "description": "The Law of Success Leather-Bound Complete Edition 2025: Napoleon Hill's complete success principles in premium leather binding. Life-changing achievement guide for US readers."
+    },
+    {
+        "filename": "4-hour-body-premium-2025",
+        "title": "The 4-Hour Body Premium Edition 2025 - Tim Ferriss Body Optimization",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "20 min",
+        "icon": "book",
+        "description": "The 4-Hour Body Premium Edition 2025: Tim Ferriss's uncommon guide to rapid fat-loss, incredible sex, and superhuman performance. Life-changing biohacking for US health seekers."
+    },
+    {
+        "filename": "predictably-irrational-premium-2025",
+        "title": "Predictably Irrational Premium Edition 2025 - Dan Ariely Behavioral Economics",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Predictably Irrational Premium Edition 2025: Dan Ariely's hidden forces that shape our decisions. Life-changing behavioral economics for US readers."
+    },
+    {
+        "filename": "crucial-conversations-premium-2025",
+        "title": "Crucial Conversations Premium Edition 2025 - Kerry Patterson Communication",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "19 min",
+        "icon": "book",
+        "description": "Crucial Conversations Premium Edition 2025: Kerry Patterson's tools for talking when stakes are high. Life-changing communication for US professionals and families."
+    },
+    {
+        "filename": "innovators-premium-edition-2025",
+        "title": "The Innovators Premium Edition 2025 - Walter Isaacson Technology History",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "20 min",
+        "icon": "book",
+        "description": "The Innovators Premium Edition 2025: Walter Isaacson's how a group of hackers, geniuses, and geeks created digital revolution. Life-changing innovation for US tech enthusiasts."
+    },
+    {
+        "filename": "power-premium-edition-2025",
+        "title": "The Power Premium Edition 2025 - Rhonda Byrne Law of Attraction",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "17 min",
+        "icon": "book",
+        "description": "The Power Premium Edition 2025: Rhonda Byrne's guide to the greatest force in the universe. Life-changing manifestation for US readers seeking abundance."
+    },
+    {
+        "filename": "limitless-premium-edition-2025",
+        "title": "Limitless Premium Edition 2025 - Jim Kwik Brain Optimization",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "19 min",
+        "icon": "book",
+        "description": "Limitless Premium Edition 2025: Jim Kwik's upgrade your brain, learn anything faster, unlock exceptional life. Life-changing brain training for US peak performers."
+    },
+    {
+        "filename": "success-principles-expanded-premium-2025",
+        "title": "The Success Principles Expanded Edition Premium 2025 - Jack Canfield Achievement",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "20 min",
+        "icon": "book",
+        "description": "The Success Principles Expanded Edition Premium 2025: Jack Canfield's 67 principles for getting from where you are to where you want to be. Life-changing success for US achievers."
+    },
+    {
+        "filename": "contagious-premium-edition-2025",
+        "title": "Contagious Premium Edition 2025 - Jonah Berger Viral Marketing",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Contagious Premium Edition 2025: Jonah Berger's why things catch on and how to make ideas spread. Life-changing marketing for US entrepreneurs and marketers."
+    },
+    {
+        "filename": "gap-and-gain-premium-2025",
+        "title": "The Gap and The Gain Premium Edition 2025 - Dan Sullivan Mindset",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "17 min",
+        "icon": "book",
+        "description": "The Gap and The Gain Premium Edition 2025: Dan Sullivan's high achievers' guide to happiness, confidence, and powerful progress. Life-changing perspective for US entrepreneurs."
+    },
+    {
+        "filename": "who-not-how-premium-2025",
+        "title": "Who Not How Premium Edition 2025 - Dan Sullivan Collaboration",
+        "category": "The Best-Selling Books",
+        "date": "December 26, 2025",
+        "read_time": "18 min",
+        "icon": "book",
+        "description": "Who Not How Premium Edition 2025: Dan Sullivan's formula to achieve bigger goals through accelerating teamwork. Life-changing delegation for US business leaders."
+    },
+    {
         "filename": "shark-ai-ultra-robot-vacuum-2025",
         "title": "Shark AI Ultra Robot Vacuum with Self-Empty Base 2025 - Smart Cleaning",
         "category": "Everyday Household Products",
